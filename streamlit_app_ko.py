@@ -33,11 +33,25 @@ st.markdown(
 """
 )
 
+min_supported = date(2011, 1, 1)
+today = date.today()
+default_start = max(min_supported, today - timedelta(days=14))
+
 col1, col2, col3 = st.columns(3)
 with col1:
-    start = st.date_input("시작일", value=(date.today() - timedelta(days=14)))
+    start = st.date_input(
+        "시작일",
+        value=default_start,
+        min_value=min_supported,
+        max_value=today,
+    )
 with col2:
-    end = st.date_input("종료일", value=date.today())
+    end = st.date_input(
+        "종료일",
+        value=today,
+        min_value=min_supported,
+        max_value=today,
+    )
 with col3:
     method = st.selectbox("수집 방법", options=["both", "feed", "archive"], index=0)
 
@@ -125,4 +139,3 @@ if st.button("수집 실행", type="primary"):
     st.download_button("🧰 JSONL 다운로드", jsonl, file_name=f"pola_retradio_{start}_{end}.jsonl", mime="application/json")
 else:
     st.info("시작일·종료일을 선택한 뒤 ‘수집 실행’을 클릭하세요.")
-

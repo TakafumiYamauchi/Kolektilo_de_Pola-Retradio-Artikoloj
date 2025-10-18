@@ -30,11 +30,25 @@ st.markdown("""
 - **配慮**: robots.txt・低負荷・人間 UA、遅延（throttle）
 """)
 
+min_supported = date(2011, 1, 1)
+today = date.today()
+default_start = max(min_supported, today - timedelta(days=14))
+
 col1, col2, col3 = st.columns(3)
 with col1:
-    start = st.date_input("開始日", value=(date.today() - timedelta(days=14)))
+    start = st.date_input(
+        "開始日",
+        value=default_start,
+        min_value=min_supported,
+        max_value=today,
+    )
 with col2:
-    end = st.date_input("終了日", value=date.today())
+    end = st.date_input(
+        "終了日",
+        value=today,
+        min_value=min_supported,
+        max_value=today,
+    )
 with col3:
     method = st.selectbox("収集方法", options=["both","feed","archive"], index=0)
 
