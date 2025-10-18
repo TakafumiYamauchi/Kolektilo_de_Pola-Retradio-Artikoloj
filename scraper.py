@@ -7,8 +7,10 @@ CLI ツール：指定期間に公開された Pola Retradio の記事 URL と�
 import argparse
 import os
 import time
+from collections import OrderedDict
+from dataclasses import replace
 from datetime import datetime, date, timedelta
-from typing import List
+from typing import List, Dict, Tuple
 
 from retradio_lib import ScrapeConfig, collect_urls, fetch_article, export_all, _session
 
@@ -24,7 +26,33 @@ def parse_args():
     p.add_argument("--max-pages", type=int, default=None, help="ページ送りの最大回数（Noneは制限なし）")
     p.add_argument("--include-audio", action="store_true", help="本文メタに MP3 等の音声リンクも含める")
     p.add_argument("--no-cache", action="store_true", help="requests-cache を使わない")
+    p.add_argument(
+        "--split-by",
+        choices=["none", "year", "month"],
+        default="none",
+        help="大きな期間を扱う際に出力ファイルを年別または月別で分割",
+    )
     return p.parse_args()
+
+
+def _group_articles(articles, mode: str) -> List[Tuple[str, list]]:
+    if mode == "none":
+        return [("all", articles)]
+
+    groups: Dict[str, List] = OrderedDict()
+    for art in articles:
+        if art.published:
+            d = art.published.date()
+            if mode == "year":
+                key = f"{d.year}"
+            else:
+                key = f"{d.year}-{d.month:02d}"
+        else:
+            key = "unknown"
+        if key not in groups:
+            groups[key] = []
+        groups[key].append(art)
+    return list(groups.items())
 
 def main():
     args = parse_args()
@@ -99,9 +127,26 @@ def main():
         for failed in failures:
             print(f"  - {failed}")
 
-    paths = export_all(arts, cfg, args.out)
-    for k, p in paths.items():
-        print(f"[DONE] {k.upper()}: {p}")
+    groups = _group_articles(arts, args.split_by)
+    if args.split_by == "none":
+        paths = export_all(arts, cfg, args.out)
+        for k, p in paths.items():
+            print(f"[DONE] {k.upper()}: {p}")
+    else:
+        os.makedirs(args.out, exist_ok=True)
+        for label, subset in groups:
+            if not subset:
+                continue
+            dates = [a.published.date() for a in subset if a.published]
+            chunk_start = min(dates) if dates else cfg.start_date
+            chunk_end = max(dates) if dates else cfg.end_date
+            chunk_cfg = replace(cfg, start_date=chunk_start, end_date=chunk_end)
+            safe_label = label.replace("/", "-")
+            basename = f"pola_retradio_{safe_label}"
+            print(f"[INFO] 書き出し中: {label} ({len(subset)} 本, {chunk_start} ～ {chunk_end})")
+            paths = export_all(subset, chunk_cfg, args.out, basename=basename)
+            for k, p in paths.items():
+                print(f"[DONE] {label} {k.upper()}: {p}")
 
 if __name__ == "__main__":
     main()

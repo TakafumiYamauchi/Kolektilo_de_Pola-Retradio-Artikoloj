@@ -9,3 +9,6 @@ env/
 retradio_cache.sqlite
 output/
 __pycache__/
+*.zip
+*.Zone.Identifier
+*Zone.Identifier
