@@ -12,7 +12,7 @@ from dataclasses import replace
 from datetime import datetime, date, timedelta
 from typing import List, Dict, Tuple
 
-from retradio_lib import ScrapeConfig, collect_urls, fetch_article, export_all, _session
+from retradio_lib import ScrapeConfig, collect_urls, fetch_article, export_all, _session, set_progress_callback
 
 def parse_args():
     p = argparse.ArgumentParser(description="Pola Retradio 期間指定スクレイパー")
@@ -21,7 +21,7 @@ def parse_args():
     p.add_argument("--days", type=int, help="終了日から遡った直近N日間を収集（--end 未指定時は今日を終了日にします）")
     p.add_argument("--out", default="output", help="書き出し先ディレクトリ")
     p.add_argument("--base-url", default="https://pola-retradio.org", help="対象サイトのベース URL")
-    p.add_argument("--method", default="both", choices=["feed","archive","both"], help="URL収集方法")
+    p.add_argument("--method", default="auto", choices=["auto","rest","both","feed","archive"], help="URL収集方法（auto は REST API 優先で失敗時にフォールバック）")
     p.add_argument("--throttle", type=float, default=1.0, help="1リクエスト毎の遅延秒数")
     p.add_argument("--max-pages", type=int, default=None, help="ページ送りの最大回数（Noneは制限なし）")
     p.add_argument("--include-audio", action="store_true", help="本文メタに MP3 等の音声リンクも含める")
@@ -85,12 +85,27 @@ def main():
         use_cache=not args.no_cache
     )
 
+    set_progress_callback(lambda msg: print(msg))
     print(f"[INFO] URL 収集中: {cfg.start_date} ～ {cfg.end_date} ({cfg.method})")
     timer_start = time.perf_counter()
     result = collect_urls(cfg)
     timer_after_collect = time.perf_counter()
     urls = result.urls
-    print(f"[INFO] 候補 URL: {result.total} 件 (feed {result.feed_used}/{result.feed_initial}, archive {result.archive_used}/{result.archive_initial}, duplicates removed {result.duplicates_removed}, out-of-range skipped {result.out_of_range_skipped})")
+    print(
+        "[INFO] 候補 URL: {total} 件 "
+        "(rest {rest_used}/{rest_initial}, feed {feed_used}/{feed_initial}, archive {archive_used}/{archive_initial}, "
+        "duplicates removed {dups}, out-of-range skipped {skipped})".format(
+            total=result.total,
+            rest_used=result.rest_used,
+            rest_initial=result.rest_initial,
+            feed_used=result.feed_used,
+            feed_initial=result.feed_initial,
+            archive_used=result.archive_used,
+            archive_initial=result.archive_initial,
+            dups=result.duplicates_removed,
+            skipped=result.out_of_range_skipped,
+        )
+    )
     if result.earliest_date and result.latest_date:
         print(f"[INFO] URL 範囲（推定公開日）: {result.earliest_date} ～ {result.latest_date}")
 

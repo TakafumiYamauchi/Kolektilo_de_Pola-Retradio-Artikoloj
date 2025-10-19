@@ -50,7 +50,12 @@ with col2:
         max_value=today,
     )
 with col3:
-    method = st.selectbox("収集方法", options=["both","feed","archive"], index=0)
+    method = st.selectbox(
+        "収集方法",
+        options=["auto", "rest", "both", "feed", "archive"],
+        index=0,
+        help="auto は REST API を優先し、利用できない場合は他方式にフォールバックします。"
+    )
 
 throttle = st.slider("リクエスト間隔（秒）", min_value=0.0, max_value=5.0, value=1.0, step=0.1)
 max_pages = st.number_input("ページ送りの上限（None=制限なし）", min_value=0, value=0, step=1)
@@ -67,8 +72,9 @@ if st.button("収集を実行する", type="primary"):
     urls = result.urls
     st.success(f"候補 URL: {result.total} 件")
     st.caption(
-        f"feed {result.feed_used}/{result.feed_initial}, archive {result.archive_used}/{result.archive_initial}, "
-        f"duplicates removed {result.duplicates_removed}, out-of-range skipped {result.out_of_range_skipped}"
+        f"rest {result.rest_used}/{result.rest_initial}, feed {result.feed_used}/{result.feed_initial}, "
+        f"archive {result.archive_used}/{result.archive_initial}, duplicates removed {result.duplicates_removed}, "
+        f"out-of-range skipped {result.out_of_range_skipped}"
     )
     if result.earliest_date and result.latest_date:
         st.caption(f"推定公開日範囲: {result.earliest_date} ～ {result.latest_date}")

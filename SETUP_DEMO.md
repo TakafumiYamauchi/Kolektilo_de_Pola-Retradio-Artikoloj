@@ -52,7 +52,7 @@ python scraper.py --start 2025-10-15 --end 2025-10-17 --out output --throttle 2.
 - `--start YYYY-MM-DD`: 開始日（必須）
 - `--end YYYY-MM-DD`: 終了日（必須）
 - `--out DIR`: 出力ディレクトリ（デフォルト: output）
-- `--method both|feed|archive`: 収集方法（デフォルト: both）
+- `--method auto|rest|both|feed|archive`: 収集方法（デフォルト: auto。REST API を優先し、利用できない場合は従来方式に自動フォールバック）
 - `--throttle SECONDS`: リクエスト間隔（秒）（デフォルト: 1.0）
 - `--max-pages N`: ページ送りの最大回数
 - `--include-audio`: MP3等の音声リンクも記録
@@ -93,7 +93,7 @@ streamlit run streamlit_app.py --server.port=8502
 #### 操作方法
 
 1. **開始日**と**終了日**を選択
-2. **収集方法**を選択（both/feed/archive）
+2. **収集方法**を選択（auto/rest/both/feed/archive）
 3. **リクエスト間隔**を設定（推奨: 1.0秒以上）
 4. 「収集を実行する」ボタンをクリック
 5. テーブル形式で結果を確認

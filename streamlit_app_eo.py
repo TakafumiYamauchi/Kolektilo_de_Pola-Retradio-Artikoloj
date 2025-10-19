@@ -53,7 +53,12 @@ with col2:
         max_value=today,
     )
 with col3:
-    method = st.selectbox("Kolekta metodo", options=["both", "feed", "archive"], index=0)
+    method = st.selectbox(
+        "Kolekta metodo",
+        options=["auto", "rest", "both", "feed", "archive"],
+        index=0,
+        help="auto unue uzas la REST-API-on kaj se tio malsukcesas, aŭtomate refalas al aliaj metodoj."
+    )
 
 throttle = st.slider("Interspaco inter petoj (sek.)", min_value=0.0, max_value=5.0, value=1.0, step=0.1)
 max_pages = st.number_input("Limigo de paĝonumerado (None = senlima)", min_value=0, value=0, step=1)
@@ -74,8 +79,9 @@ if st.button("Ekzekuti la kolekton", type="primary"):
     urls = result.urls
     st.success(f"Kandidat-URL-oj: {result.total}")
     st.caption(
-        f"feed {result.feed_used}/{result.feed_initial}, archive {result.archive_used}/{result.archive_initial}, "
-        f"forigitaj duplikatoj {result.duplicates_removed}, ekskluditaj ekster periodo {result.out_of_range_skipped}"
+        f"rest {result.rest_used}/{result.rest_initial}, feed {result.feed_used}/{result.feed_initial}, "
+        f"archive {result.archive_used}/{result.archive_initial}, forigitaj duplikatoj {result.duplicates_removed}, "
+        f"ekskluditaj ekster periodo {result.out_of_range_skipped}"
     )
     if result.earliest_date and result.latest_date:
         st.caption(f"Proksimuma intervalo de publikigo: {result.earliest_date} – {result.latest_date}")

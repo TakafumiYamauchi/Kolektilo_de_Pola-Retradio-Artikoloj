@@ -53,7 +53,12 @@ with col2:
         max_value=today,
     )
 with col3:
-    method = st.selectbox("수집 방법", options=["both", "feed", "archive"], index=0)
+    method = st.selectbox(
+        "수집 방법",
+        options=["auto", "rest", "both", "feed", "archive"],
+        index=0,
+        help="auto는 REST API를 우선 사용하고 실패 시 다른 방식으로 자동 전환합니다."
+    )
 
 throttle = st.slider("요청 간 간격(초)", min_value=0.0, max_value=5.0, value=1.0, step=0.1)
 max_pages = st.number_input("페이지 넘김 상한(None=제한 없음)", min_value=0, value=0, step=1)
@@ -74,8 +79,9 @@ if st.button("수집 실행", type="primary"):
     urls = result.urls
     st.success(f"후보 URL: {result.total}건")
     st.caption(
-        f"feed {result.feed_used}/{result.feed_initial}, archive {result.archive_used}/{result.archive_initial}, "
-        f"중복 제거 {result.duplicates_removed}, 기간 외 제외 {result.out_of_range_skipped}"
+        f"rest {result.rest_used}/{result.rest_initial}, feed {result.feed_used}/{result.feed_initial}, "
+        f"archive {result.archive_used}/{result.archive_initial}, 중복 제거 {result.duplicates_removed}, "
+        f"기간 외 제외 {result.out_of_range_skipped}"
     )
     if result.earliest_date and result.latest_date:
         st.caption(f"추정 공개일 범위: {result.earliest_date} ~ {result.latest_date}")

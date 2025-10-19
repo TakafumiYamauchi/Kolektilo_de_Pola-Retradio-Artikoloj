@@ -24,8 +24,8 @@ import sys
 import html
 import logging
 from dataclasses import dataclass, asdict
-from typing import Iterable, List, Optional, Dict, Tuple, Set
-from urllib.parse import urljoin, urlparse
+from typing import Iterable, List, Optional, Dict, Tuple, Set, Callable
+from urllib.parse import urljoin, urlparse, urlencode
 
 # --- third-party ---
 try:
@@ -43,14 +43,16 @@ from datetime import datetime, timedelta, date
 
 __all__ = [
     "ScrapeConfig", "Article", "URLCollectionResult", "collect_urls",
-    "collect_from_feed", "collect_from_archives",
-    "fetch_article", "export_all"
+    "collect_from_feed", "collect_from_archives", "collect_from_rest",
+    "fetch_article", "export_all", "set_progress_callback"
 ]
 
 USER_AGENT = "Mozilla/5.0 (compatible; PolaRetradioScraper/1.0; +https://pola-retradio.org)"
 
 MONTHS_EO = ["januaro","februaro","marto","aprilo","majo","junio","julio","aŭgusto","septembro","oktobro","novembro","decembro"]
-SOURCE_PRIORITY = {"feed": 2, "archive": 1}
+SOURCE_PRIORITY = {"rest": 3, "feed": 2, "archive": 1}
+
+_PROGRESS_CB: Optional[Callable[[str], None]] = None
 
 @dataclass
 class ScrapeConfig:
@@ -59,7 +61,7 @@ class ScrapeConfig:
     end_date: date = date.today()
     throttle_sec: float = 1.0
     max_pages: Optional[int] = None  # feedやアーカイブのページ送り最大数（Noneは制限なし）
-    method: str = "both"             # "feed" | "archive" | "both"
+    method: str = "auto"             # "feed" | "archive" | "both" | "rest" | "auto"
     categories: Optional[List[str]] = None  # 未使用（将来拡張）
     timezone: str = "Europe/Warsaw"  # 公開日時のタイムゾーン想定
     use_cache: bool = True           # requests-cache を使える場合は使用
@@ -76,8 +78,22 @@ class ScrapeConfig:
         if self.end_date < self.start_date:
             raise ValueError("end_date は start_date 以降である必要があります")
         self.method = self.method.lower()
-        if self.method not in ("feed", "archive", "both"):
-            raise ValueError("method は 'feed' | 'archive' | 'both' のいずれかです")
+        if self.method not in ("feed", "archive", "both", "rest", "auto"):
+            raise ValueError("method は 'feed' | 'archive' | 'both' | 'rest' | 'auto' のいずれかです")
+
+
+def set_progress_callback(func: Optional[Callable[[str], None]]) -> None:
+    """スクレイプ進捗を通知するコールバックを登録する。"""
+    global _PROGRESS_CB
+    _PROGRESS_CB = func
+
+
+def _progress(msg: str) -> None:
+    if _PROGRESS_CB:
+        try:
+            _PROGRESS_CB(msg)
+        except Exception:
+            logging.getLogger(__name__).debug("progress callback failed", exc_info=True)
 
 
 @dataclass
@@ -118,8 +134,10 @@ class URLCollectionResult:
     urls: List[str]
     feed_initial: int
     archive_initial: int
+    rest_initial: int
     feed_used: int
     archive_used: int
+    rest_used: int
     duplicates_removed: int
     out_of_range_skipped: int
     earliest_date: Optional[date]
@@ -249,6 +267,25 @@ def month_range(start_d: date, end_d: date) -> List[Tuple[int, int]]:
     return out
 
 
+def _parse_wp_datetime(value: Optional[str], tz_name: Optional[str] = None) -> Optional[datetime]:
+    if not value:
+        return None
+    value = value.strip()
+    if not value:
+        return None
+    if value.endswith("Z"):
+        value = value[:-1] + "+00:00"
+    try:
+        dt = datetime.fromisoformat(value)
+    except ValueError:
+        return _parse_date_any(value)
+    if dt.tzinfo is None and tz_name:
+        tzinfo = tz.gettz(tz_name)
+        if tzinfo:
+            dt = dt.replace(tzinfo=tzinfo)
+    return dt
+
+
 def collect_from_feed(cfg: ScrapeConfig, s: Optional[requests.Session] = None) -> List[Tuple[str, Optional[datetime]]]:
     """WordPress フィード /feed/?paged=N をたどって URL と日付を収集。"""
     s = s or _session(cfg)
@@ -263,6 +300,7 @@ def collect_from_feed(cfg: ScrapeConfig, s: Optional[requests.Session] = None) -
         return f"{base_feed}?paged={n}"
 
     page = 1
+    _progress("[FEED] 取得開始")
     while True:
         if cfg.max_pages and page > cfg.max_pages:
             break
@@ -274,6 +312,7 @@ def collect_from_feed(cfg: ScrapeConfig, s: Optional[requests.Session] = None) -
         if not parsed.entries:
             break
         stop_due_to_date = False
+        added_this_page = 0
         for e in parsed.entries:
             link = html.unescape(e.get("link") or e.get("id") or "").strip()
             if not link or link in seen:
@@ -332,6 +371,8 @@ def collect_from_feed(cfg: ScrapeConfig, s: Optional[requests.Session] = None) -
             )
             results.append((link, dt))
             seen.add(link)
+            added_this_page += 1
+        _progress(f"[FEED] page {page}: 取得 {added_this_page} 件 (累計 {len(results)})")
         # 範囲外まで到達したと判断できる場合は終了
         if stop_due_to_date and all((dt and dt.date() < cfg.start_date) for _, dt in results[-min(len(parsed.entries), 20):] if dt):
             break
@@ -375,6 +416,7 @@ def collect_from_archives(cfg: ScrapeConfig, s: Optional[requests.Session] = Non
         base = f"{cfg.base_url}/{yyyy:04d}/{mm:02d}/"
         page_url = base
         page_idx = 1
+        _progress(f"[ARCHIVE] {yyyy}-{mm:02d} 収集開始")
         while True:
             if cfg.max_pages and page_idx > cfg.max_pages:
                 break
@@ -403,6 +445,7 @@ def collect_from_archives(cfg: ScrapeConfig, s: Optional[requests.Session] = Non
                 out.append((link, dt))
                 seen.add(link)
 
+            _progress(f"[ARCHIVE] {yyyy}-{mm:02d} page {page_idx}: 候補 {len(candidates)} 件 (累計 {len(out)})")
             # 次ページ探索
             next_url = _find_next_page_url(soup, cfg.base_url)
             if not next_url or (f"/{yyyy:04d}/{mm:02d}/" not in next_url):
@@ -414,6 +457,102 @@ def collect_from_archives(cfg: ScrapeConfig, s: Optional[requests.Session] = Non
     return out
 
 
+def collect_from_rest(cfg: ScrapeConfig, s: Optional[requests.Session] = None) -> List[Tuple[str, Optional[datetime]]]:
+    """
+    WordPress REST API (wp-json/wp/v2/posts) から期間内の記事一覧を高速に取得する。
+    """
+    s = s or _session(cfg)
+    endpoint = urljoin(cfg.base_url, "/wp-json/wp/v2/posts")
+    per_page = 100
+    params = {
+        "per_page": per_page,
+        "orderby": "date",
+        "order": "asc",
+        "after": datetime.combine(cfg.start_date, datetime.min.time()).isoformat(),
+        "before": datetime.combine(cfg.end_date, datetime.max.time()).isoformat(),
+        "_embed": "author,wp:term",
+    }
+    results: List[Tuple[str, Optional[datetime]]] = []
+    seen: Set[str] = set()
+    total_pages_reported: Optional[int] = None
+    total_items_reported: Optional[int] = None
+    _progress(f"[REST] 取得開始: {params['after']} ～ {params['before']}")
+    page = 1
+    while True:
+        params["page"] = page
+        query = urlencode(params, doseq=True)
+        url = f"{endpoint}?{query}"
+        resp = _get(s, url, cfg)
+        if resp.status_code == 400 and "rest_post_invalid_page_number" in resp.text:
+            break
+        if resp.status_code >= 400:
+            resp.raise_for_status()
+        if total_pages_reported is None:
+            try:
+                total_pages_reported = int(resp.headers.get("X-WP-TotalPages"))
+            except (TypeError, ValueError):
+                total_pages_reported = None
+            try:
+                total_items_reported = int(resp.headers.get("X-WP-Total"))
+            except (TypeError, ValueError):
+                total_items_reported = None
+            if total_items_reported is not None:
+                _progress(f"[REST] 総投稿見込み: {total_items_reported} 件 / 推定ページ数 {total_pages_reported or '?'}")
+        payload = resp.json()
+        if not payload:
+            break
+        added_this_page = 0
+        for item in payload:
+            link = html.unescape(item.get("link") or "").strip()
+            if not link or link in seen:
+                continue
+            dt = _parse_wp_datetime(item.get("date_gmt"), "UTC") or _parse_wp_datetime(item.get("date"), cfg.timezone)
+            if dt and dt.tzinfo and cfg.timezone:
+                tzinfo = tz.gettz(cfg.timezone)
+                if tzinfo:
+                    dt = dt.astimezone(tzinfo)
+            title_raw = item.get("title", {}).get("rendered", "")
+            title = html.unescape(title_raw).strip() or None
+            content_html = item.get("content", {}).get("rendered")
+            summary_html = item.get("excerpt", {}).get("rendered")
+            author_name = None
+            embedded = item.get("_embedded") or {}
+            for author in embedded.get("author") or []:
+                name = html.unescape(author.get("name", "")).strip()
+                if name:
+                    author_name = name
+                    break
+            categories: List[str] = []
+            for term_group in embedded.get("wp:term") or []:
+                if not term_group:
+                    continue
+                for term in term_group:
+                    if term.get("taxonomy") == "category":
+                        name = html.unescape(term.get("name", "")).strip()
+                        if name:
+                            categories.append(name)
+            categories = sorted({c for c in categories if c})
+            entry = FeedEntryData(
+                url=link,
+                title=title,
+                published=dt,
+                author=author_name,
+                categories=categories,
+                content_html=content_html,
+                summary_html=summary_html,
+            )
+            _FEED_ENTRY_CACHE[link] = entry
+            results.append((link, dt))
+            seen.add(link)
+            added_this_page += 1
+        _progress(f"[REST] page {page}{f'/{total_pages_reported}' if total_pages_reported else ''}: {added_this_page} 件 (累計 {len(results)})")
+        if total_pages_reported and page >= total_pages_reported:
+            break
+        page += 1
+        time.sleep(cfg.throttle_sec)
+    return results
+
+
 def collect_urls(cfg: ScrapeConfig) -> URLCollectionResult:
     """
     cfg.method に従って URL 一覧を返す（重複排除 + 統計情報付き）。
@@ -421,18 +560,38 @@ def collect_urls(cfg: ScrapeConfig) -> URLCollectionResult:
     cfg.normalize()
     s = _session(cfg)
     global _FEED_ENTRY_CACHE
-    if cfg.method in ("feed", "both"):
+    if cfg.method in ("feed", "both", "archive", "rest", "auto"):
         _FEED_ENTRY_CACHE.clear()
 
     feed_items: List[Tuple[str, Optional[datetime]]] = []
     archive_items: List[Tuple[str, Optional[datetime]]] = []
+    rest_items: List[Tuple[str, Optional[datetime]]] = []
+    rest_success = False
 
-    if cfg.method in ("feed", "both"):
-        feed_items = collect_from_feed(cfg, s)
-    if cfg.method in ("archive", "both"):
-        archive_items = collect_from_archives(cfg, s)
+    if cfg.method in ("rest", "auto"):
+        try:
+            rest_items = collect_from_rest(cfg, s)
+            rest_success = True
+        except Exception as exc:
+            logging.getLogger(__name__).warning("REST API 取得に失敗しました: %s", exc, exc_info=True)
+            _progress(f"[WARN] REST API 取得失敗: {exc}")
+            if cfg.method == "rest":
+                raise
+
+    if cfg.method == "rest":
+        feed_items = []
+        archive_items = []
+    elif cfg.method == "auto" and rest_success:
+        feed_items = []
+        archive_items = []
+    else:
+        if cfg.method in ("feed", "both", "auto"):
+            feed_items = collect_from_feed(cfg, s)
+        if cfg.method in ("archive", "both", "auto"):
+            archive_items = collect_from_archives(cfg, s)
 
     combined: List[Tuple[str, Optional[datetime], str]] = []
+    combined.extend((u, dt, "rest") for u, dt in rest_items)
     combined.extend((u, dt, "feed") for u, dt in feed_items)
     combined.extend((u, dt, "archive") for u, dt in archive_items)
 
@@ -474,6 +633,7 @@ def collect_urls(cfg: ScrapeConfig) -> URLCollectionResult:
     latest_date: Optional[date] = None
     feed_used = 0
     archive_used = 0
+    rest_used = 0
 
     for original_url, dt, source in uniq.values():
         if dt:
@@ -505,13 +665,17 @@ def collect_urls(cfg: ScrapeConfig) -> URLCollectionResult:
             feed_used += 1
         elif source == "archive":
             archive_used += 1
+        elif source == "rest":
+            rest_used += 1
 
     return URLCollectionResult(
         urls=urls,
         feed_initial=len(feed_items),
         archive_initial=len(archive_items),
+        rest_initial=len(rest_items),
         feed_used=feed_used,
         archive_used=archive_used,
+        rest_used=rest_used,
         duplicates_removed=duplicates_removed,
         out_of_range_skipped=out_of_range,
         earliest_date=earliest_date,

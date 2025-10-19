@@ -11,6 +11,7 @@ Pola Retradio（ポーラ・レトラディオ）公式サイトに掲載され�
 ## 主な特徴
 
 - ✅ **期間指定での完全収集**：RSS/Feed と **月別アーカイブ**の HTML を併用して URL を洗い出し、取りこぼしを最小化。
+- ⚡ **REST API による高速収集**：`--method auto`（既定値）が WordPress REST API を優先して使い、利用できない場合のみ従来方式にフォールバック。2011年～現在までの長期間でも初期 URL 収集が大幅に短縮され、進捗ログも逐次表示。
 - ✅ **本文抽出に最適化**：WordPress + Elegant Themes 系の構造に合わせ、本文（エスペラント）だけを丁寧に抽出。
 - ✅ **複数の出力形式**：Markdown / TXT / CSV / JSONL を同時に出力。
 - ✅ **低負荷＆安定運用**：User-Agent 明示・遅延（throttle）・HTTP リトライ・オプションのキャッシュに対応。
@@ -31,7 +32,7 @@ Pola Retradio（ポーラ・レトラディオ）公式サイトに掲載され�
    ```bash
    python scraper.py --start 2025-10-01 --end 2025-10-15 --out output
    ```
-   - URL 収集方式は `--method both`（既定）、`feed`、`archive` から選べます。
+   - URL 収集方式は `--method auto`（既定）、`rest`、`both`、`feed`、`archive` から選べます。
    - 1 リクエストごとの間隔は `--throttle`（秒、既定は 1.0）。
    - MP3 などの音声リンクも記録したい場合は `--include-audio`。
    - `--days 30` のように指定すると「終了日から過去30日分」を簡単に取得できます（`--end` を省略した場合は今日が終了日になります）。
@@ -82,6 +83,7 @@ Pola Retradio（ポーラ・レトラディオ）公式サイトに掲載され�
 
 ## 抽出の仕組み（確実性を高める工夫）
 
+- **REST API**：`/wp-json/wp/v2/posts` を期間条件（after/before）付きで呼び出し、1ページ最大100件ずつ高速に取得。得られた本文 HTML はキャッシュして後続の本文取得を省略します。
 - **RSS フィード**：`/feed/?paged=N` を自動でたどり、アイテムの公開日とリンクを収集します。
 - フィードから取得できる `content:encoded` を優先的に利用し、十分な本文がある場合はページ本体へのアクセスを省略します（公開日が範囲外のときのみページにアクセスして再確認）。
 - **月別アーカイブ**：`/YYYY/MM/` を **月ごと** に巡回し、必要があれば `page/2/` 以降も追跡します。
@@ -98,6 +100,7 @@ Pola Retradio（ポーラ・レトラディオ）公式サイトに掲載され�
 - `--no-cache`   ：HTTP キャッシュ（requests-cache）を使わない。
 - `--include-audio`：本文のメタに `mp3` 等の音声リンクも併記。
 - `--split-by {none,year,month}`：長期間を扱うときに出力ファイルを分割（デフォルトは `none`）。
+- `--method {auto,rest,both,feed,archive}`：URL 収集方式を選択。`auto` は REST API を優先し、失敗時のみ従来方式にフォールバックします。
 - 生成物の並び順は **公開日**（不明な場合は URL）でソート。
 
 ---
