@@ -1,16 +1,12 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls:*)",
-      "Bash(rm:*)",
-      "Bash(find:*)",
-      "Bash(git reset:*)",
-      "Bash(git pull:*)",
-      "Bash(git gc:*)",
-      "Bash(git fsck:*)",
-      "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(lsof -i :1455)",
+      "Bash(netstat -tuln)",
+      "Bash(codex login --help)",
+      "Bash(codex --help)"
     ],
-    "deny": []
+    "deny": [],
+    "ask": []
   }
 }

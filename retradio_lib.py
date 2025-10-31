@@ -69,6 +69,11 @@ class ScrapeConfig:
     max_retries: int = 3             # HTTP リトライ回数
     respect_robots: bool = True      # robots.txt の遵守（requestsでは変化なし／事前確認用途）
     include_audio_links: bool = False
+    # 出力メタ情報のラベル（Markdown のヘッダ）
+    # None の場合は対象サイトに応じて自動推定（既存の Pola Retradio 既定値を維持）
+    source_label: Optional[str] = None
+    # フィード URL をサイト既定から上書きしたい場合に指定
+    feed_url_override: Optional[str] = None
 
     def normalize(self) -> None:
         if isinstance(self.start_date, datetime):
@@ -128,6 +133,7 @@ class FeedEntryData:
 
 
 _FEED_ENTRY_CACHE: Dict[str, FeedEntryData] = {}
+_FEED_DISCOVERY_CACHE: Dict[str, Optional[str]] = {}
 
 @dataclass
 class URLCollectionResult:
@@ -286,23 +292,134 @@ def _parse_wp_datetime(value: Optional[str], tz_name: Optional[str] = None) -> O
     return dt
 
 
+def _is_feed_content(data: bytes) -> bool:
+    try:
+        snippet = data[:4096].lower()
+    except Exception:
+        return False
+    return any(token in snippet for token in (b"<rss", b"<feed", b"<rdf", b"<atom"))
+
+
+def _discover_feed_url(cfg: ScrapeConfig, s: requests.Session) -> Optional[str]:
+    key = cfg.base_url.rstrip("/")
+    if key in _FEED_DISCOVERY_CACHE:
+        return _FEED_DISCOVERY_CACHE[key]
+
+    candidates: List[str] = []
+    base_for_join = cfg.base_url
+    try:
+        resp = _get(s, cfg.base_url, cfg)
+        base_for_join = resp.url or cfg.base_url
+        soup = BeautifulSoup(resp.content, "lxml")
+        for link in soup.find_all("link"):
+            rel_attr = link.get("rel")
+            if rel_attr:
+                rels = [r.lower() for r in (rel_attr if isinstance(rel_attr, list) else [rel_attr])]
+            else:
+                rels = []
+            if "alternate" not in rels:
+                continue
+            type_attr = (link.get("type") or "").lower()
+            if not any(token in type_attr for token in ["rss", "atom", "xml"]):
+                continue
+            href = link.get("href")
+            if not href:
+                continue
+            candidate = urljoin(base_for_join, html.unescape(href.strip()))
+            candidates.append(candidate)
+        if not candidates:
+            for a in soup.find_all("a"):
+                href = a.get("href")
+                if not href:
+                    continue
+                href_lower = href.lower()
+                if any(token in href_lower for token in ["rss", "atom", "feed", "xml"]):
+                    candidate = urljoin(base_for_join, html.unescape(href.strip()))
+                    candidates.append(candidate)
+    except Exception:
+        base_for_join = cfg.base_url
+
+    fallback_paths = [
+        "/feed/",
+        "/feed",
+        "/?feed=rss2",
+        "/?feed=rss",
+        "/?feed=atom",
+        "/rss.xml",
+        "/rss",
+        "/rss/",
+        "/atom.xml",
+        "/index.xml",
+    ]
+
+    urls_to_try: List[str] = []
+    seen: Set[str] = set()
+    for candidate in candidates:
+        absolute = urljoin(base_for_join if base_for_join.endswith("/") else base_for_join + "/", candidate)
+        if absolute not in seen:
+            urls_to_try.append(absolute)
+            seen.add(absolute)
+    base_join = base_for_join if base_for_join.endswith("/") else base_for_join + "/"
+    for path in fallback_paths:
+        absolute = urljoin(base_join, path)
+        if absolute not in seen:
+            urls_to_try.append(absolute)
+            seen.add(absolute)
+
+    for url in urls_to_try:
+        try:
+            resp = s.get(url, timeout=cfg.timeout_sec, allow_redirects=True)
+        except Exception:
+            continue
+        if resp.status_code != 200:
+            continue
+        content_type = (resp.headers.get("Content-Type") or "").lower()
+        if any(token in content_type for token in ["rss", "atom", "xml"]):
+            final_url = resp.url or url
+            _FEED_DISCOVERY_CACHE[key] = final_url
+            return final_url
+        if resp.content and _is_feed_content(resp.content):
+            final_url = resp.url or url
+            _FEED_DISCOVERY_CACHE[key] = final_url
+            return final_url
+
+    _FEED_DISCOVERY_CACHE[key] = None
+    return None
+
+
 def collect_from_feed(cfg: ScrapeConfig, s: Optional[requests.Session] = None) -> List[Tuple[str, Optional[datetime]]]:
-    """WordPress フィード /feed/?paged=N をたどって URL と日付を収集。"""
+    """Feed をたどって URL と日付を収集。WordPress 以外にも対応。"""
     s = s or _session(cfg)
-    base_feed = urljoin(cfg.base_url, "/feed/")
+    if cfg.feed_url_override:
+        feed_url = cfg.feed_url_override
+        _progress(f"[FEED] override feed: {feed_url}")
+    else:
+        discovered = _discover_feed_url(cfg, s)
+        if discovered:
+            feed_url = discovered
+            _progress(f"[FEED] discovered feed: {feed_url}")
+        else:
+            feed_url = urljoin(cfg.base_url, "/feed/")
+            _progress(f"[FEED] fallback feed: {feed_url}")
+
+    feed_lower = feed_url.lower()
+    supports_paging = bool(re.search(r"/feed/?$", feed_lower)) or ("feed=" in feed_lower)
     results: List[Tuple[str, Optional[datetime]]] = []
     seen: Set[str] = set()
     global _FEED_ENTRY_CACHE
 
     def page_url(n: int) -> str:
-        if n <= 1:
-            return base_feed
-        return f"{base_feed}?paged={n}"
+        if n <= 1 or not supports_paging:
+            return feed_url
+        sep = "&" if "?" in feed_url else "?"
+        return f"{feed_url}{sep}paged={n}"
 
     page = 1
     _progress("[FEED] 取得開始")
     while True:
         if cfg.max_pages and page > cfg.max_pages:
+            break
+        if page > 1 and not supports_paging:
             break
         url = page_url(page)
         resp = _get(s, url, cfg)
@@ -377,6 +494,8 @@ def collect_from_feed(cfg: ScrapeConfig, s: Optional[requests.Session] = None) -
         if stop_due_to_date and all((dt and dt.date() < cfg.start_date) for _, dt in results[-min(len(parsed.entries), 20):] if dt):
             break
         page += 1
+        if not supports_paging:
+            break
         time.sleep(cfg.throttle_sec)
     return results
 
@@ -883,8 +1002,8 @@ def fetch_article(url: str, cfg: ScrapeConfig, s: Optional[requests.Session] = N
 
 # -------------------- Export helpers --------------------
 
-MD_HEADER = """---
-source: "Pola Retradio (pola-retradio.org)"
+MD_HEADER_TEMPLATE = """---
+source: "{source}"
 generated_at: "{generated_at}"
 generator: "retradio_lib.py"
 time_range: "{start} – {end}"
@@ -892,8 +1011,26 @@ time_range: "{start} – {end}"
 
 """
 
+def _default_source_label(cfg: ScrapeConfig) -> str:
+    host = urlparse(cfg.base_url).netloc or cfg.base_url
+    base = cfg.base_url.lower()
+    # 既存の既定値は Pola Retradio を維持
+    if "pola-retradio.org" in base:
+        return "Pola Retradio (pola-retradio.org)"
+    if "eo.globalvoices.org" in base:
+        return "Global Voices en Esperanto (eo.globalvoices.org)"
+    if "monato.be" in base:
+        return "MONATO (monato.be)"
+    if "esperanto.china.org.cn" in base:
+        return "El Popola Ĉinio (esperanto.china.org.cn)"
+    if "scivolemo.com" in base:
+        return "Scivolemo (scivolemo.com)"
+    return host
+
 def to_markdown(articles: List[Article], cfg: ScrapeConfig) -> str:
-    parts = [MD_HEADER.format(
+    source_label = cfg.source_label or _default_source_label(cfg)
+    parts = [MD_HEADER_TEMPLATE.format(
+        source=source_label,
         generated_at=datetime.now(tz=tz.gettz("UTC")).isoformat(),
         start=cfg.start_date.isoformat(),
         end=cfg.end_date.isoformat(),
