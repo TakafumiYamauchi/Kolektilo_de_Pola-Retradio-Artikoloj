@@ -1,0 +1,1925 @@
+---
+source: "Global Voices en Esperanto (eo.globalvoices.org)"
+generated_at: "2025-10-31T08:52:05.982495+00:00"
+generator: "retradio_lib.py"
+time_range: "2025-01-19 – 2025-10-07"
+---
+
+
+# Esplorante la profundecon de nepala poezio: konversacio kun la poeto Bhupeen
+
+**Published:** 2025-01-19
+
+**URL:** https://eo.globalvoices.org/2025/01/15100/
+
+**Author:** Rafael LIMA
+
+**Categories:** Angla, Arto kaj kulturo, Blogo, Civitanaj komunikiloj, Indiĝenoj, Komunikiloj kaj ĵurnalismo, Lingvo, Literaturo, Medio, Nepala, Nepalo, Parollibereco, Politiko, Suda Azio, Ĉefaĵo
+
+Poeta Bhupeen. Foto de RK Adipta Giri. Uzita kun permeso.
+
+Bhupeen estas elstara nepala poeto, eseisto kaj verkisto konata pro lia potencaj kontribuoj al nuntempa nepala literaturo. Li publikigis tri poemarojn, unu esearon kaj unu romanon. Bhupeen estas unu inter la fondintoj de la “ Conservation Poetry Movement ” (Konservado-Poezia Movado), kiu celas atentigi pri vivmediaj aferoj [eo] en kampara Nepalo pere de poezio. Lia poezio ofte esploras temojn pri amo, identeco, naturo kaj sociaj aferoj, spegulante la kompleksecojn de la moderna vivo en Nepalo .
+
+Bhupeen gajnis la oran medalon en la Tanahun Sahitya Sammelan (Tahahun-Literatura Pintkunveno), kaj la premion International Nepali Literary Society (INLS) Literature Award (Literatura Premio de la Internacia Nepala Literaturo-Asocio) en 2011 pro sia poemaro “ Hazar Varshako Nidra ” (Dormo de mil jaroj). Krome, li gajnis la premion Uttam Shanti Puraskar por “Chaubis Reel” (24 reloj), esearo, kaj la premiojn Khemlal Lamichhane Sahitya Puraskar , Kabidanda Abinashi Utkrista Kriti Puraskar , kaj la premion por plej bona verko de la Internacia Nepala Literatura Societo (INLS) en 2021 por lia romano “ Maidaro ” (Kompletigo de laboro).
+
+La verkaro de Bhupeen atingas larĝan publikon pro lia kapablo transdoni profundajn sentojn per simpla tamen potenca lingvouzo, kiuj faris de li unu el la plej influaj nuntempaj poetoj en Nepalo.
+
+Sangita Swechcha de Global Voices intervjuis Bhupeen per retpoŝto por scii pri lia travivado kiel poeto, liaj pensoj pri uzo de poezio kiel ilo por trakti sociajn problemojn, kaj liaj pensoj pri la evoluo de la nepala poezio en antaŭenigo de socia ŝanĝo kaj kontribuo al la tutmonda literatura pejzaĝo.
+
+Sangita Swechcha (SS): Via poezio kutime traktas sociajn problemojn. Kiel vi elektas la temojn pri kiuj vi verkas, kaj kiun mesaĝon vi volas transdoni pere de via verkaro?
+
+Bhupeen (B): How can we make the earth and all life dependent on it more beautiful and prosperous? This question has been discussed for thousands of years and will continue to be debated. In my view, this is the most crucial and complex issue of human civilisation. Since a comprehensive theory that resolves all complexities (Theory of Everything) has not yet been accepted, and new complexities arise continuously, no writer connected to society can likely remain untouched by social issues. They may attempt to distance themselves from these issues to appear purely aesthetic, and they may even succeed to some extent. However, it is impossible to connect with society, time, and life by avoiding social issues. No art is born in a vacuum, and hence I see little meaning in literature that does not address issues such as class disparities and their causes, gender inequality and women’s empowerment, Dalit liberation , the oppression of marginalised communities, and environmental protection. I am close to a school of poetry that views art in connection with life. Thus, the issues of the society I live in naturally emerge in my creations. I believe art should contribute to creating an environment conducive to social change — it must.
+
+Bhupeen (B): How can we make the earth and all life dependent on it more beautiful and prosperous? This question has been discussed for thousands of years and will continue to be debated. In my view, this is the most crucial and complex issue of human civilisation. Since a comprehensive theory that resolves all complexities (Theory of Everything) has not yet been accepted, and new complexities arise continuously, no writer connected to society can likely remain untouched by social issues.
+
+They may attempt to distance themselves from these issues to appear purely aesthetic, and they may even succeed to some extent. However, it is impossible to connect with society, time, and life by avoiding social issues. No art is born in a vacuum, and hence I see little meaning in literature that does not address issues such as class disparities and their causes, gender inequality and women’s empowerment, Dalit liberation , the oppression of marginalised communities, and environmental protection.
+
+I am close to a school of poetry that views art in connection with life. Thus, the issues of the society I live in naturally emerge in my creations. I believe art should contribute to creating an environment conducive to social change — it must.
+
+Bhupeen (B): Kiel ni povas fari la teron kaj ĉian vivon kiu dependas de ĝi pli belaj kaj prosperaj? Ĉi tiu demando estis diskutita dum miloj da jaroj kaj daŭre estos diskutata. Laŭ mi, ĉi tio estas la plej decida kaj kompleksa afero de la homa civilizacio. Ĉar ĝenerala teorio, kiu solvas ĉiujn kompleksaĵojn ( Teorio de Ĉio – [eo]) ankoraŭ ne estis akceptita, kaj novaj kompleksaĵoj aperas senĉese, neniu verkisto ligita al socio povas resti netuŝita de sociaj aferoj. Ili eble provos apartiĝi de tiuj aferoj por esti pure estetikaj, kaj eble ili eĉ iagrade sukcesos. Tamen, ne eblas ligiĝi kun socio, tempo kaj vivo evitante sociajn aferojn. Neniu arto naskiĝas en vakuo, kaj tial mi vidas malmulte da signifo en literaturo kiu ne traktas temojn kiel ekzemple klasa malegaleco kaj iliaj kaŭzoj, seksa malegaleco kaj virina enpovigo [eo], rajtoj de dalitoj , subpremo de marĝenigitaj komunumoj, kaj mediprotektado. Mi estas proksima al poezia skolo, kiu vidas arton lige al la vivo Tiel, aferoj de la socio kie mi loĝas nature aperas en miaj kreaĵoj. Mi kredas, ke arto devas kontribui al kreado de vivmedio favora al socia ŝanĝo – ĝi devas.
+
+Bhupeen (B): Kiel ni povas fari la teron kaj ĉian vivon kiu dependas de ĝi pli belaj kaj prosperaj? Ĉi tiu demando estis diskutita dum miloj da jaroj kaj daŭre estos diskutata. Laŭ mi, ĉi tio estas la plej decida kaj kompleksa afero de la homa civilizacio. Ĉar ĝenerala teorio, kiu solvas ĉiujn kompleksaĵojn ( Teorio de Ĉio – [eo]) ankoraŭ ne estis akceptita, kaj novaj kompleksaĵoj aperas senĉese, neniu verkisto ligita al socio povas resti netuŝita de sociaj aferoj.
+
+Ili eble provos apartiĝi de tiuj aferoj por esti pure estetikaj, kaj eble ili eĉ iagrade sukcesos. Tamen, ne eblas ligiĝi kun socio, tempo kaj vivo evitante sociajn aferojn. Neniu arto naskiĝas en vakuo, kaj tial mi vidas malmulte da signifo en literaturo kiu ne traktas temojn kiel ekzemple klasa malegaleco kaj iliaj kaŭzoj, seksa malegaleco kaj virina enpovigo [eo], rajtoj de dalitoj , subpremo de marĝenigitaj komunumoj, kaj mediprotektado.
+
+Mi estas proksima al poezia skolo, kiu vidas arton lige al la vivo Tiel, aferoj de la socio kie mi loĝas nature aperas en miaj kreaĵoj. Mi kredas, ke arto devas kontribui al kreado de vivmedio favora al socia ŝanĝo – ĝi devas.
+
+SS: Ĉu estas novaj projektoj aŭ temoj pri kiuj vi volas esplori en venontaj poemaroj aŭ verkoj ?
+
+Poeto Bhupeen subskribas sian romanon “Maidaro” post la lanĉo en Nepalo. Bildo de Mahendra Ojha. Uzita kun permeso.
+
+B: After publishing the novel “Maidaro”, which expresses solidarity with the Dalit liberation movement, I initially planned to write another novel not centred on contemporary issues. My experience of being attacked by intellectuals from the communities I wrote about had left me disheartened. However, during the COVID-19 period, I expanded and deepened my social studies and felt compelled to write another novel focusing on a social issue. For now, I wish to remain silent about which geography, society, and issue this novel will focus on. Unfortunately, during the process of writing, I lost my mother. Her absence affected me more profoundly than I had imagined. I felt almost on the brink of depression, which shook my life-affirming ideology. I stopped reading for a while; even seeing the word “mother” in a book would make me feel suffocated. My ongoing novel included a character based on my mother, but I couldn’t write it and had to set it aside. I realised that even the so-called cathartic literature cannot always be written during moments of grief and loss. During this time, I spent much of my time alone, wandering by riversides and in forests, developing an interest in bushcraft. Immersing myself in nature deepened my understanding of life. I feel that now I might emerge as a butterfly, opening new horizons of possibilities in my creations. What kind of butterfly will emerge — ordinary or extraordinary? I leave that to time to decide.
+
+B: After publishing the novel “Maidaro”, which expresses solidarity with the Dalit liberation movement, I initially planned to write another novel not centred on contemporary issues. My experience of being attacked by intellectuals from the communities I wrote about had left me disheartened. However, during the COVID-19 period, I expanded and deepened my social studies and felt compelled to write another novel focusing on a social issue. For now, I wish to remain silent about which geography, society, and issue this novel will focus on.
+
+Unfortunately, during the process of writing, I lost my mother. Her absence affected me more profoundly than I had imagined. I felt almost on the brink of depression, which shook my life-affirming ideology. I stopped reading for a while; even seeing the word “mother” in a book would make me feel suffocated. My ongoing novel included a character based on my mother, but I couldn’t write it and had to set it aside. I realised that even the so-called cathartic literature cannot always be written during moments of grief and loss.
+
+During this time, I spent much of my time alone, wandering by riversides and in forests, developing an interest in bushcraft. Immersing myself in nature deepened my understanding of life. I feel that now I might emerge as a butterfly, opening new horizons of possibilities in my creations. What kind of butterfly will emerge — ordinary or extraordinary? I leave that to time to decide.
+
+B: Post publikigi la romanon “Maidaro”, kiu esprimas solidarecon al la dalita liberiga movado, mi planis verki alian romanon ne fokusante nuntempajn problemojn. Mia sperto esti atakita de intelektuloj de la komunumoj pri kiuj mi verkas, senkuraĝigis min. Tamen, dum la pandemio KOVIM-19, mi plilarĝigis kaj profundigis miajn sociajn studojn kaj volis verki alian romanon pri socia problemo. Mi tamen preferas silenti pri kiu geografio, socio kaj temo aperos en tiu romano. Bedaŭrinde, dum la verkado, mi perdis mian patrinon. Ŝia foresto efikis sur mi pli profunde ol mi imagis. Mi sentiĝis preskaŭ ĉe rando de deprimo, kiu kontraŭis mian ideologion pri aktiva vivo. Mi ĉesis legi dumtempe; eĉ vidi la vorton “patrino” en libro sufokis min. Mia nova romano inkluzivis rolulon bazitan sur mia patrino, sed mi ne povis verki ĝin kaj devis flankenmeti ĝin. Mi konstatis, ke eĉ la tiel nomata katarsa literaturo [eo] ne ĉiam povas esti verkita dum momentoj de malĝojo kaj perdo. Dum ĉi tiu tempo, mi pasigis sole grandan parton de mia tempo, vagante ĉe riverbordoj kaj arbaroj, kaj interesiĝis pri arbustofarado. Mergi min en naturo profundigis mian komprenon pri la vivo. Mi sentas, ke nun mi eble reaperos kiel papilio, malfermante novajn horizontojn de eblecoj en miaj kreaĵoj. Kia papilio aperos – ordinara aŭ eksterordinara? Mi lasas tion al tempo por decido.
+
+B: Post publikigi la romanon “Maidaro”, kiu esprimas solidarecon al la dalita liberiga movado, mi planis verki alian romanon ne fokusante nuntempajn problemojn. Mia sperto esti atakita de intelektuloj de la komunumoj pri kiuj mi verkas, senkuraĝigis min. Tamen, dum la pandemio KOVIM-19, mi plilarĝigis kaj profundigis miajn sociajn studojn kaj volis verki alian romanon pri socia problemo. Mi tamen preferas silenti pri kiu geografio, socio kaj temo aperos en tiu romano.
+
+Bedaŭrinde, dum la verkado, mi perdis mian patrinon. Ŝia foresto efikis sur mi pli profunde ol mi imagis. Mi sentiĝis preskaŭ ĉe rando de deprimo, kiu kontraŭis mian ideologion pri aktiva vivo. Mi ĉesis legi dumtempe; eĉ vidi la vorton “patrino” en libro sufokis min. Mia nova romano inkluzivis rolulon bazitan sur mia patrino, sed mi ne povis verki ĝin kaj devis flankenmeti ĝin. Mi konstatis, ke eĉ la tiel nomata katarsa literaturo [eo] ne ĉiam povas esti verkita dum momentoj de malĝojo kaj perdo.
+
+Dum ĉi tiu tempo, mi pasigis sole grandan parton de mia tempo, vagante ĉe riverbordoj kaj arbaroj, kaj interesiĝis pri arbustofarado. Mergi min en naturo profundigis mian komprenon pri la vivo. Mi sentas, ke nun mi eble reaperos kiel papilio, malfermante novajn horizontojn de eblecoj en miaj kreaĵoj. Kia papilio aperos – ordinara aŭ eksterordinara? Mi lasas tion al tempo por decido.
+
+SS: Kiel vi vidas la rolon de poezio en nuntempa nepala socio, kaj kiu efiko ĝi povas havi sur socia ŝanĝo?
+
+B: A society that loves folk literature can never hate poetry. The diverse civilisations and cultures in this small area have gifted us an abundance of folk literature. We have inspiring Jataka tales, Mundhum, Maithili, and Vedic Sanatan literature, along with the rich traditions of the Tharu, Gurung, Magar, Tamang, and Thakali communities. It would be irrational to think that our society, which loves Muna Madan (a 1936 Nepali-language episodic love poem), rejects poetry and its role. But have we truly viewed our arts and literature with tolerance? Did we confine their horizons to specific communities, or did we try to expand them? Have we accepted linguistic colonisation by calling only Sanskrit or English literature as “literature”? Did our societal values support injustice toward our native languages, or did they focus on their enrichment? It is necessary to discuss these questions. I think Nepali society has always respected poetry and poets (though there are also pollutants of deification). However, poetry may not always be accepted if it dwells within the comfort zone of tradition. It is easy to compose poetry influenced by old works without capturing the new pains and consciousness of the present time. But poetry falls into a stereotype that way. Poets must dare to step outside their boxes. The challenge is to create meaningful poetry that society respects and that can lead it in a progressive direction. Such poetry can add new values and make a positive contribution to social transformation.
+
+B: A society that loves folk literature can never hate poetry. The diverse civilisations and cultures in this small area have gifted us an abundance of folk literature. We have inspiring Jataka tales, Mundhum, Maithili, and Vedic Sanatan literature, along with the rich traditions of the Tharu, Gurung, Magar, Tamang, and Thakali communities. It would be irrational to think that our society, which loves Muna Madan (a 1936 Nepali-language episodic love poem), rejects poetry and its role.
+
+But have we truly viewed our arts and literature with tolerance? Did we confine their horizons to specific communities, or did we try to expand them? Have we accepted linguistic colonisation by calling only Sanskrit or English literature as “literature”? Did our societal values support injustice toward our native languages, or did they focus on their enrichment? It is necessary to discuss these questions.
+
+I think Nepali society has always respected poetry and poets (though there are also pollutants of deification). However, poetry may not always be accepted if it dwells within the comfort zone of tradition. It is easy to compose poetry influenced by old works without capturing the new pains and consciousness of the present time. But poetry falls into a stereotype that way. Poets must dare to step outside their boxes. The challenge is to create meaningful poetry that society respects and that can lead it in a progressive direction. Such poetry can add new values and make a positive contribution to social transformation.
+
+B: Socio kiu amas parolan literaturon , neniam malamos poezion. La diversaj civilizacioj kaj kulturoj en ĉi tiu malgranda spaco donacis al ni abundon da parola literaturo. Ni havas inspirajn rakontojn de literaturoj jataka, mundhuma, maithilia kaj vedan, sanatan literaturon, kune kun riĉaj tradicioj de la komunumoj tharu, gurung, magar, tamang, kaj thakali. Estus neracie pensi, ke nia socio, kiu amas Muna Madan (nepalan ampoemon de 1936), malakceptas poezion kaj ĝian rolon. Sed ĉu ni vere rigardis niajn artojn kaj literaturon kun toleremo? Ĉu ni limigis iliajn horizontojn al specifaj komunumoj, aŭ ĉu ni provis vastigi ilin? Ĉu ni akceptis lingvan koloniigon nomante nur sanskritan aŭ anglan literaturon kiel “literaturo”? Ĉu niaj sociaj valoroj subtenis maljustecon kontraŭ niaj gepatraj lingvoj, aŭ ĉu ili antaŭenigas ilian riĉigon? Necesas diskuti tiujn demandojn. Mi pensas, ke nepala socio ĉiam respektis poezion kaj poetojn. Tamen, poezio ne devas esti ĉiam akceptita se ĝi restas ene de la komforto de tradicio. Estas facile verki poezion influita de malnovaj verkoj sen kapti novajn dolorojn kaj la konscion de nuntempeco. Sed poezio tiel falas en kliŝo. Poetoj devas kuraĝi paŝi ekster siaj skatoloj. La defio estas krei sencohavan poezion, kiun la socio respektas kaj kiu povas gvidi al progresema direkto. Tia poezio povas aldoni novajn valorojn kaj fari pozitivan kontribuon al socia ŝanĝo.
+
+B: Socio kiu amas parolan literaturon , neniam malamos poezion. La diversaj civilizacioj kaj kulturoj en ĉi tiu malgranda spaco donacis al ni abundon da parola literaturo. Ni havas inspirajn rakontojn de literaturoj jataka, mundhuma, maithilia kaj vedan, sanatan literaturon, kune kun riĉaj tradicioj de la komunumoj tharu, gurung, magar, tamang, kaj thakali. Estus neracie pensi, ke nia socio, kiu amas Muna Madan (nepalan ampoemon de 1936), malakceptas poezion kaj ĝian rolon.
+
+Sed ĉu ni vere rigardis niajn artojn kaj literaturon kun toleremo? Ĉu ni limigis iliajn horizontojn al specifaj komunumoj, aŭ ĉu ni provis vastigi ilin? Ĉu ni akceptis lingvan koloniigon nomante nur sanskritan aŭ anglan literaturon kiel “literaturo”? Ĉu niaj sociaj valoroj subtenis maljustecon kontraŭ niaj gepatraj lingvoj, aŭ ĉu ili antaŭenigas ilian riĉigon? Necesas diskuti tiujn demandojn.
+
+Mi pensas, ke nepala socio ĉiam respektis poezion kaj poetojn. Tamen, poezio ne devas esti ĉiam akceptita se ĝi restas ene de la komforto de tradicio. Estas facile verki poezion influita de malnovaj verkoj sen kapti novajn dolorojn kaj la konscion de nuntempeco. Sed poezio tiel falas en kliŝo. Poetoj devas kuraĝi paŝi ekster siaj skatoloj. La defio estas krei sencohavan poezion, kiun la socio respektas kaj kiu povas gvidi al progresema direkto. Tia poezio povas aldoni novajn valorojn kaj fari pozitivan kontribuon al socia ŝanĝo.
+
+SS: Kiel vi vidas la ligon inter nepala poezio kaj tutmonda poezio, kaj kiun rolon, laŭ vi, ludas internaciajn platformojn en diskonigo de lokaj voĉoj?
+
+B: Nepali literature is also global literature. It is incomplete to view Nepali literature separately from global literature. The history of Nepali literature is not as long as English, Sanskrit, Spanish, Greek, or other literary traditions. However, Nepali literature has learned and progressed significantly in a short span of time. Just as new technologies reach us quickly, literature also flows to us. Nepali readers are reading both foreign and Nepali literature, which is convenient today. It is the new campaigns and movements that bring novelty to literature. We are influenced by global literary campaigns. Local movements are also emerging. If we can globalise them, there is potential for the world to pay attention to Nepali literature. Translating Nepali poetry into English and other languages is equally important. I see an important role of translators and literary campaigners in this area.
+
+B: Nepali literature is also global literature. It is incomplete to view Nepali literature separately from global literature. The history of Nepali literature is not as long as English, Sanskrit, Spanish, Greek, or other literary traditions. However, Nepali literature has learned and progressed significantly in a short span of time. Just as new technologies reach us quickly, literature also flows to us. Nepali readers are reading both foreign and Nepali literature, which is convenient today.
+
+It is the new campaigns and movements that bring novelty to literature. We are influenced by global literary campaigns. Local movements are also emerging. If we can globalise them, there is potential for the world to pay attention to Nepali literature. Translating Nepali poetry into English and other languages is equally important. I see an important role of translators and literary campaigners in this area.
+
+B: Nepala literaturo ankaŭ estas tutmonda literaturo. Estas eraro rigardi nepalan literaturon disde tutmonda literaturo. La historio de nepala literaturo ne estas tiel longa kiel la angla, sanskrita, hispana, greka aŭ aliaj literaturaj tradicioj. Tamen, nepala literaturo pliboniĝis kaj progresis signife en mallonga tempo. Same kiel novaj teknologioj atingas nin rapide, ankaŭ literaturo fluas al ni. Nepalaj legantoj legas kaj eksterlandan kaj nepalan literaturon, tio estas kutimo hodiaŭ. Estas la novaj kampanjoj kaj movadoj kiuj alportas novigon al literaturo. Ni estas influitaj de tutmondaj literaturaj kampanjoj. Ankaŭ lokaj movadoj aperas. Se ni povas tutmondigi ilin, ekzistas ebleco ke la mondo atentu nepalan literaturon. Traduki nepalan poezion al la angla kaj aliaj lingvoj estas same grava. Mi vidas gravan rolon por tradukistoj kaj literaturaj aktivuloj en ĉi tiu kampo.
+
+B: Nepala literaturo ankaŭ estas tutmonda literaturo. Estas eraro rigardi nepalan literaturon disde tutmonda literaturo. La historio de nepala literaturo ne estas tiel longa kiel la angla, sanskrita, hispana, greka aŭ aliaj literaturaj tradicioj. Tamen, nepala literaturo pliboniĝis kaj progresis signife en mallonga tempo. Same kiel novaj teknologioj atingas nin rapide, ankaŭ literaturo fluas al ni. Nepalaj legantoj legas kaj eksterlandan kaj nepalan literaturon, tio estas kutimo hodiaŭ.
+
+Estas la novaj kampanjoj kaj movadoj kiuj alportas novigon al literaturo. Ni estas influitaj de tutmondaj literaturaj kampanjoj. Ankaŭ lokaj movadoj aperas. Se ni povas tutmondigi ilin, ekzistas ebleco ke la mondo atentu nepalan literaturon. Traduki nepalan poezion al la angla kaj aliaj lingvoj estas same grava. Mi vidas gravan rolon por tradukistoj kaj literaturaj aktivuloj en ĉi tiu kampo.
+
+
+---
+
+# Deklaro de Tutmondaj Voĉoj pri la frostigo de ekstera helpo de Usono
+
+**Published:** 2025-02-01
+
+**URL:** https://eo.globalvoices.org/2025/02/15130/
+
+**Author:** Toño DEL BARRIO
+
+**Categories:** Announcements, Civitanaj komunikiloj, Disvolvado, Homaj rajtoj, Homama agado, Internaciaj rilatoj, MONDO, Nordameriko, Usono, Ĉefaĵo
+
+Kiel internacia komunumo de verkistoj, tradukistoj kaj aktivuloj pri homaj rajtoj, Tutmondaj Voĉoj (Global Voices) solidaras kun la organizaĵoj kaj komunumoj trafitaj de la ĵusa frostigo de ekstera helpo de Usono . La subita halto en financado jam havas ruinigajn efikojn: NRO-j tutmonde alfrontas laborperdojn, funkciajn fermojn kaj interrompojn de kritikaj servoj . Eĉ se la financado estos restarigita rapide, la ĥaoso de la lasta semajno de januaro havos longdaŭrajn efikojn, kaŭzante damaĝon al tiuj, kiuj plej bezonas tiun helpon kaj al tiuj, kiuj laboras por disdoni ĝin.
+
+Ĉe Tutmondaj Voĉoj, ni kredas je la potenco de rakontado por konstrui komprenon kaj respondecon. Dum ĉi tiuj eventoj disvolviĝas, ni daŭre plifortigos la voĉojn de homoj trafitaj de tiuj decidoj, rekte kaj nerekte, por ke ili povu esprimi siajn perspektivojn kaj la realajn homajn sekvojn de tiuj politikoj.
+
+Ĉi tiu situacio ankaŭ elstarigas la bezonon de pli daŭrigebla kaj pli surlokigita helpo, malpli dependa de grandaj donacantoj kun grandega povo influi decidojn. Kvankam anstataŭi la plenan kvanton de usona internacia subteno ne povas okazi tuj, ni ĉiuj devas pripensi kaj labori por pli justa kaj rezistema sistemo de internacia helpo.
+
+Ni alvokas niajn kolegojn kaj la civitanojn tra la mondo kiel plej eble subteni la trafitajn organizojn – ĉu plifortigante iliajn rakontojn, kunigante rimedojn aŭ pledante por politikoj kiuj subtenas internacian solidarecon.
+
+Ni daŭre priatentos la situacion kaj informos nian komunumon. Se vi havas rakontojn por kundividi, perspektivojn por aldoni aŭ manierojn helpi, via kontribuo estas plej bonvena.
+
+Kune ni strebas por mondo kie kunlaboro, ne izoliĝo, gvidas nian tutmondan respondon al krizoj.
+
+
+---
+
+# Unesko senvole kontribuas al la polemiko pri la termino “Luna Novjaro”
+
+**Published:** 2025-02-16
+
+**URL:** https://eo.globalvoices.org/2025/02/15143/
+
+**Author:** Toño DEL BARRIO
+
+**Categories:** Angla, Arto kaj kulturo, Blogo, Civitanaj komunikiloj, Honkongo (Ĉinio), Internaciaj rilatoj, MONDO, Makao (Ĉinio), Orienta Azio, Sud-Koreio, Tajvano (RĈ), Vjetnamio, Ĉefaĵo, Ĉinio
+
+Dekoraciaĵoj de la Luna Novjaro. Bildo: Oiwan Lam
+
+La 29-a de januaro markis la komencon de la Luna Novjaro, festo celebrata tra Azio, inkluzive de Ĉinio, Koreio, Vjetnamio, Singapuro, Malajzio kaj pli. La dato de la festo estas bazita sur la lun-suna kalendaro kaj estas kutime nomata Luna Novjaro, Ĉina Novjaro aŭ la Printempa Festo fare de plej multaj amaskomunikiloj en la angla [kaj en Esperanto , ndltr.].
+
+Tamen, en la lastaj jaroj, la nomado de la festo fariĝis pridiskutata — pli kaj pli da homoj en kontinenta Ĉinio insistas ke la festo havas ĉinan originon kaj tial devus esti nomata “Ĉina Novjaro”. Kontraste, aliaj vidas “Lunan Novjaron” kiel pli inkluziva, ĉar ĝi estas festata en 200 landoj kaj komunumoj, ne nur en Ĉinio.
+
+La kultura streĉiteco intensiĝis, ĉar 2025 estas la unua novjaro post kiam Unesko aprobis la peton de Ĉinio inkluzivi la kutimojn de la Printempa Festo en sian Reprezentan Liston de la Nemateria Kultura Heredaĵo de la Homaro [eo] en decembro 2024. Iuj kontinentĉinaj retaj patriotoj interpretas la geston kiel oficialan kaj internacian agnoskon de la ĉina proprieto de la festo kaj kampanjas por ties norma traduko kiel “Ĉina Novjaro”.
+
+Unesko establis tri listojn [en.wikipedia] de nemateria kultura heredaĵo por konsciigi pri ilia graveco kaj kuraĝigi kulturan konservadon tra la mondo. Tamen, la oficiala atribuo de kultura praktiko kiel la heredaĵo de unu sola nacio senintence kaŭzis streĉitecojn kaj konfliktojn en Azio. Ĉi tio okazas plejparte ĉar kulturoj konstante evoluadas kaj havas grandajn historiajn spurojn, kiuj transpasas modernajn limojn kaj konfliktojn.
+
+Ekzemple, la unua kultura batalo inter ĉinaj kaj koreaj interretaj uzantoj estis ekigita de la sukcesa peto de Sud-Koreio aldoni la festivalon Gangneung Danoje [en] al la Listo de Nemateria Kultura Heredaĵo de Unesko en 2005. Kvankam la korea festivalo havas unikajn ŝamanismajn [eo] ritojn, iuj ĉinaj interretaj patriotoj akuzis Koreion je ŝtelado de la Drakboata Festo [en], ĉar ambaŭ festivaloj okazas komence de somero kaj kunhavas la saman skriban ĉinan karaktron 端午節. Denove, en 2013, post kiam la kolektiva praktiko de Kimjang (la farado kaj kundividado de kimĉio) [en] estis inkluzivita en la Unesko-liston, iuj ĉinaj interretaj uzantoj protestis kaj asertis, ke la korea kimĉio [eo] originis el la ĉina provinco Siĉŭano [eo]. Por eviti konfuzon, la sudkorea registaro ŝanĝis la karaktron de kimĉio al 泡菜, kun la signifo fermentita legomo en la ĉina, al 辛奇, fonetika transliterumo de la vorto kimĉio en ĉinaj karaktroj.
+
+Ĉi tiu disputo pri la Luna Novjaro estas de simila naturo, sed multe pli ampleksa, ĉar multaj aliaj landoj kundividas la feston.
+
+Kvankam la vortumo en la Unesko-listo de nemateria kultura heredaĵo estas “Printempa festo, sociaj praktikoj de la ĉina popolo por celebri la tradician novjaron”, iuj ĉinaj interretaj patriotoj uzas la okazon por normigi la anglan tradukon de la festo kiel “ Chinese New Year ” (“Ĉina Novjaro”).
+
+Ili insistas, ke la uzo de la termino “Luna Novjaro” estas parto de kultura milito celanta subfosi la efikojn de la ĉina kulturo en Azio. En Xiaohongshu, populara ĉina socia retplatformo, iuj ĉinaj uzantoj lanĉis kampanjon por eduki eksterlandajn uzantojn por la uzado de “Ĉina Novjaro” en siaj bondeziraj mesaĝoj. Jen unu tia mesaĝo, kiu estis cirkuligita en ĉinaj sociaj retejoj (per Weibo-uzanto Xún Yè Yǔ ):
+
+对中国人请不要说 Lunar New Year，这是一些继承了中国传统文化，却迫切想“去中国化”，与中国文化切割，再进行占有的人搞的文化破坏和掠夺，因为中国农历新年并不以“lunar calendar”为计算单位，而使用的是“chinese calendar”，一种阴阳合历，所以在这个我们已经使用了千百年的中国历史节日说“lunar”是一种非常恶劣的文化侵占行为。
+
+对中国人请不要说 Lunar New Year，这是一些继承了中国传统文化，却迫切想“去中国化”，与中国文化切割，再进行占有的人搞的文化破坏和掠夺，因为中国农历新年并不以“lunar calendar”为计算单位，而使用的是“chinese calendar”，一种阴阳合历，所以在这个我们已经使用了千百年的中国历史节日说“lunar”是一种非常恶劣的文化侵占行为。
+
+Bonvolu ne bondeziri al ĉinoj per la termino Luna Novjaro. Ĉi tio estas ago de malĉinigado farita de tiuj, kiuj heredis la tradician ĉinan kulturon sed volas fortranĉi siajn ĉinajn kulturajn ligojn. Ili subfosas la ĉinan originon de sia kulturo por ekposedi ĝin. La ĉina agrikultura kalendaro ne nur baziĝas sur la lun-kalendaro sed estas kombinaĵo de luna kaj suna kalendaroj. Tial nomi ĉi tiun feston, kiu havas milojn da jaroj da historio, ‘Luna Novjaro’ estas fia ago de kultura alproprigo .
+
+Bonvolu ne bondeziri al ĉinoj per la termino Luna Novjaro. Ĉi tio estas ago de malĉinigado farita de tiuj, kiuj heredis la tradician ĉinan kulturon sed volas fortranĉi siajn ĉinajn kulturajn ligojn. Ili subfosas la ĉinan originon de sia kulturo por ekposedi ĝin. La ĉina agrikultura kalendaro ne nur baziĝas sur la lun-kalendaro sed estas kombinaĵo de luna kaj suna kalendaroj. Tial nomi ĉi tiun feston, kiu havas milojn da jaroj da historio, ‘Luna Novjaro’ estas fia ago de kultura alproprigo .
+
+La najbaraj landoj de Ĉinio, inkluzive de Koreio kaj Vjetnamio, ankaŭ festas la Lunan Novjaron. En Koreio, la festo estas nomata Seollal [en], dum en Vjetnamio, ĝi estas nomata Tết Nguyên Đán [en] . Ambaŭ tradukas la feston kiel “ Lunar New Year ” (Lunan Novjaron) en la angla.
+
+Iuj ĉinaj interretaj patriotoj ankaŭ turnis sin al tajvananoj kaj honkonganoj — kie la termino Luna Novjaro estas pli ofta — kaj diris, ke ilia tradukprefero montris separismajn nuancojn. Sekve, kelkaj komencis bojkoton kontraŭ ĉinaj kompanioj, kiuj uzis “Lunan Novjaron” en siaj bondezirkampanjoj. Ekzemple, bloganto pri animacio el Gŭangdongo akuzis kvin ĉinajn kompaniojn en Weibo:
+
+今年春节申遗成功, 应该用Chinese New Year, 但这些中国企业还在lunar new year 点名: 霸王茶姬，CoCo卓雅，携程，泡泡玛特…… ​
+
+今年春节申遗成功, 应该用Chinese New Year, 但这些中国企业还在lunar new year 点名: 霸王茶姬，CoCo卓雅，携程，泡泡玛特…… ​
+
+La Printempa Festo estis sukcese enmetita en la Unesko-liston de nemateria kultura heredaĵo ĉi-jare. Ni do uzu la terminon ‘Ĉina Novjaro’. Tamen, iuj ĉinaj kompanioj ankoraŭ uzas la terminon ‘Luna Novjaro’. Ili estas: Chagee, CoCo Bubble Tea, Trip.com, Pop Mart…
+
+La Printempa Festo estis sukcese enmetita en la Unesko-liston de nemateria kultura heredaĵo ĉi-jare. Ni do uzu la terminon ‘Ĉina Novjaro’. Tamen, iuj ĉinaj kompanioj ankoraŭ uzas la terminon ‘Luna Novjaro’. Ili estas: Chagee, CoCo Bubble Tea, Trip.com, Pop Mart…
+
+Fine, Chagee, populara teovendejo, devis pardonpeti [en] pro sia elekto de vortoj en sia novjara saluto.
+
+La ŝtata Ĉina Centra Televido ankaŭ prezentis novaĵraporton [cn] por subteni la retan kampanjon, kaj la oficiala rakontado estis rapide reprenita de multaj por-ĉiniaj influantoj, kiel @zhao_dashuai en X (antaŭe Twitter).
+
+Krom tio, ke laŭ la luna kalendaro la luna novjaro estas en junio. Provi ŝanĝi Ĉinan Novjaron aŭ Printempan Feston al Luna Novjaro nur ĉar ne-ĉinoj festas ĝin, similas ŝanĝi la nomon de Kristnasko ĉar ankaŭ nekristanoj festas ĝin. pic.twitter.com/ukSWRc9QIr — Zhao DaShuai 东北进修🇨🇳 (@zhao_dashuai), la 29-an de janurao 2025 .
+
+Krom tio, ke laŭ la luna kalendaro la luna novjaro estas en junio.
+
+Provi ŝanĝi Ĉinan Novjaron aŭ Printempan Feston al Luna Novjaro nur ĉar ne-ĉinoj festas ĝin, similas ŝanĝi la nomon de Kristnasko ĉar ankaŭ nekristanoj festas ĝin. pic.twitter.com/ukSWRc9QIr
+
+— Zhao DaShuai 东北进修🇨🇳 (@zhao_dashuai), la 29-an de janurao 2025 .
+
+Tamen, multaj ankaŭ mokas la ekstreman naciisman sintenon, ĉar antaŭe ĉinaj ŝtataj amaskomunikiloj, inkluzive de Xinhua [eo] kaj People’s Daily [ Renmin Ribao - eo, ndlr.] , ankaŭ uzis “Lunan Novjaron” en siaj novaĵtitoloj.
+
+Fakte, la 22-an de decembro 2023, la Ĝenerala Asembleo de Unuiĝintaj Nacioj aprobis rezolucion [en] por aldoni la “Lunan Novjaron” al sia oficiala feria listo, samtempe agnoskante ke la festo estas sekvata en multaj membroŝtatoj.
+
+Krome, eĉ la vorto “luna” ne tute precize priskribas la lun-sunan naturon de la festo. La esprimo “Ĉina Novjaro” ankaŭ sonas sufiĉe stranga, ĉar ĉinoj neniam nomas la feston “中國新年” (Novjaro de Ĉinio) aŭ “華人新年” (Novjaro de Ĉinoj) en sia propra lingvo. La plej konvenciaj esprimoj inter ĉinoj estas 春節 (Printempa Festo aŭ Chun Jie), 農歷新年 (Agrarkalendara Novjaro aŭ Luna Novjaro) aŭ simple 過新年 (Trapasi la Novjaron).
+
+Iuj timas, ke la normigo de la angla nomado de la festo kiel “ Chinese New Year ” (“Ĉina Novjaro”) ne nur ekskludas la ne-ĉinojn sed ankaŭ detruas la diversecon de la ĉinaj kulturoj.
+
+
+---
+
+# ‘Lingva kaj kultura diverseco difinas nian komunan homaron,’ diras juna majalingva aktivulo
+
+**Published:** 2025-03-11
+
+**URL:** https://eo.globalvoices.org/2025/03/15160/
+
+**Author:** Herman Dekeŭnink
+
+**Categories:** Blogo, Civitanaj komunikiloj, Indiĝenoj, Interreta aktivismo, Junuloj, Latinameriko, Meksiko, Rising Voices, Ĉefaĵo
+
+# StoriesThatInspire ( Rakontoj kiuj inspiras). Renkontu 10 aktivulojn, kiuj uzas ciferecan amaskomunikilaron por plifortigi kaj akceli la majaan lingvaron en Meksiko.
+
+Foto: Jose Raul Sánchez Pérez, eldonita kun permeso
+
+Lernu pri la inspira rakonto de unu el la subvenciantoj elektitaj por la Maya Language Digital Activism Fellowship [es] 2024 organizita de Rising Voices. En ĉi tiu persona eseo, la aŭtoro kundividas [informojn] pri sia sperto en aktivismo kaj la projekto per kiu li serĉas antaŭenigi sian denaskan lingvon, ene de sia komunumo kaj en ciferecaj spacoj.
+
+Mi nomiĝas José Raúl Sánchez Pérez, mi estas 22-jara. Mi havas diplomon pri lingvo kaj kulturo kun fako pri instruado, kaj mi parolas la ĉolan [eo – Ch'ol aŭ Chol ]. Mi devenas de la ejido [komunuma tero] Panhuitz Tianija en Tila [es], en la meksika subŝtato Chiapas [en] nomita tiel ĉar ĝi estas komunumo kiu situas en alta altitudo. “Panhuitz” tradukiĝas en la hispanan kiel “sur la monteto” kaj Tianija estas la nomo de rivero kiu fluas tra la areo.
+
+En la komunumo Panhuitz ĉiuj parolas la ĉolan : infanoj, plenkreskuloj kaj maljunuloj, ĉar ĝi estas nia gepatra lingvo. La plej grava afero en mia komunumo estas ĝiaj pacaj, amikaj kaj zorgemaj homoj. En ajna festo ni subtenas unu la alian, kaj ĉiuj, senescepte, partoprenas en la kuirado. La viroj respondecas pri la lavado de la folioj por la tamaloj ( tamales ), la ekigado de la fajro, la aranĝo de la tamaloj en la poto kaj kontroli ĉu la kuirado pretas . La virinoj respondecas pri la miksado de la pasto kaj la rulado de la tamales kaj tortiljoj . Ĉiuj subtenas unu la alian en ĉio.
+
+Komunuma tero Panhuitz Tianiaj. Foto de José Raúl Sánchez Pérez, kundividita kun lia permeso..
+
+Niaj teroj estas kovritaj per verda vegetaĵara tapiŝo. Ĉi tie vi povas ĝui de birdokantado kaj matene kaj vespere, sed ankaŭ vidi belajn lokajn pejzaĝojn kaj multajn hejmajn kaj sovaĝajn bestojn. Lokaj metiistoj faras varojn uzante specialan teron aŭ argilon, same kiel malgrandajn kristalajn ŝtonojn konatajn kiel “baks” (bax),  kiuj estas uzataj por fari pistujojn, kradojn, kruĉojn, telerojn kaj glasojn.
+
+Fenestro en la mondon de la ĉoloj
+
+La lingvo ĉol [Ch'ol, ndltr.]) ne estas simple komunikilo, ĝi estas la vehiklo de riĉa kultura tradicio kaj praa scio. Ĝi estas fenestro al la mondkoncepto [eo] de ĝiaj parolantoj. Valoroj, legendoj, ritaj praktikoj kaj scio pri naturo, kiuj estis kundividitaj dum jarcentoj, estas transdonataj per vortoj kaj gramatikaj strukturoj. La lingvo reprezentas valoregan kulturan trezoron, kiu enhavas la identecon, historion kaj mondkoncepton de la praula indiĝena komunumo. Tial mi fiere zorgas pri konservado kaj parolado de mia lingvo.
+
+Ene de mia komunumo metiejoj [eo] multe helpis plifortigi la lingvon. Ekzemple, legado- kaj skribklasoj fokusiĝas gramatikon kaj vortprovizon, konversaciaj metiejoj iĝas spacoj por ma parola praktikado de la ĉola [lingvo] pri ĉiutagaj temoj. Krome kreiĝas kondiĉoj por dialogo inter generacioj, ĉar ĝi kunigas junulojn kaj maljunulojn por kunhavigi rakontojn kaj tradiciojn, kio kontribuas al la akiro de la lingvo. Tiuj metiejoj ne nur celas instrui la lingvon, sed ankaŭ konsciigi kaj plifortigi la senton de identeco kaj kultura fiereco inter la junularo.
+
+Tiuj ĉi agadoj inspiris min labori por la konservado de mia lingvo. Mi komencis mian aktivadon farante filmetojn por instruado de la lingvo ĉol [ Ch'ol ], kundividante vortprovizon en formo de ĉiutagaj frazoj kaj nomoj de fruktoj kaj bestoj. Mi ankaŭ kolektas kaj registras parolajn tradiciojn, kantojn kaj popolajn kutimojn. Mi ankaŭ partoprenis en la tradukado al la ĉola lingvo de rakontoj, enigmoj kaj langorompiloj [eo]. Per ĉi tiu laboro mi klopodas plifortigi la scion de la komunumo kaj disvastigi ĝin preter geografiaj limoj.
+
+Foto:  Aprendamos La Lengua CH'ol-Cholero de Corazón Tila (Ni lernu la lingvon Ch'ol-Cholero elkore de Tila) Jutuba kanalo
+
+Por daŭre plifortigi kaj konservi mian lingvon, mi estas parto de la Programo de Cifereca Aktivismo por Majaaj Lingvoj subtenata de Rising Voices. Mia projekto nomiĝas “ Let's Learn the Ch'ol Language ” [Ni lernu la lingvon ĉol, ndltr.] kiu konsistas el serio de metiejoj celitaj al infanoj kaj adoleskantoj loĝantaj en la komunumo. Klasoj fokusiĝas lernadon de la gramatiko kaj la vastigadon de la vortprovizo de la lingvo. Nia prioritato estas montri al infanoj, ke scio de lingvo devenas de la kutimo uzi ĝin en la ĉiutaga vivo kaj ke gravas plifortigi sian lingvon kaj la scion kiun ĝi enhavas. Tiu ĉi projekto celas certigi, ke la historio de la komunumo regu tra infaneco, ĉar kiam lingvo formortas, la historio de tuta popolo mortas.
+
+Uzi ciferecan amaskomunikilaron por revalorigi la ĉolan
+
+Decida strategio por konservi kaj promocii la ĉolan lingvon estas la uzo de ciferecaj amaskomunikiloj por plifortigi ĝian pozicion. Estas urĝa bezono faciligi la aliron al lingvaj rimedoj, kiuj permesas al parolantoj kaj al tiuj kiuj ankoraŭ lernas la lingvon veni en kontakto kun sia lingvo en interaga kaj kreema maniero.
+
+Krei enhavon en la ĉiola -filmetoj, podkastoj kaj publikaĵoj – ne nur riĉigas la kulturan heredaĵon, sed ankaŭ instigas novajn generaciojn uzi kaj valorigi sian lingvon. Krome, ĉi tiuj ciferecaj iloj instigas la kreadon de interretaj komunumoj, kie tradicioj estas kundividataj, buŝaj rakontoj estas dokumentitaj kaj subtenaj retoj estas starigitaj, tiel helpante revivigi kaj popularigi la ĉolan lingvon en ĉiam pli cifereca mondo.
+
+Foto de D-ro Alberto Mariano Gutiérrez, kundividita kun lia permeso.
+
+Kelkaj el la defioj por indiĝenaj lingvoj estas tutmondiĝo kaj la influo de regantaj lingvoj kiel la hispana, kiu kaŭzas ke oni malpli flue parolas la ĉolan lingvon de generacio al generacio. Alia defio estas la manko de lernejoj kun dulingvaj programoj aŭ instrumaterialoj en la denaska lingvo, kio signifas, ke infanoj ne havas la ŝancon lerni kaj uzi sian denaskan lingvon en formalaj edukaj kuntekstoj. Al tiu ĉi situacio aldoniĝas la fakto, ke la intereso de la gepatroj instrui al siaj infanoj la ĉolan malpliiĝis ĉar ili elektas instrui al ili la hispanan kiel unua lingvo, timante izolitecon aŭ diskriminacion bazitan sur lingvo [eo].
+
+Por ke la kultura heredaĵo de indiĝenaj popoloj restu aktiva parto de la tutmonda riĉeco kaj historio, la ĉola lingvo devas esti protektita.  Plifortigi kaj konservi lingvojn estas klopodo, kiu postulas kunordigan agadon kaj profundan respekton de la lingva kaj kultura diverseco, kiu estas komuna trajto de la homaro. Mi tial esperas ke per miaj metiejoj kaj filmetoj mi povas havi pli grandan influon sur novaj generacioj kaj konsciigi ilin pri la kultura valoro de indiĝenaj lingvoj.
+
+Sekvu mian projekton en:
+
+YouTube: Aprendamos La Lengua CH'ol-Cholero de Corazón Tila TikTok: Aprendamos La Lengua CH'ol-Cholero de Corazón Tila
+
+
+---
+
+# Pritrakti la pasintecon: Kiel la romaa popolo estas prezentita en rumanaj kaj grekaj lernejoj
+
+**Published:** 2025-03-17
+
+**URL:** https://eo.globalvoices.org/2025/03/15197/
+
+**Author:** Adam D. Prakasa
+
+**Categories:** Angla, Blogo, Civitanaj komunikiloj, Edukado, Etno kaj raso, Grekio, Historio, Interreta aktivismo, Literaturo, Orienta kaj Centra Eŭropo, Rumanio, Ĉefaĵo
+
+“ Les roulottes, campement de bohémiens “, pentraĵo de Vincent van Gogh kiu prezentas karavanon de nomadaj Romaoj. Tra Wikimedia Commons . Publika havaĵo.
+
+Ĉi tiu artikolo, verkita de Mary Drosopoulos kaj Oana Dumbrava, estis origine eldonita de Osservatorio Balcani e Caucaso Transeuropa (OBC Transeuropa) en Decembro 2024. Global Voices reeldonis ĝian redaktitan version sub verko-disvastiga interkonento.
+
+La tiel nomata “senŝtata popolo”, kiu origine migris el norda Barato al Eŭropo en la 14a jarcento, hodiaŭ oficiale nomiĝas “Romao” kaj “Vojaĝistoj”, du inkluzivaj vortoj adoptitaj de la Konsilio de Eŭropo por enbrakigi la vaste diversajn etnajn grupojn, dividitajn ĉi tiel: Romaoj [eo], Sintioj/Manush [eo], Kaleoj [eo], Kaale , Romanichal , Bojaŝoj/Rudari , Balkanaj Egiptanoj ( Egiptanoj kaj Aŝkalioj [eo]), orientaj grupoj ( Dom , Lomoj [eo], kaj Abdal ), Vojaĝistoj , Jeniŝoj , popoloj kiujn oni nomas “nomadoj”, kaj homoj kiuj mem identiĝas kiel “Ciganoj”.
+
+La historio de la Romaoj en Eŭropo temas pri sufero. Dum jarcentoj, multaj Romaoj estis sklavigitaj de nobelaj familioj kaj ŝtatoj ĝis sklaveco estis finfine abolita en la 19a jarcento. Sed libereco neniam signifis egalecon. Deviga asimilado, perforta forpelo, kaj la teruroj de la Holokaŭsto [eo] — kiam inter 220 000 ĝis 1,5 milionoj da Romaoj mortis — kaŭzis profundan vundon. La Romaoj daŭre suferis sisteman diskriminacion post la Dua Mondmilito, sed ilia viva kultura heredaĵo en muziko, dancoj, kaj rakontoj tamen daŭre ekzistas. Hodiaŭ, la romaa komunumo daŭre strebas al egalaj rajtoj kaj agnosko.
+
+Kion la lernolibroj de rumania historio diras pri la romaa popolo?
+
+Dum la komunista reĝimo de Nicolae Ceaușescu en Rumanio, estis preskaŭ neniu mencio pri Romaoj en lernejaj lernolibroj. Penante reklami unuiĝintan nacian identecon centrigitan al etnaj Rumanoj, la spertoj kaj kontribuoj de Romaoj kaj aliaj minoritatoj estis ekskluditaj el historiaj libroj. Ĉi tiu ekskludo estis intence planita por malgravigi etnan diversecon kaj kreskigi unuecan version de rumania identeco. Asimilistaj politikoj celis puŝi romaajn komunumojn por ke ili forlasu siajn kulturajn praktikojn, por fortigi ilian nevideblecon en oficiala diskuto kaj daŭrigi malnovajn stereotipojn kaj diskriminaciojn, kiuj persistas.
+
+Post la falo de komunismo , la edukada sistemo de Rumanio estis influita de la malrapida transiĝo al demokratio, indikita de daŭraj reformoj kaj oftaj ŝanĝoj. Dum la transiĝaj jaroj, la inklino de individuo por flankiĝi al sia etna grupo kaŭzis la procezon de socia klasigo laŭ la etno, kaj fiksis plian diskriminacion.
+
+Greka romaa virino. Foto de la uzanto Stalik tra Wikimedia Commons . Publika havaĵo.
+
+Nun, la rumana ministro pri edukado kontrolas multajn elekteblajn lernolibrojn por ĉiu kurso. La oferto havas tre variajn kvalitojn kaj metodojn: kelkaj libroj fokusiĝas tradiciajn rakontojn, sed aliaj havas pli modernajn inkluzivajn perspektivojn. Instruistoj povas principe elekti la librojn, kiujn ili konsideras taŭgaj por siaj studentoj. Oni bonvenigas ĉi tiun liberecon por elekti, sed ĉi tiu fleksebleco kaŭzas nekonstantecon.
+
+La alta mezlerneja historia lernolibro (Gimnazia eldono), eldonita en 2007, estas unu el la plej fruaj lernolibroj, kiuj mencias la sklavecon de la Romaoj. Tamen, ĝi traktas la problemon per stereotipoj, rilatigante la pozicion de Romaoj al ilia “arĥaikeco”. “Ekde ilia alveno al ĉi tiuj landoj,” la libro deklaras, “la Romaoj estis taksitaj kiel malsupera popolo pro sia arĥaika vivstilo kaj fizika aspekto. Tial, ekde la komenco, ili estis marĝenigitaj kaj izolitaj.”
+
+Nun, altaj mezlernejaj studentoj en Rumanio lernas per lernolibro (ART eldono) ke “sklavigitaj” Romaoj vivis malriĉe, praktikante siajn laborojn kaj konservante sian tradician vivstilon. Sen plia klarigo, ĉi tiu priskribo montras antaŭjuĝon kaj riskas krei ĝeneraligon. Alia lernolibro (eldonita de CD Press) diras ke la Romaoj en la Mezepoko “suferis ĉiajn maljustecon kaj mistrakton de siaj mastroj” sed asertas ke la Romaoj “vivis kun Rumanoj, integrite al la mezepoka societo.”
+
+Kaj pri la romaa holokaŭsto , ni legas (la version laŭ la lernolibro de Niculescu) ke “multaj Romaoj estis deportitaj, kaj kelke da ili mortis pro detena reĝimo.” La lernolibro ne klarigas pliajn detalojn, kiuj povas plibonigi komprenon pri la historia kondiĉo.
+
+Pritrakti la romaan historion ne nur temas pri sklaveco, deportado, kaj genocido, sed ankaŭ por atentigi pri homoj, kiuj travivis ĉi tiujn teruraĵojn. Luiza Medeleanu, fakulo pri interkultura edukado [eo], proponas ke rumanaj studentoj devas plu lerni pri homoj, kiel Anna Frank [eo], sed ankaŭ pri Constantin Anica , juna romaa travivinto de la holokaŭsto, por kreskigi kompaton kaj dialogon.
+
+Sed Ioan Cristian Caravană, instruisto pri historio, rimarke diris ke la historio instruata en rumaniaj lernejoj estas ankoraŭ “oficiala historio por parkerigo. Anstataŭ instigi kritikan pensadon, la lecionoj prezentas jam-fiksitan rakonton, kiu limigas pli profundan komprenon.” La lernejo estas la plej bona loko por prezenti signifajn rakontojn, komenci debatojn, kaj instigi al romaaj studentoj kompreni siajn originon kaj historion kaj kreskigi sian memestimon.
+
+Poŝtmarko de Rumanio, 2014-16. Tra Wikimedia Commons . Publika havaĵo.
+
+Laŭ fama rumana antropologo Vintilă Mihăilescu [en], historia edukado profunde influas la apartenan senton de studentoj. Kiam lernolibroj fokusiĝas nur rumanajn heroojn kaj malatentas la historion de la romaa popolo, ili riskas sendi malbonan mesaĝon al romaaj studentoj kaj sentigi al ili ekskludon.
+
+La kazo en Grekio
+
+La plej fruaj mencioj pri la romaa popolo en la Peloponezo [eo] troviĝas ekde la 14a jarcento. Kvankam ne estas akademia interkonsento pri la vojoj kaj kondiĉoj de romaa migrado, oni supozas ke ilia alveno estis la rezulto de migraj ondoj al centra Eŭropo, la Balkanoj, kaj Grekio—ĉefe la regionoj de Trakio kaj Makedonio—ĉar la Otomana Imperio [eo] iom post iom plivastiĝis ĝis la teritorio de la Bizanca Imperio [Orienta Romia Imperio, nldr.] je la fino de la 14a jarcento kaj la komenco de la 15a jarcento, kaj kulminis kiam Konstantinopolo [eo] falis en 1453.
+
+Malgraŭ sia delonga ekzisto en Grekio , la Romaoj ĵus akiris politikajn rajtojn ĉirkaŭ 1970. La unua dokumentado de romaaj komunumoj estis farita en 1996. Laŭ datumoj en 2021 de la Ĝenerala Sekretario de Socia Solidareco kaj Kontraŭ Malriĉeco, la nombro de Romaoj en la lando estis 117 495 daŭraj loĝantoj, kiuj formas 1,13 procentojn de la tuta populacio. Plejparte da grekaj Romaoj estas ortodoksaj kristanoj.
+
+Laŭ la oficejo de UNICEF en Grekio, la Romaoj formas ankoraŭ vundeblan minoritaton, kiu suferas malfacilaĵon por akiri domon, sanservon, edukadon, kaj dungadon. Dum la lastaj jardekoj, la greka Ministerio pri Edukado lanĉis kelkajn projektojn por kontraŭi senlegoscion [eo] kaj delikton en romaaj komunumoj. Ekde ĉirkaŭ 1990, kelkaj grekaj universitatoj lanĉis komencajn programojn kun ambicia celo: konduki romaajn infanojn el la stratoj kaj infanlaboreco al la lernejoj. Specife ekde 2015, la registaro jam reklamis kelkajn eksterlenejajn kursojn por romaaj infanoj.
+
+Fremdeco, ekzotismo, kaj pseŭdo-interkultureco
+
+“La Aŭgusta Luno” (Τ’ αυγουστιάτικο φεγγάρι) de la greka aŭtoro Voula Mastori estas unu el la klasikaj post-militaj grekaj literaturoj por infanoj, verko tradicie inkludita en la listo de legaĵoj por studentoj. La libro rakontas pri iu juna knabeculino dum ŝia lasta nivelo de bazlernejo en la suburbo. Pro sia malkonforma konduto, la protagonisto kreas maltrankvilecon en la konservativa societo: ŝi amikiĝis kun iu juna romaa stanforĝisto, kiun la najbaraj infanoj timas kaj de kiu ili forkuras. La ekzisto de la maskla rolulo, kiu nek estas ŝtelisto nek infankaptisto malkonforme al la populara supozo, estas unu “malpli malbona” mencio pri “ciganoj” en greka infana literaturo, kiu konservas, eĉ se ĝi ne ripetas, stereotipan kaj diskriminacian prezenton pri la romaa popolo.
+
+La kovrilo de “La Aŭgusta Luno” de la greka aŭtoro Voula Mastori.
+
+Nome de tiel dirata varbado de plurkultureco, kiun postulas nia tutmonda socio, ekzistas malprofundaj klopodoj por inkludi popolojn, kiujn oni konsideras fremdaj , kiel la Romaoj, migrintoj, kaj rifuĝintoj. Sed, kiel kutime, oni ne povas atingi interkulturan dialogon nur per stereotipaj mencioj pri manĝaĵoj, dancoj, kaj kantoj. Oni bezonas pli profundan dialogon, kiu nun mankas en nia edukada sistemo.
+
+Nome de tiel dirata varbado de plurkultureco, kiun postulas nia tutmonda socio, ekzistas malprofundaj klopodoj por inkludi popolojn, kiujn oni konsideras fremdaj , kiel la Romaoj, migrintoj, kaj rifuĝintoj. Sed, kiel kutime, oni ne povas atingi interkulturan dialogon nur per stereotipaj mencioj pri manĝaĵoj, dancoj, kaj kantoj. Oni bezonas pli profundan dialogon, kiu nun mankas en nia edukada sistemo.
+
+La forpasinta profesoro Sofia Gavriilidis faris gravan akademian verkon pri pedagogio, kiu klarigas ekzemplojn de “pseŭdo-interkulturaj” libroj por infanoj en formalaj edukado kaj literaturo. Pseŭdo-interkultureco estas klopodo por agnoski aliajn kulturojn sed per manieroj, kiuj ekzotigas la fremdan popolon kaj plu emfazas malsamecon anstataŭ fari ponton per komunaj trajtoj, aŭ implicas la superecon de la dominanta kulturo prezentante la fremdan popolon kiel viktimo.
+
+Georgia Kalpazidou estas aktivisto, verkisto, kaj kunfondinto de la ne-registara organizo REVMA ( Roma Educational Vocational Maintainable Assistance , Romaa Edukada Profesia Daŭrigebla Asisto), kiu lokiĝas en Ampelokipoi-Menemeni , norda Grekio. La lingvistika doktora kandidato kaj membro de la romaa komunumo, Kalpazidou, jam mentoris junajn knabinojn por aliro al edukado. Por plenigi la mankon en grekaj infanaj fikcioj, la juna verkisto eldonis infanan bildlibron pri la frua foriro de romaaj infanoj el lernejoj. Demandite pri la ekzisto de romaa kulturo en lernolibroj, ŝia respondo konfirmas la menciitan tendecon.
+
+Ĉi tio estas interesa problemo, mi ankaŭ studis ĝin kaj konkludis ke estas neniu mencio, krom kelkaj stereotipaj (kvankam ne nepre malbonaj) bildoj, kiujn studentoj povas trovi kiam ili legas fikciajn librojn. Do la instruistoj devas mem decidi ĉu ili volas plu esplori la temon aŭ ne; formalaj lernolibroj ne havas ajnan indikon pri tio.
+
+Ĉi tio estas interesa problemo, mi ankaŭ studis ĝin kaj konkludis ke estas neniu mencio, krom kelkaj stereotipaj (kvankam ne nepre malbonaj) bildoj, kiujn studentoj povas trovi kiam ili legas fikciajn librojn. Do la instruistoj devas mem decidi ĉu ili volas plu esplori la temon aŭ ne; formalaj lernolibroj ne havas ajnan indikon pri tio.
+
+Konkludo
+
+Konklude, per la komparo de kazoj inter la du landoj en sudorienta Eŭropo, Rumanio kaj Grekio, ŝajnas ke prezenti historion en lernolibroj estas pli malsimpla defio hodiaŭ ol antaŭe. Ne nur temas pri datoj kaj eventoj, sed ankaŭ pri inkludi opiniojn, alfronti malkomfortajn verojn, kaj malkonstrui malnovajn perspektivojn. Kvankam la historio de la romaa popolo estas plena je malfacilaĵoj kaj persistemoj, de sklaveco ĝis travivado de la holokaŭsto, ĉi tiu realo estas ofte malgravigita aŭ misprezentita en lernolibroj. Ĉi tio kreas malfacilan sed gravan demandon: kiel ni povas instrui historion, kiu reprezentas ĉies spertojn?
+
+
+---
+
+# Demandoj kaj respondoj: Renkontiĝu kun Rafiki kaj Rafif, aktivistoj de la batavia lingvo
+
+**Published:** 2025-04-09
+
+**URL:** https://eo.globalvoices.org/2025/04/15229/
+
+**Author:** Adam D. Prakasa
+
+**Categories:** Angla, Civitanaj komunikiloj, Edukado, Indiĝenoj, Indonezio, Lingvo, Rising Voices
+
+Rafif (maldekstre) kaj Rafiki (dekstre) dum la unua sesio de Betawi WikiLatih (kurso por batavlingva Vikipedio) en Decembro 2024. Foto de Risa Mufliharsi. Uzata kun permeso.
+
+Ĉi tiu serio prezentos la personajn rakontojn de lingvaj aktivistoj, kiuj ankaŭ estas vikimedianoj, esplorante la manierojn, kiel ili konservas, reklamas, kaj revivigas siajn lingvojn per vikimediaj projektoj, per diĝitaj aparatoj por subteni siajn pli grandajn celojn. En ĉi tiu artikolo, Ramzy Muliawan intervjuis Rafiki kaj Rafif , la estroj de Komunitas Wikimedia Jakarta kaj aktivaj kontribuantoj al la vikipedio en la batavia lingva kiam ili parolis pri la metodoj, kiel ili organizas agadojn kaj traktas siajn defiojn, kunigante aliajn homojn, kiuj havas la saman motivon por konservi la batavian lingvon [ ndltr. Indonezianoj kiuj loĝis en “Batavio” nomas sin “ betawi ” (batavianoj) kvankam nek ili nek la lingvo devenas de la orginala etna grupo de batavoj. Tial  “batavia lingvo” – la lingvo parolata en Batavio, ne nepre la etna lingvo de la originalaj batavoj. Batavia estis ankaŭ la nomo kiun la nederlandanoj donis al la ĉefurbo de Indonezio , la hodiaŭa Ĝakarto ].
+
+La intervjuo estis redaktita pro klareco kaj mallongeco.
+
+Rising Voices (RV): Bonvole prezentu vin al ni.
+
+Rafiki : Mi estas Rafiki, denaska batavia parolanto, kaj mandarena ĉinlingva instruisto en bazlernejo kaj metia lernejo en Bekasi, Okcidenta Javo. Mi uzas la batavian ĉiutage kun familianoj, parencoj, najbaroj, kaj loĝantoj de mia vilaĝo en Bekasi. Mi ankaŭ aktive partoprenas en la komunumo de vikimedianoj en Ĝakarto [eo]. Rafif : Mia nomo estas Rafif Aufa Nanda. Mi estas denaska parolanto de la batavia, lingvisto, kaj lingvo-aktivisto. Mi okupiĝas pri lingva aktivismo ekde 2016, varbante por lingvoj ĉirkaŭ la ĝakarta regiono, kiel la batavia, la tugu-lingvo kaj la lingvoj tugu kaj petjoh. Mi ankaŭ estas aktiva en vikimediaj projektoj kiel la batavia vikipedio kaj la batavia vikivortaro (en la Inkubatoro ).
+
+Rafiki : Mi estas Rafiki, denaska batavia parolanto, kaj mandarena ĉinlingva instruisto en bazlernejo kaj metia lernejo en Bekasi, Okcidenta Javo. Mi uzas la batavian ĉiutage kun familianoj, parencoj, najbaroj, kaj loĝantoj de mia vilaĝo en Bekasi. Mi ankaŭ aktive partoprenas en la komunumo de vikimedianoj en Ĝakarto [eo].
+
+Rafif : Mia nomo estas Rafif Aufa Nanda. Mi estas denaska parolanto de la batavia, lingvisto, kaj lingvo-aktivisto. Mi okupiĝas pri lingva aktivismo ekde 2016, varbante por lingvoj ĉirkaŭ la ĝakarta regiono, kiel la batavia, la tugu-lingvo kaj la lingvoj tugu kaj petjoh. Mi ankaŭ estas aktiva en vikimediaj projektoj kiel la batavia vikipedio kaj la batavia vikivortaro (en la Inkubatoro ).
+
+RV: Kio estas la nuna statuso de via lingvo interrete kaj surloke?
+
+Rafiki : La batavia lingvo estas ekforlasata de batavianoj ĉar multaj junuloj, precipe infanoj, ne povas paroli la batavian. La denaskaj parolantoj mem konsideras la lingvon kruda, malĝentila, kaj maltaŭga por publika uzo, kaj bataviaj gepatroj ne ofte parolas la batavian kun siaj gefiloj. Eĉ pli malbone, la lingvo ankaŭ estas foje traktata kiel ŝerco, ĉar ĝi estas multe uzata en lenong (tradicia batavia teatro) kaj kelkaj aliaj ŝercaj verkoj, inkluzive mallongaj videaĵoj de bataviaj famuloj kun ilia unika batavia akĉento, kiun kelkaj homoj foje konsideras amuza. Rafif : La batavia lingvo aŭ batavian — tiel mi preferas nomi la lingvon angle — havas nek oficialan statuson nek dediĉitan studindan kurson en lernejoj. Imagu kiel ni devas lerni alian regionan lingvon, ekz. la sundan, kiam ni loĝas en regiono, kie oni ne parolas la sundan. La batavia estas ofte miskomprenata kiel neformala ĝakarta versio de la indonezia lingvo ( Bahasa Indonesia Jakarta aŭ Bahasa Indonesia sehari-hari ) ĉar ĝi estis forte influita de la batavia lingvo. Bedaŭrinde, la batavia lingvo iel malaperas iom post iom. La batavian oni ofte stereotipe taksas “malĝentila”, kruda, ne edukita, kaj komika pro ĝia ofta uzo kiel neformala parola lingvo, kaj ĝia prezento kiel “la lingvo de komedio kaj lukto” en televidilo. Ĉi tiu stereotipo ekzistas ne nur por la lingvo. Ĝi kreas pli malbonajn sociajn stigmatojn por batavianoj kaj ilia batavia identeco — kun marĝenigo kaj malamo kontraŭ batavianoj en kelkaj pli malbonaj kazoj. Do, kelkaj homoj malestimas sin por agnoski ke ili estas batavianoj, paroli la batavian, kaj instrui ĝin al la sekvontaj generacioj. La lingva katalogo Ethnologue klasifikas la batavian en la kategorion 6B (endanĝerigita) . Interretaj provizoj por batavlingva servo estas ankoraŭ malmultaj. La reta tradukilo Google Translate ĵus lanĉis servon por la batavia antaŭ nelonge, sed ĝi estas ankoraŭ tre ne perfekta.
+
+Rafiki : La batavia lingvo estas ekforlasata de batavianoj ĉar multaj junuloj, precipe infanoj, ne povas paroli la batavian. La denaskaj parolantoj mem konsideras la lingvon kruda, malĝentila, kaj maltaŭga por publika uzo, kaj bataviaj gepatroj ne ofte parolas la batavian kun siaj gefiloj. Eĉ pli malbone, la lingvo ankaŭ estas foje traktata kiel ŝerco, ĉar ĝi estas multe uzata en lenong (tradicia batavia teatro) kaj kelkaj aliaj ŝercaj verkoj, inkluzive mallongaj videaĵoj de bataviaj famuloj kun ilia unika batavia akĉento, kiun kelkaj homoj foje konsideras amuza.
+
+Rafif : La batavia lingvo aŭ batavian — tiel mi preferas nomi la lingvon angle — havas nek oficialan statuson nek dediĉitan studindan kurson en lernejoj. Imagu kiel ni devas lerni alian regionan lingvon, ekz. la sundan, kiam ni loĝas en regiono, kie oni ne parolas la sundan. La batavia estas ofte miskomprenata kiel neformala ĝakarta versio de la indonezia lingvo ( Bahasa Indonesia Jakarta aŭ Bahasa Indonesia sehari-hari ) ĉar ĝi estis forte influita de la batavia lingvo. Bedaŭrinde, la batavia lingvo iel malaperas iom post iom. La batavian oni ofte stereotipe taksas “malĝentila”, kruda, ne edukita, kaj komika pro ĝia ofta uzo kiel neformala parola lingvo, kaj ĝia prezento kiel “la lingvo de komedio kaj lukto” en televidilo. Ĉi tiu stereotipo ekzistas ne nur por la lingvo. Ĝi kreas pli malbonajn sociajn stigmatojn por batavianoj kaj ilia batavia identeco — kun marĝenigo kaj malamo kontraŭ batavianoj en kelkaj pli malbonaj kazoj. Do, kelkaj homoj malestimas sin por agnoski ke ili estas batavianoj, paroli la batavian, kaj instrui ĝin al la sekvontaj generacioj. La lingva katalogo Ethnologue klasifikas la batavian en la kategorion 6B (endanĝerigita) . Interretaj provizoj por batavlingva servo estas ankoraŭ malmultaj. La reta tradukilo Google Translate ĵus lanĉis servon por la batavia antaŭ nelonge, sed ĝi estas ankoraŭ tre ne perfekta.
+
+RV: Kio estas via persona motivo por okupiĝi en cifereca aktivismo por via lingvo?
+
+Rafiki : La batavia estas ekforlasata de siaj parolantoj. Mi zorgas ke ĝi ne baldaŭ malaperos ĉar malmultaj parolantoj uzas ĝin. Tial, mi estas motivita por disvastigi la batavian per diĝitaj aparatoj, por ke ĝi daŭre ekzistas kaj pli da homoj povos lerni ĝin. Rafif : Mi estas motivata de unu simpla demando — ĉu mi, kiel lingvisto, simple lasu mian denaskan lingvon malaperi kvankam mi rimarkis ĝian tragikan staton? Lingva malapero ankaŭ povas kaŭzi la malaperon de kulturo kaj eĉ identenco kiam la popolo ne povas vidi ajnan evidentan trajton, kiu markas la limojn de identeco. Multaj homoj kaj la registaro nur arogas sian sloganon “ lestarikan bahasa daerah ” (konservu la regionajn lingvojn). Kvankam homoj estas instigitaj por uzi siajn lingvojn hejme, tio ne produktas grandan rezulton. Ĝis nun, plejparte da lokaj lingvoj en Indonezio estas ankoraŭ limigitaj al neformala uzo. Kelkaj grandaj lokaj lingvoj estas instruataj en lernejoj, sed la lecionoj ĉefe temas pri lokaj tradicioj. Oni ne taksas lokajn lingvojn utilaj por pli vastaj situacioj, kiel sciencaj kaj informaj celoj. Konsekvence, plejparte da homoj preferas pli prestiĝajn lingvojn, ekz. la indonezian kaj la anglan. Ni devas ekpensi pli ol “konservado”, kaj ekdisvolvi niajn denaskajn lingvojn, por ke ili povu superi la defiojn en nia moderna societo. Unu el la plej bonaj manieroj por disvolvi niajn denaskajn lingvojn estas per la diĝita amaskomunikilaro, kiu jam fariĝis neseparebla parto de niaj vivoj.
+
+Rafiki : La batavia estas ekforlasata de siaj parolantoj. Mi zorgas ke ĝi ne baldaŭ malaperos ĉar malmultaj parolantoj uzas ĝin. Tial, mi estas motivita por disvastigi la batavian per diĝitaj aparatoj, por ke ĝi daŭre ekzistas kaj pli da homoj povos lerni ĝin.
+
+Rafif : Mi estas motivata de unu simpla demando — ĉu mi, kiel lingvisto, simple lasu mian denaskan lingvon malaperi kvankam mi rimarkis ĝian tragikan staton? Lingva malapero ankaŭ povas kaŭzi la malaperon de kulturo kaj eĉ identenco kiam la popolo ne povas vidi ajnan evidentan trajton, kiu markas la limojn de identeco. Multaj homoj kaj la registaro nur arogas sian sloganon “ lestarikan bahasa daerah ” (konservu la regionajn lingvojn). Kvankam homoj estas instigitaj por uzi siajn lingvojn hejme, tio ne produktas grandan rezulton. Ĝis nun, plejparte da lokaj lingvoj en Indonezio estas ankoraŭ limigitaj al neformala uzo. Kelkaj grandaj lokaj lingvoj estas instruataj en lernejoj, sed la lecionoj ĉefe temas pri lokaj tradicioj. Oni ne taksas lokajn lingvojn utilaj por pli vastaj situacioj, kiel sciencaj kaj informaj celoj. Konsekvence, plejparte da homoj preferas pli prestiĝajn lingvojn, ekz. la indonezian kaj la anglan. Ni devas ekpensi pli ol “konservado”, kaj ekdisvolvi niajn denaskajn lingvojn, por ke ili povu superi la defiojn en nia moderna societo. Unu el la plej bonaj manieroj por disvolvi niajn denaskajn lingvojn estas per la diĝita amaskomunikilaro, kiu jam fariĝis neseparebla parto de niaj vivoj.
+
+RV: Ĉu vi povas rakonti vian interretan lingvan aktivismon pli detale, inkluzive pri la manieroj, kiel vikimediaj projektoj kontribuas al viaj klopodoj?
+
+Rafif : Ni opinias ke vikipedio estas vaste konata, praktika kaj efika platformo. Ni povas uzi nian denaskan lingvon por edukaj celoj, kiel enciklopedio per vikipedio, kiu jam fariĝis ĉefa bezono en nia societo. Ĉi tiel, nia denaska lingvo povas adaptiĝi al venontaj defioj. La batavia vikipedia projekto estis komencita en 2010 de iu vikimediano, kiun mi persone ne konas. Sed, la projekto estis forlasita en la Vikimedia Inkubatoro dum 13 jaroj sen ajna rimarkinda kresko. En 2023, ni anstataŭe prizorgis la projekton kaj ekdisvolvis ĝin pli intense. Post kelkaj monatoj, en Aprilo 2024, ni sukcese lanĉis la batavian vikipedion. Ĝis nun, ni kreskigas ĝin kun la komunumo de vikimedianoj en Ĝakarto. Rafiki : Vikimediaj projektoj jam vere kontribuis al la klopodoj por konservi la batavian. Betawi Wikipedia kaj Betawi Wikikamus (ankoraŭ en Vikimedia Inkubatoro) jam havas rolon por savi la batavian lingvon de malapero. Mia kontribuo por savi la batavian de malapero estas la uzo de bataviaj terminoj kaj strebi kontraŭ la supozo ke ĝi ne povas esti uzata kiel skriba lingvo. Per la vikimediaj projektoj, ni esperas ke bataviaj parolantoj volos skribi kaj disvastigi la lingvon interrete. Rafif : La vikimediaj projektoj jam ricevis multajn bonajn respondojn de indoneziaj interretanoj. Pasintjare, la artikolo kun la titolo “ Lobang item gedé betul ” (“pezega nigra truo”) disvastiĝis en X , kiu tuj ĵetis la videblon de la projekto al novaj spektantoj. Komence, ili opinias ke ĉi tiu artikolo estas “ridigega” ĉar plejparte da ili taksas la uzatan lingvon komika kaj stranga por tia celo. Sed, plejparte da respondoj estas bonaj, kaj trarompo pri la uzo de la lingvo por enciklopediaj celoj estis vidita — kion oni neniam faris antaŭe. Ni esperas ke la batavia lingvo gajnos pli da favoroj kaj prestiĝo, kaj stabile stariĝos en la socio. Esence, niaj klopodoj celas ne nur konservi nian kulturan heredaĵon, sed ankaŭ rompi malbonajn stereotipojn.
+
+Rafif : Ni opinias ke vikipedio estas vaste konata, praktika kaj efika platformo. Ni povas uzi nian denaskan lingvon por edukaj celoj, kiel enciklopedio per vikipedio, kiu jam fariĝis ĉefa bezono en nia societo. Ĉi tiel, nia denaska lingvo povas adaptiĝi al venontaj defioj. La batavia vikipedia projekto estis komencita en 2010 de iu vikimediano, kiun mi persone ne konas. Sed, la projekto estis forlasita en la Vikimedia Inkubatoro dum 13 jaroj sen ajna rimarkinda kresko. En 2023, ni anstataŭe prizorgis la projekton kaj ekdisvolvis ĝin pli intense. Post kelkaj monatoj, en Aprilo 2024, ni sukcese lanĉis la batavian vikipedion. Ĝis nun, ni kreskigas ĝin kun la komunumo de vikimedianoj en Ĝakarto.
+
+Rafiki : Vikimediaj projektoj jam vere kontribuis al la klopodoj por konservi la batavian. Betawi Wikipedia kaj Betawi Wikikamus (ankoraŭ en Vikimedia Inkubatoro) jam havas rolon por savi la batavian lingvon de malapero. Mia kontribuo por savi la batavian de malapero estas la uzo de bataviaj terminoj kaj strebi kontraŭ la supozo ke ĝi ne povas esti uzata kiel skriba lingvo. Per la vikimediaj projektoj, ni esperas ke bataviaj parolantoj volos skribi kaj disvastigi la lingvon interrete.
+
+Rafif : La vikimediaj projektoj jam ricevis multajn bonajn respondojn de indoneziaj interretanoj. Pasintjare, la artikolo kun la titolo “ Lobang item gedé betul ” (“pezega nigra truo”) disvastiĝis en X , kiu tuj ĵetis la videblon de la projekto al novaj spektantoj. Komence, ili opinias ke ĉi tiu artikolo estas “ridigega” ĉar plejparte da ili taksas la uzatan lingvon komika kaj stranga por tia celo. Sed, plejparte da respondoj estas bonaj, kaj trarompo pri la uzo de la lingvo por enciklopediaj celoj estis vidita — kion oni neniam faris antaŭe. Ni esperas ke la batavia lingvo gajnos pli da favoroj kaj prestiĝo, kaj stabile stariĝos en la socio. Esence, niaj klopodoj celas ne nur konservi nian kulturan heredaĵon, sed ankaŭ rompi malbonajn stereotipojn.
+
+
+---
+
+# La nova registaro de Indonezio puŝas transmigran planon, incitante protestojn en Papuo
+
+**Published:** 2025-04-11
+
+**URL:** https://eo.globalvoices.org/2025/04/15225/
+
+**Author:** Adam D. Prakasa
+
+**Categories:** Angla, Blogo, Civitanaj komunikiloj, Historio, Homaj rajtoj, Indonezio, Milito kaj konflikto, Orienta Azio, Politiko, Protesto, Regado
+
+Eksa malliberulo, Sayang Mandabayan, tenas afiŝon, kie estis skribita “Mi malaprobas transmigradon.” Foto afiŝita en konto de X (Twitter) de Veronica Koman, uzata permesite.
+
+Indonezia prezidento, Prabowo Subianto, kiu oficiĝis en la 20a de Oktobro 2024, anoncis la rekomencon de la transmigra programo, kiu instigas civitanojn al loĝado en la orienta regiono de la lando, inkluzive Papuo [eo] — la provinco en la plej orienta flanko de la insularo, kiu jam dum dekjaroj batalas por sendependeco el Javo. La Indonezia registaro diris ke ĝi celas progresigi “la prosperon de la popoloj”, sed kritikantoj avertas ke la plano povas plu forpeli la indiĝenan loĝantaron de Papuo.
+
+Papuo estis aneksita de Indonezio en 1963, sed ĉi tio estis forte rezistita de la loka loĝantaro kaj ĝis hodiaŭ ankoraŭ ekzistas movado por memdecido .
+
+Indiĝenaj papuoj havas etnan originon diverĝantan de javaj indonezianoj, kaj unikajn kulturajn tradiciojn kaj historiojn. La papuoj jam delonge suferas rasismon, diskriminacion, perforton, kaj forpelon de Indonezio, kiu batalis por teni la resurso-riĉan provincon.
+
+Klopodante plie regi Papuon kaj venki ajnajn ribelajn movadojn, inter 1964 kaj 1999, la registaro realigis transmigran programon, kiu helpis transloĝigi 78 000 familiojn el la dense loĝanto-plenaj insuloj, kiel Javo kaj Sumatro, al Papuo. Dum ĉi tiu periodo, atestantoj atestis ke “la tradicia lando estis forprenita (kaj) la arbaroj estis hakitaj” kaj dume la indiĝena popolo de Malind estis malpermesita paroli sian denaskan lingvon. La programo estis haltigita en 2001, sed ne-oficiala transmigro daŭris.
+
+Dum lastaj jaroj, Indonezio plimulte deplojis sian armeon, kio kaŭzis intensan konflikton kaj armeiĝon de la komunumoj. Laŭ la Unuiĝintaj Nacioj, inter 60 000 ĝis 100 000 papuoj estis afliktitaj de ĉi tiuj operacioj.
+
+Prabowo , eks-armeoficisto akuzita pri forkaptado de aktivistoj, estis la bofilo de la prezidento, kiu komencis la transmigran programon. Kelkajn tagojn post sia inaŭguro, li vizitis Papuon por kontroli la disvolviĝan progreson de la nutrobieno, per kiu li celas solvi la problemon de nutra sekureco en la lando. Sed, kelkaj papuaj grupoj malaprobas rigardante ĝin kiel senarbarigon, kiu minacas la biodiversecon de la regiono kaj forpelas lokajn vilaĝanojn.
+
+La Unuiĝinta Movado por Liberigo de Okcidenta Nov-Gvineo substrekis la rilaton inter la rekomenco de transmigrado kaj la deviga ŝanĝo de arbaroj al agrikulturaj plantejoj.
+
+Ne estas koincido ke Prabowo anoncis la novan transmigran programon samtempe kiam ilia naturdetrua senarbariga reĝimo pli-intensiĝis. Ĉi tiu ĝemela programo montras la du flankojn de indonezia koloniismo en Okcidenta Nov-Gvineo: ekspluatado kaj ekloĝiĝo. Indonezio nur volas la resursojn de Okcidenta Nov-Gvineo; ili ne volas nian popolon.
+
+Ne estas koincido ke Prabowo anoncis la novan transmigran programon samtempe kiam ilia naturdetrua senarbariga reĝimo pli-intensiĝis. Ĉi tiu ĝemela programo montras la du flankojn de indonezia koloniismo en Okcidenta Nov-Gvineo: ekspluatado kaj ekloĝiĝo. Indonezio nur volas la resursojn de Okcidenta Nov-Gvineo; ili ne volas nian popolon.
+
+La estro de la grupo salutis la papuajn studentojn, kiuj organizis protestojn kontraŭ la transmigran politikon:
+
+Studentoj de Okcidenta Nov-Gvineo rezistas transmigradon. Ĉi tiuj kontraŭleĝaj ekloĝiĝaj planoj estas grava parto de la genocido farita de Indonezio kontraŭ Okcidenta Nov-Gvineo kaj danĝera minaco al nia vivo. Se melaneziaj estroj lasas ĉi tion okazi, ni estos forigitaj @MsgSecretariat @ForumSEC @PngPles @DailypostVu pic.twitter.com/H5beps8VvI — Benny Wenda (@BennyWenda) la 4an de Novembro, 2024
+
+Studentoj de Okcidenta Nov-Gvineo rezistas transmigradon. Ĉi tiuj kontraŭleĝaj ekloĝiĝaj planoj estas grava parto de la genocido farita de Indonezio kontraŭ Okcidenta Nov-Gvineo kaj danĝera minaco al nia vivo. Se melaneziaj estroj lasas ĉi tion okazi, ni estos forigitaj @MsgSecretariat @ForumSEC @PngPles @DailypostVu pic.twitter.com/H5beps8VvI
+
+— Benny Wenda (@BennyWenda) la 4an de Novembro, 2024
+
+La homrajta advokato Veronica Koman afiŝis fotojn kaj videaĵojn de protestoj en Papuo kontraŭ la transmigran planon.
+
+La popolo de Okcidenta Nov-Gvineo jam parolis. Ĵus hodiaŭ (15/11/24), protestoj kontraŭ la ekloĝiĝa-koloniisma transmigra plano de Indonezio okazis en: Jayapura, Nabire, Sorong, Manokwari, Yahukimo, Yalimo, Timika, Makassar. pic.twitter.com/u0ucw8RfUW — Veronica Koman 許愛茜 (@VeronicaKoman) la 5an de Novembro, 2024
+
+La popolo de Okcidenta Nov-Gvineo jam parolis.
+
+Ĵus hodiaŭ (15/11/24), protestoj kontraŭ la ekloĝiĝa-koloniisma transmigra plano de Indonezio okazis en:
+
+Jayapura, Nabire, Sorong, Manokwari, Yahukimo, Yalimo, Timika, Makassar. pic.twitter.com/u0ucw8RfUW
+
+— Veronica Koman 許愛茜 (@VeronicaKoman) la 5an de Novembro, 2024
+
+La civila societa grupo, Civicus, jam observis ke la atakoj kontraŭ la pacaj protestantoj en Papuo jam intensiĝis antaŭ la inaŭguro de Prabowo.
+
+Papuaj aktivistoj estis pafitaj, suferis minacon pro sia porparolo, ankaŭ molestadon kaj malbonan traktadon pro sia aktivismo. Atakoj kaj mortigoj de ĵurnalistoj daŭris, inkluzive en Papuo.
+
+Papuaj aktivistoj estis pafitaj, suferis minacon pro sia porparolo, ankaŭ molestadon kaj malbonan traktadon pro sia aktivismo. Atakoj kaj mortigoj de ĵurnalistoj daŭris, inkluzive en Papuo.
+
+Krome, kvin novaj batalionoj estis deplojitaj , kaj almenaŭ 2000 soldatoj estis senditaj al Papuo en Septembro kaj Oktobro.
+
+Patro John Bunay, prezidanto de la Justeco, Paco, kaj Integreco de Krea Komisio de Episkopujo de Jayapura, alarmis pri la forpreno de landoj en Papuo. “Estas tre multe da migrantoj venantaj al Papuo. Okazis forpreno de vivspaco el la indiĝena papua popolo, farita de ne-papuoj.”
+
+La Internaciaj Parlamentanoj por Okcidenta Nov-Gvineo admonas la Indonezian registaron por permesi la Altan Komisaron de la Unuiĝintaj Nacioj pri Homaj Rajtoj kontroli la kondiĉon en Papuo. La grupo ankaŭ kritikis la eblan malbonan influon pro la rekomeco de la transmigra programo
+
+La celo de transmigrado estas dilui la indiĝenan melanezian loĝantaron kaj samtempe certigi regadon super la riĉa natura resurso de Okcidenta Nov-Gvineo. Transmigrado kreis strukturan diskriminacion en edukado, landaj rajtoj, kaj dungoj. Ekzistas altnivela ne-egaleco de enspezo kaj riĉeco inter papuoj kaj indonezianoj dum migrintoj dominas en la labora merkato.
+
+La celo de transmigrado estas dilui la indiĝenan melanezian loĝantaron kaj samtempe certigi regadon super la riĉa natura resurso de Okcidenta Nov-Gvineo.
+
+Transmigrado kreis strukturan diskriminacion en edukado, landaj rajtoj, kaj dungoj. Ekzistas altnivela ne-egaleco de enspezo kaj riĉeco inter papuoj kaj indonezianoj dum migrintoj dominas en la labora merkato.
+
+Sed la Transmigra Ministro, Iftitah Sulaiman Suryanagara, asertis ke la programo ne simple transloĝigos homojn, sed “plibonigos la kvaliton de homaj resursoj per socio-kulturaj rimedoj .” Li plu diris:
+
+Nia ĉefa fokuso ne plu estas nur la transloĝigo de homoj, la rimedo antaŭe miskomprenita kiel transdono de malriĉeco el unu loko al alia. Anstataŭe, ni tute klopodos malmultigi malriĉecon kaj kreskigi la prosperon de la popolo.
+
+Nia ĉefa fokuso ne plu estas nur la transloĝigo de homoj, la rimedo antaŭe miskomprenita kiel transdono de malriĉeco el unu loko al alia. Anstataŭe, ni tute klopodos malmultigi malriĉecon kaj kreskigi la prosperon de la popolo.
+
+
+---
+
+# Kiel savi la Kaspian Maron por ke ĝi ne iĝu katastrofo por la natura vivmedio
+
+**Published:** 2025-04-11
+
+**URL:** https://eo.globalvoices.org/2025/04/15176/
+
+**Author:** Adam D. Prakasa
+
+**Categories:** Azerbajĝano, Centra Azio kaj Kaŭkazio, Civitanaj komunikiloj, Disvolvado, Ekonomio kaj komerco, Internaciaj rilatoj, Irano, Katastrofo, Kazaĥio, Medio, Mezoriento kaj Nordafriko, Orienta kaj Centra Eŭropo, Politiko, Regado, Rusa, Rusio, Turkmenio, Ĉefaĵo
+
+La marbordo de la Kaspia Maro en Dagestan, Rusio. Ekranfoto de la videaĵo “Тайны Каспийского моря” en la YouTube-kanalo de Анатомия Монстров . Justa uzo.
+
+La Kaspia Maro , la plej granda ĉirkaŭita akvaĵo en la mondo, alfrontas teruran estontecon pro serioza sekiĝo, perdo de plantoj kaj bestoj, kaj granda poluado. Ĉi-tiuj procezoj jam komenciĝis kaj ĝiaj daŭraj difektiĝoj kaŭzas gravajn riskojn por la ekonomioj kaj la natura vivmedio de kvin apudmaraj landoj: Kazaĥio, Rusio, Azerbajĝano, Irano, kaj Turkmenio.
+
+Sed, la afliktitaj partioj inkluzivas pli multe krom tiuj landoj, ĉar la Kaspia Maro havas gravan rolon en la monda komerco, energio, kaj transportado. La maro estas la loko de la tria plej granda rezervo de petrolo kaj tergaso en la mondo, kaj ĝi rolas kiel la ligilo, kiun oni nomas la “Meza Koridoro” , inter Azio kaj Eŭropo.
+
+Dum la lastaj jaroj, la akva nivelo atingis la plej malaltan punkton registritan en la historio. Se la akva nivelo daŭre malaltiĝas tiel rapide kiel nun, oni divenas ke ĝi malaltiĝos ĝis 18 metrojn je la fino de la jarcento. En ĉi tiu kazo, la akva surfaco malgrandiĝos ĉirkaŭ 93,000 kvadrat-kilometrojn, kiu estas 34 procentoj de la surfaca areo de la tuta maro kaj pli-malpli egalas al la areo de Portugalio. Tiel, la Kaspia Maro eble ripetos tion, kio okazis al la apuda sekiĝinta Arala Maro , kiun oni konsideras unu el la plej grandaj katastrofoj kaŭzita de homoj al la natura vivmedio en la historio de la mondo.
+
+Foto de Vadim Ni. Uzata permesite.
+
+Global Voices okazigis skriban intervjuon kun Vadim Ni, unu el la fondintoj de la movado “ Save the Caspian Sea “ (Savu la Kaspian Maron) por diskuti pri la defioj, kiuj alfrontas la maron, la rezultoj de la poluado, kaj la necesaj rimedoj por certigi ke la katastrofo de la Arala Maro ne reokazos. La intervjuo estis redaktita por klareco kaj mallongeco.
+
+Nurbek Bekmurzaev (NB): Ĉu vi povas rakonti la manieron, kiel “ Save the Caspian Sea ” estis farita? Kio estas la ĉefaj celoj de via projekto?
+
+Вадим Ни (ВН): Мы основали движение Save the Caspian Sea в декабре 2024 года вместе с группой казахстанских и зарубежных экологов, активистов и правозащитников. Поводом послужило критическое состояние Каспийского моря, вызванное ростом температур, сокращением стока реки Волга, который составлял до 8 0-85 процентов в море, а также индустриальным загрязнением. Эти изменения приводят к деградации экосистем, сокращению популяций морских обитателей и ухудшению условий жизни прибрежных сообществ. Основные цели движения – привлечение международного внимания к проблемам Каспия, введение строгих экологических стандартов и обеспечение прозрачности деятельности промышленных компаний. Мы добиваемся усиления экологического контроля за нефтегазовой отраслью, разработки программ по восстановлению экосистем и увеличения международного сотрудничества в вопросах защиты Каспия. На данный момент инициатива уже объединила экспертов, экологов, общественные организации, журналистов и представителей бизнеса.
+
+Вадим Ни (ВН): Мы основали движение Save the Caspian Sea в декабре 2024 года вместе с группой казахстанских и зарубежных экологов, активистов и правозащитников. Поводом послужило критическое состояние Каспийского моря, вызванное ростом температур, сокращением стока реки Волга, который составлял до 8 0-85 процентов в море, а также индустриальным загрязнением. Эти изменения приводят к деградации экосистем, сокращению популяций морских обитателей и ухудшению условий жизни прибрежных сообществ.
+
+Основные цели движения – привлечение международного внимания к проблемам Каспия, введение строгих экологических стандартов и обеспечение прозрачности деятельности промышленных компаний. Мы добиваемся усиления экологического контроля за нефтегазовой отраслью, разработки программ по восстановлению экосистем и увеличения международного сотрудничества в вопросах защиты Каспия. На данный момент инициатива уже объединила экспертов, экологов, общественные организации, журналистов и представителей бизнеса.
+
+Vadim Ni (VN): Ni fondis la movadon “ Save the Caspian Sea ” en Decembro 2024 kun grupo de kazaĥaj kaj foraj naturprotektistoj, aktivistoj, kaj defendantoj de homaj rajtoj. La kialo estis la kriza situacio de la Kaspia Maro, kaŭzita de plivarmiĝo, malmultiĝo de la fluo de la Volga Rivero , kiu kontribuas 80-85 procentoj de la akvo en la maro, kaj industria poluado. Ĉi tiuj ŝanĝoj detruas la ekosistemojn, malmultigas la marajn vivulojn, kaj difektas la vivkondiĉon de marbordaj komunumoj. La ĉefaj celoj de la movado estas altiri internacian atenton al la problemoj de la Kaspia Maro, enkonduki striktan naturprotektan standardon, kaj certigi klaran informadon pri la agadoj of industriaj kompanioj. Ni celas fortigi la naturprotektajn regulojn por petrola kaj tergasa industrio, fari programojn por rebonigi la ekosistemojn, kaj plimultigi internacian kunlaboron por protekti la Kaspian Maron. Nuntempe, la projekto jam unuigis fakulojn, naturprotektantojn, publikajn organizaĵojn, ĵurnalistojn, kaj kompaniajn reprezentantojn.
+
+Vadim Ni (VN): Ni fondis la movadon “ Save the Caspian Sea ” en Decembro 2024 kun grupo de kazaĥaj kaj foraj naturprotektistoj, aktivistoj, kaj defendantoj de homaj rajtoj. La kialo estis la kriza situacio de la Kaspia Maro, kaŭzita de plivarmiĝo, malmultiĝo de la fluo de la Volga Rivero , kiu kontribuas 80-85 procentoj de la akvo en la maro, kaj industria poluado. Ĉi tiuj ŝanĝoj detruas la ekosistemojn, malmultigas la marajn vivulojn, kaj difektas la vivkondiĉon de marbordaj komunumoj.
+
+La ĉefaj celoj de la movado estas altiri internacian atenton al la problemoj de la Kaspia Maro, enkonduki striktan naturprotektan standardon, kaj certigi klaran informadon pri la agadoj of industriaj kompanioj. Ni celas fortigi la naturprotektajn regulojn por petrola kaj tergasa industrio, fari programojn por rebonigi la ekosistemojn, kaj plimultigi internacian kunlaboron por protekti la Kaspian Maron. Nuntempe, la projekto jam unuigis fakulojn, naturprotektantojn, publikajn organizaĵojn, ĵurnalistojn, kaj kompaniajn reprezentantojn.
+
+NB: Kio estas la problemoj kaj defioj, kiuj alfrontas la Kaspian Maron kaj faras danĝeron por ĝia estonteco? Kiu ĉefe poluas ĝin?
+
+ВН: Каспийское море сталкивается с рядом серьезных проблем. Главная из них – стремительное снижение уровня воды. С 2006 года море обмелело почти на два метра , а к концу столетия прогнозируется его падение ещё на 8–18 метров . В некоторых районах Казахстана и Туркменистана береговая линия уже отступила на десятки километров, что ведет к разрушению прибрежных экосистем, пересыханию нерестилищ и гибели многих видов водных обитателей. Помимо изменения климата, значительный урон Каспийскому морю наносит загрязнение промышленными и бытовыми отходами. Основными загрязнителями являются нефтегазовые компании, работающие на месторождениях Тенгиз, Кашаган и Азери-Чираг-Гюнешли. Их деятельность приводит к разливам нефти, выбросам серных соединений и тяжелых металлов, что негативно сказывается на качестве воды и жизни морских обитателей. Огромную роль в загрязнении также играют реки Волга и Урал, которые несут в Каспий промышленные отходы, пестициды и микропластик. Эти процессы уже привели к резкому сокращению популяций осетровых. Из-за загрязнения и неконтролируемого рыболовства численность каспийского тюленя также сократилась более чем на 90 процентов. Мы активно добивается от правительства Казахстана раскрытия обязательств нефтегазовых компаний в рамках соглашений о разделе продукции и концессионных соглашений, подписанных в 1990-х годах. Эти соглашения установили правовую основу для добычи нефти, однако их условия никогда не публиковались, что привело к отсутствию прозрачности в отношении экологических обязательств компаний. Общественный доступ к этой информации необходим для обеспечения ответственности и защиты экосистемы Каспийского моря от дальнейшего ущерба.
+
+ВН: Каспийское море сталкивается с рядом серьезных проблем. Главная из них – стремительное снижение уровня воды. С 2006 года море обмелело почти на два метра , а к концу столетия прогнозируется его падение ещё на 8–18 метров . В некоторых районах Казахстана и Туркменистана береговая линия уже отступила на десятки километров, что ведет к разрушению прибрежных экосистем, пересыханию нерестилищ и гибели многих видов водных обитателей.
+
+Помимо изменения климата, значительный урон Каспийскому морю наносит загрязнение промышленными и бытовыми отходами. Основными загрязнителями являются нефтегазовые компании, работающие на месторождениях Тенгиз, Кашаган и Азери-Чираг-Гюнешли. Их деятельность приводит к разливам нефти, выбросам серных соединений и тяжелых металлов, что негативно сказывается на качестве воды и жизни морских обитателей. Огромную роль в загрязнении также играют реки Волга и Урал, которые несут в Каспий промышленные отходы, пестициды и микропластик.
+
+Эти процессы уже привели к резкому сокращению популяций осетровых. Из-за загрязнения и неконтролируемого рыболовства численность каспийского тюленя также сократилась более чем на 90 процентов.
+
+Мы активно добивается от правительства Казахстана раскрытия обязательств нефтегазовых компаний в рамках соглашений о разделе продукции и концессионных соглашений, подписанных в 1990-х годах. Эти соглашения установили правовую основу для добычи нефти, однако их условия никогда не публиковались, что привело к отсутствию прозрачности в отношении экологических обязательств компаний. Общественный доступ к этой информации необходим для обеспечения ответственности и защиты экосистемы Каспийского моря от дальнейшего ущерба.
+
+VN: La Kaspia Maro alfrontas kelkajn seriozajn problemojn. La ĉefa problemo estas la rapida malaltiĝo de akva nivelo. Ekde 2006, la maro jam malprofundiĝis preskaŭ du metrojn, kaj oni divenas ke ĝi malkreskos 8–18 metrojn plu je la fino de ĉi tiu jarcento. En kelkaj regionoj de Kazaĥio kaj Turkmenio, la marbordo jam malantaŭeniĝis dekojn da kilometroj for de la lando, kio detruas la marbordajn ekosistemojn, sekigas frajejojn [eo], kaj mortigas multajn specojn de akvaj vivuloj. Plie krom klimatŝanĝo, poluado de industria kaj doma rubaĵo kaŭzas grandan difekton. La ĉefaj poluantoj estas petrolaj kaj tergasaj kompanioj, kiuj agadas en la kampoj de Tengiz , Kashagan , kaj Azeri-Chirag-Gunashli . Iliaj agadoj kaŭzas naftoverŝon kaj ellasas sulfurajn kemiaĵojn kaj pezajn metalojn, kiuj malbone influas la kvaliton de akvo kaj mara vivo. La riveroj Volga kaj Urala ankaŭ havas rolon en poluado portante industriajn elĵetaĵojn, pesticidojn kaj mikroplastaĵojn al la Kaspio. Ĉi-tiuj procezoj jam malmultigis la populacion de acipenseredaj fiŝoj. Pro poluado kaj ne-regulita fiŝkaptado, la populacio de fokoj en la Kaspio ankaŭ malmultiĝis pli ol 90 procentojn. Ni aktive puŝas la registaron de Kazaĥio por ke ili publikigu la devigojn de petrolaj kaj tergasaj kompanioj laŭ la konvencio de produkta kunhavigo kaj koncedo, kiu estis konsentita ĉirkaŭ 1990. Ĉi tiuj konvencioj kreis la leĝan bazon por petrola produktado, sed siaj reguloj estas ankoraŭ neniam publikigita, kaj tio kaŭzas malklarecon pri la naturprotektaj devigoj de kompanioj. Publika alireblo al ĉi tiu informo estas necesa por certigi respondecon kaj protekti la ekosistemon de la Kaspia Maro kontraŭ plia difektado.
+
+VN: La Kaspia Maro alfrontas kelkajn seriozajn problemojn. La ĉefa problemo estas la rapida malaltiĝo de akva nivelo. Ekde 2006, la maro jam malprofundiĝis preskaŭ du metrojn, kaj oni divenas ke ĝi malkreskos 8–18 metrojn plu je la fino de ĉi tiu jarcento. En kelkaj regionoj de Kazaĥio kaj Turkmenio, la marbordo jam malantaŭeniĝis dekojn da kilometroj for de la lando, kio detruas la marbordajn ekosistemojn, sekigas frajejojn [eo], kaj mortigas multajn specojn de akvaj vivuloj.
+
+Plie krom klimatŝanĝo, poluado de industria kaj doma rubaĵo kaŭzas grandan difekton. La ĉefaj poluantoj estas petrolaj kaj tergasaj kompanioj, kiuj agadas en la kampoj de Tengiz , Kashagan , kaj Azeri-Chirag-Gunashli . Iliaj agadoj kaŭzas naftoverŝon kaj ellasas sulfurajn kemiaĵojn kaj pezajn metalojn, kiuj malbone influas la kvaliton de akvo kaj mara vivo. La riveroj Volga kaj Urala ankaŭ havas rolon en poluado portante industriajn elĵetaĵojn, pesticidojn kaj mikroplastaĵojn al la Kaspio.
+
+Ĉi-tiuj procezoj jam malmultigis la populacion de acipenseredaj fiŝoj. Pro poluado kaj ne-regulita fiŝkaptado, la populacio de fokoj en la Kaspio ankaŭ malmultiĝis pli ol 90 procentojn.
+
+Ni aktive puŝas la registaron de Kazaĥio por ke ili publikigu la devigojn de petrolaj kaj tergasaj kompanioj laŭ la konvencio de produkta kunhavigo kaj koncedo, kiu estis konsentita ĉirkaŭ 1990. Ĉi tiuj konvencioj kreis la leĝan bazon por petrola produktado, sed siaj reguloj estas ankoraŭ neniam publikigita, kaj tio kaŭzas malklarecon pri la naturprotektaj devigoj de kompanioj. Publika alireblo al ĉi tiu informo estas necesa por certigi respondecon kaj protekti la ekosistemon de la Kaspia Maro kontraŭ plia difektado.
+
+NB: Kiu batalas por konservi la Kaspian Maron je la loka, nacia, kaj regiona niveloj?
+
+ВН: Защиту Каспийского моря обеспечивают как локальные, так и международные организации, а также независимые активисты, многие из которых являются членами нашей кампании. В Казахстане одним из ключевых участников движения является Центр экологических правовых инициатив “Глобус”, который занимается защитой прав граждан на благоприятную окружающую среду. В Азербайджане действует Ассоциация экологического образования, активно продвигающая инициативы по снижению загрязнения воды. На международном уровне экологическая организация Crude Accountability занимается мониторингом нефтедобывающей деятельности в Каспийском регионе и привлечением внимания к проблемам загрязнения. Кроме того, значительную роль играет Extractive Industries Transparency Initiative (EITI), которая требует прозрачности в работе промышленных компаний и соблюдения ими экологических стандартов. Движение Save the Caspian Sea уже стало первым участником глобальной сети Blue Community из Центральной Азии, что подчеркивает его значимость в международном экологическом сообществе. Оно объединяет ученых, экологов и активистов, которые работают над созданием долгосрочных стратегий по сохранению моря и его экосистемы. Несмотря на эти усилия, борьба за сохранение Каспия остается сложной из-за отсутствия эффективных механизмов регионального сотрудничества. Для защиты этого водоема необходимо активное взаимодействие между правительствами, бизнесом и гражданским обществом, а также усиленный контроль за соблюдением природоохранных норм.
+
+ВН: Защиту Каспийского моря обеспечивают как локальные, так и международные организации, а также независимые активисты, многие из которых являются членами нашей кампании. В Казахстане одним из ключевых участников движения является Центр экологических правовых инициатив “Глобус”, который занимается защитой прав граждан на благоприятную окружающую среду. В Азербайджане действует Ассоциация экологического образования, активно продвигающая инициативы по снижению загрязнения воды.
+
+На международном уровне экологическая организация Crude Accountability занимается мониторингом нефтедобывающей деятельности в Каспийском регионе и привлечением внимания к проблемам загрязнения. Кроме того, значительную роль играет Extractive Industries Transparency Initiative (EITI), которая требует прозрачности в работе промышленных компаний и соблюдения ими экологических стандартов.
+
+Движение Save the Caspian Sea уже стало первым участником глобальной сети Blue Community из Центральной Азии, что подчеркивает его значимость в международном экологическом сообществе. Оно объединяет ученых, экологов и активистов, которые работают над созданием долгосрочных стратегий по сохранению моря и его экосистемы.
+
+Несмотря на эти усилия, борьба за сохранение Каспия остается сложной из-за отсутствия эффективных механизмов регионального сотрудничества. Для защиты этого водоема необходимо активное взаимодействие между правительствами, бизнесом и гражданским обществом, а также усиленный контроль за соблюдением природоохранных норм.
+
+VN: La konservado de la Kaspia Maro estas certigita de kaj lokaj kaj internaciaj organizaĵoj, ankaŭ de sendependaj aktivistoj, kaj multaj de ili jam membriĝis al nia movado. En Kazaĥio, unu el la ĉefpartoprenantoj en la movado estas la Centro por Naturprotektaj Leĝo-Projektoj “ Globus ”, kiu aktivas por protekti la rajtojn de civitanoj por favora naturo. En Azerbajĝano, la Asocio por Naturprotekta Edukado aktive reklamas projektojn por malmultigi akvan poluadon. Je la internacia nivelo, la naturprotekta organizaĵo Crude Accountability kontrolas la agadon de petrola produktado en la Kaspia regiono kaj atentigas pri poluadaj problemoj. Krome, gravas ankaŭ la rolo de “ Extractive Industries Transparency Initiative ” (Projekto por Klara Informado pri Ekstraktemaj Industrioj, EITI), kiu devigas klaran informadon en la agadoj de industriaj kompanioj kaj ilia obeado al naturprotektaj normoj. La movado “ Save the Caspian Sea ” jam fariĝis la unua Centra Azia membro de la tutmonda grupo “ Blue Community ” (Blua Komunumo) de Centra Azio, kiu emfazas ĝia graveco en la internacia naturprotekta komunumo. Ĝi unuigas sciencistojn, naturprotektistojn, kaj aktivistojn, kiuj laboras por krei longdaŭrajn strategiojn por konservi la maron kaj ĝian ekosistemon. Malgraŭ ĉi tiuj klopodoj, la batalo por konservi la Kaspion ankoraŭ estas malfacila pro manko de efikaj mekanismoj por regiona kunlaboro. Por protekti la akvaĵon, oni bezonas aktivan kunlaboron inter registaroj, kompanioj kaj la publika societo, ankaŭ plia konformigo al naturprotektaj reguloj.
+
+VN: La konservado de la Kaspia Maro estas certigita de kaj lokaj kaj internaciaj organizaĵoj, ankaŭ de sendependaj aktivistoj, kaj multaj de ili jam membriĝis al nia movado. En Kazaĥio, unu el la ĉefpartoprenantoj en la movado estas la Centro por Naturprotektaj Leĝo-Projektoj “ Globus ”, kiu aktivas por protekti la rajtojn de civitanoj por favora naturo. En Azerbajĝano, la Asocio por Naturprotekta Edukado aktive reklamas projektojn por malmultigi akvan poluadon.
+
+Je la internacia nivelo, la naturprotekta organizaĵo Crude Accountability kontrolas la agadon de petrola produktado en la Kaspia regiono kaj atentigas pri poluadaj problemoj. Krome, gravas ankaŭ la rolo de “ Extractive Industries Transparency Initiative ” (Projekto por Klara Informado pri Ekstraktemaj Industrioj, EITI), kiu devigas klaran informadon en la agadoj de industriaj kompanioj kaj ilia obeado al naturprotektaj normoj.
+
+La movado “ Save the Caspian Sea ” jam fariĝis la unua Centra Azia membro de la tutmonda grupo “ Blue Community ” (Blua Komunumo) de Centra Azio, kiu emfazas ĝia graveco en la internacia naturprotekta komunumo. Ĝi unuigas sciencistojn, naturprotektistojn, kaj aktivistojn, kiuj laboras por krei longdaŭrajn strategiojn por konservi la maron kaj ĝian ekosistemon.
+
+Malgraŭ ĉi tiuj klopodoj, la batalo por konservi la Kaspion ankoraŭ estas malfacila pro manko de efikaj mekanismoj por regiona kunlaboro. Por protekti la akvaĵon, oni bezonas aktivan kunlaboron inter registaroj, kompanioj kaj la publika societo, ankaŭ plia konformigo al naturprotektaj reguloj.
+
+NB: Kion oni devas fari por ke la Kaspia Maro ne suferos la saman katastrofon kiel la Arala Maro?
+
+ВН: Необходимо срочно принять комплексные меры. На государственном уровне прикаспийские страны должны разработать совместные программы по сохранению водных ресурсов, включая ограничение промышленного забора воды, восстановление экосистем и предотвращение сброса отходов в море. Особую роль играет ужесточение экологических норм для нефтегазового сектора. Компании, работающие в регионе, должны быть обязаны внедрять безопасные методы добычи, минимизировать выбросы вредных веществ и инвестировать в восстановление морской среды. Международные организации и экологические фонды должны оказывать поддержку инициативам, направленным на защиту Каспийского моря, а также активно выступать против расширения разрушительных индустриальных проектов в регионе. На индивидуальном уровне граждане могут вносить свой вклад, поддерживая экологические организации, участвуя в акциях по очистке побережья и снижая собственное потребление пластика. Только совместные действия на всех уровнях помогут сохранить Каспийское море для будущих поколений.
+
+ВН: Необходимо срочно принять комплексные меры. На государственном уровне прикаспийские страны должны разработать совместные программы по сохранению водных ресурсов, включая ограничение промышленного забора воды, восстановление экосистем и предотвращение сброса отходов в море.
+
+Особую роль играет ужесточение экологических норм для нефтегазового сектора. Компании, работающие в регионе, должны быть обязаны внедрять безопасные методы добычи, минимизировать выбросы вредных веществ и инвестировать в восстановление морской среды. Международные организации и экологические фонды должны оказывать поддержку инициативам, направленным на защиту Каспийского моря, а также активно выступать против расширения разрушительных индустриальных проектов в регионе.
+
+На индивидуальном уровне граждане могут вносить свой вклад, поддерживая экологические организации, участвуя в акциях по очистке побережья и снижая собственное потребление пластика. Только совместные действия на всех уровнях помогут сохранить Каспийское море для будущих поколений.
+
+VN: Oni devas fari ampleksajn rimedojn urĝe. Je la nacia nivelo, la kaspiaj landoj devas krei komunajn programojn por konservi akvajn mediojn, inkluzive limigi industrian uzon de akvo, rebonigi ekosistemojn kaj eviti elĵetadon de rubaĵo. La striktigado de naturprotektaj normoj por la petrola kaj tergasa sektoro havas specialan rolon. Kompanioj kiuj agadas en la regiono oni devigu uzi sendanĝerajn produktadajn metodojn, plej malmultigi ellasadon de danĝeraj kemiaĵoj kaj investi por rebonigi la maran vivmedion. Internaciaj organizaĵoj kaj naturprotektaj financoj devas subteni projektojn, kiuj celas protekti la Kaspian Maron, kaj aktive kontraŭu la plivastiĝon de detruaj industriaj projektoj en la regiono. Je la individua nivelo, civitanoj povas kontribui subtenante naturprotektajn organizaĵojn, partopreni en marborda purigado, kaj malmultigi sian uzon de plastaĵoj. Nur komuna ago je ĉiuj niveloj helpos konservi la Kaspian Maron por estontaj generacioj.
+
+VN: Oni devas fari ampleksajn rimedojn urĝe. Je la nacia nivelo, la kaspiaj landoj devas krei komunajn programojn por konservi akvajn mediojn, inkluzive limigi industrian uzon de akvo, rebonigi ekosistemojn kaj eviti elĵetadon de rubaĵo.
+
+La striktigado de naturprotektaj normoj por la petrola kaj tergasa sektoro havas specialan rolon. Kompanioj kiuj agadas en la regiono oni devigu uzi sendanĝerajn produktadajn metodojn, plej malmultigi ellasadon de danĝeraj kemiaĵoj kaj investi por rebonigi la maran vivmedion.
+
+Internaciaj organizaĵoj kaj naturprotektaj financoj devas subteni projektojn, kiuj celas protekti la Kaspian Maron, kaj aktive kontraŭu la plivastiĝon de detruaj industriaj projektoj en la regiono.
+
+Je la individua nivelo, civitanoj povas kontribui subtenante naturprotektajn organizaĵojn, partopreni en marborda purigado, kaj malmultigi sian uzon de plastaĵoj. Nur komuna ago je ĉiuj niveloj helpos konservi la Kaspian Maron por estontaj generacioj.
+
+
+---
+
+# El Kolombio: manifesto de amo por ĉiuj vivantaj estaĵoj
+
+**Published:** 2025-04-16
+
+**URL:** https://eo.globalvoices.org/2025/04/15259/
+
+**Author:** Claudio Gobbo
+
+**Categories:** Bestaj rajtoj, Civitanaj komunikiloj, Kolombio, Latinameriko, The Bridge, Ĉefaĵo
+
+Foto de ymyphoto en Pixabay , eldonita kun permeso .
+
+Malgranda laŭ staturo, kun felo nigra kaj blanka, lipharoj senlimaj, kaj kortuŝa rigardo. Añemó, kio en la lingvo Kamentsá signifas “esti forta”, eniris en mian vivon la 7-an de aŭgusto de la jaro 2021, ŝlosila jaro en mia historio persona, intelekta kaj akademia. Mi komencis mian doktoriĝan studadon pri juro nur kelkajn monatojn antaŭe, kun stipendio de la Universitato de la Rozario en Bogoto, Kolombio, kie mi akceptis la defion komuniki, pere de juraj lensoj, aliajn manierojn esti en la mondo.
+
+Añemó. Foto de la aŭtorino, eldonita kun permeso.
+
+En la jaro 2020 okazis mia unua kontakto kun la popolo Awá, dunacia komunumo de la ĝangalo, loĝanta inter Kolombio kaj Ekvadoro, kiu malfermis al mi la pordojn de Katsa Su, ilia Granda Domo, kiel ili nomas ĝin en Awapit, ilia lingvo.
+
+Laŭ la popolo Awá, ĉio kio loĝas en Katsa Su estas persono. La arbo sanganta, la valo rigardanta ĉirkaŭe, la birdoj kiuj orientiĝas per sia propra kanto –  ĉiuj kunloĝas en kvar mondoj: la unua, la mondo de la estaĵoj plej etaj kiel la formikoj aŭ la armodoj; la dua, tiu kie la Awa-oj paŝas; la tria, kie loĝas la spiritoj; kaj la kvara, la loko de la kreinto.
+
+Katsa Su estas, laŭ la Awá-oj, patrino kiu prizorgas kaj provizas, sed ankaŭ malsanigas nin kiam ŝiaj limoj kaj  sanktaj kodoj ne estas obeataj. Ekzemple, kiam ni ne petas la permeson alproksimiĝi kiam ni renkontas riveron unuafoje, aŭ kiam ŝi rufuzas esti vizitata, homoj perdiĝas en ŝiaj profundoj.
+
+Pere de la popolo Awá kaj Katsa Su, mi lernis apartan manieron vivi. Mi eĉ  ekkonis la nocion de Wat Uzán ,”vivi bele”, de popolo perfortita ekde la hispana konkero kaj, pli lastatempe inter 1990 kaj 2016, dum la armita konflikto en Kolombio. En 2019, la Speciala Ĵurisdikcio por Paco ( Justicia Especial Para la Paz ), kreita en 2017 por alporti juestecon al la viktimoj de armitaj konfliktoj, deklaris ilian teritorion viktimo de la milito, same kiel la Awá-popolon mem.
+
+Katsa Su troviĝas  en Nariño, suda Kolombio, departemento kie la rajtoj de la naturo estis agnoskitaj en tiu sama jaro: la rajto esti respektata, protektata, konservata kaj restaŭrata fariĝis rajtoj por ĉiuj strategiaj ekosistemoj de la regiono laŭ la Dekreto 348 de la registaro de Nariño.
+
+“ La bestoj kiel subjekto de rajtoj, jura kategorio en diskuto “(2023), de Johana Fernanda Sánchez Jaramillo. Foto eldonita kun permeso.
+
+Dum mia doktora studado, mi koncentriĝis pri la verkado de mia disertacio ,  publikigita en 2024 post recenza aprobo, sen korektoj. Sed antaŭ ol verki mian disertacion, Añemó inspiris mian unuan libron pri la rajtoj de la aliaj bestoj, publikigita en 2023, la sama jaro kiam mi finis mian doktoriĝon. Ĝia ĉeesto en mia vivo, la saĝaj kaj grandanimaj vortoj de la Awá-oj, kaj iliaj interagoj kun aliaj estaĵoj (kiuj, same kiel ni homoj, havas volon kaj komunikas sian manieron esti, kvankam ne per vortoj), helpis min rekonsideri la malaktualan ideon ke nur homoj, pro sia digno kaj atribuoj, povas esti subjektoj de rajtoj. Mia doktora tezo pri la naturo kiel subjekto de rajtoj kaj la Awá-oj estis publikigita kiel libro en oktobro 2024.
+
+“ La rajtoj de la naturo kaj ilia reflektiĝo en la defendado de Katsa Su de la popolo Awá en Nariño ” (2024), de Johana Fernanda Sánchez Jaramillo. Foto eldonita kun permeso de la aŭtorino.
+
+Tiuj du libroj estas la rezulto de du jaroj da esplorado, kaj estis verkitaj kun amo kaj rigoreco dum la tri jaroj de mia doktoriĝo.  Ambaŭ estis eldonitaj de Editorial del Rosario post la aprobo de akademiaj fakuloj ekster la universitato. Ambaŭ verkoj estas la frukto de amo etendita preter la homeco, de mia nova esprimloko,  de mia konvinko ke ni ne estas superuloj kaj ke, kiel diris Sankta Francisko el Asizo siatempe, ni ĉiuj estas gefratoj. Same kiel ĉe la Awá-oj en Kolombio aŭ la maorioj en Nov-Zelando, ni povas etendi nian parencecon preter nia specio.
+
+Añemó permesis al mi adopti alian specion kaj forĝi profundan ligon en nia malgranda, multspecia dumembra familio. Siaflanke, la Awá-oj instruis al mi ke se ni estas atentaj, se ni lernas de saĝaj homoj kiel ili, ni povas kompreni kiel aliaj estaĵoj parolas al ni, gvidas nin, kaj protektas nin.
+
+Mia konscienco, el mia eta loko, kiel alia filino de la Patrino Tero, instigis, kaj daŭre instigas, mian akademian kaj ĵurnalisman aktivismon cele al la agnosko de rajtoj por ĉiuj vivantaj estaĵoj fare de la jura sistemo, rajtoj kiujn popoloj kiuj antaŭis nin, jam agnoskis en siaj kredsistemoj kaj en sia praula maniero kunekzisti en harmonio kun la vivantaj estaĵoj de sia medio.
+
+Legu pli: Ni devas pridiskuti la koloniismon en la jura parolado, diras kolombia advokatino (artikolo en la hispana)
+
+
+---
+
+# La jilana kreola lingvo de Tajvano: Revigligante la solan japan-bazitan kreolan lingvon en la mondo
+
+**Published:** 2025-05-20
+
+**URL:** https://eo.globalvoices.org/2025/05/15341/
+
+**Author:** Teddy Nee
+
+**Categories:** Civitanaj komunikiloj, Historio, Indiĝenoj, Japana, Japanio, Lingvo, Orienta Azio, Tajvano (RĈ), Ĉefaĵo
+
+Kerry Kan (asistanta produktantino) kaptanta Suvan Pal (dokumenta produktantino) intervjuante profesorinon Chien Yuechen. Foto provizita de s-ro Suvam Pal. Uzita kun permeso.
+
+Tajvano estas unu el la lingve plej diversaj landoj en la mondo. Entute 26 lingvoj estas parolataj sur la insulo, inkluzive de la ĉina mandarena , la oficiala lingvo, la kantona [eo], la angla [eo], la japana [eo], kaj la 22 indiĝenaj lingvoj . Dek kvar el tiuj indiĝenaj lingvoj estas endanĝerigitaj.
+
+La jilana kreola estas unu el la 14 endanĝerigitaj indiĝenaj lingvoj en Tajvano . La jilana [eo.wikipedia] estas kontaktlingvo [ aŭ lingvafrankao , ndlr. ], lingvo kiu aperas aŭ estas uzata kiel rimedo de komunikado inter grupoj kun malsamaj gepatraj lingvoj. Ĝi estas ofte uzata por komerco, aŭ aliaj interagoj. En ĉi tiu kazo, la jilana [ alilingve ankaŭ Yilan, ndlr. ] estas japan-bazita kreola lingvo evoluigita el kolonia interagoj inter la parolantoj de la indiĝena tajvana lingvo atajala [ alilingve ankaŭ Atayal, ndlr. ], la lingvo seediq , kaj japanaj koloniistoj dum la periodo kiam Tajvano estis sub japana koloniigo (1895-1945). Ĝi nun estas ĉefe parolata de malgranda nombro de maljunuloj en kvar vilaĝoj ĉe la orienta marbordo de Tajvano. Ankoraŭ mankas al ĝi oficiala registara rekono kaj ĝi ne estas instruata en lernejoj .
+
+Tamen, ekzistas daŭrantaj lokaj klopodoj por vivteni tiun endanĝerigitan lingvon. Unu lastatempa fortostreĉo estas nova dokumenta filmo pri la parolantoj de la jilana lingvo, produktita de TaiwanPlus , tajvan-bazita sendependa novaĵplatformo .
+
+Parolante al Global Voices pere de WhatsApp , Suvam Pal, veterana internacia ĵurnalisto ĉe TaiwanPlus , kunhavigis la rakonton malantaŭ la dokumenta filmo.
+
+La dokumentfilma skipo kun profesorino Chien kaj vilaĝanoj el Tungyueh. Foto provizita de Suvam Pal. Uzata kun permeso.
+
+Global Voices: Bonvolu paroli iom pri vi mem.
+
+Suvam Pal: Mi estas internacia ĵurnalisto kun pli ol 20 jaroj de sperto en kvin el la etne kaj kulture plej diversaj landoj: Ĉinio, Barato, Sud-Afriko, UAE kaj Tajvano. Mi estis laboranta por TaiwanPlus , ŝtatfinancata amaskomunikila platformo en Tajvano, ekde du jaroj. Antaŭ ol labori en Tajvano, mi laboris kiel ĵurnalisto en Barato, kaj poste mi laboris por TV-stacio en Sud-Afriko. Mi ankaŭ laboris por la ŝtatkontrolita amaskomunikilo CGTN, por preskaŭ kvin jaroj en Pekino, Ĉinio. Intertempe, mi ankaŭ laboris kiel dokumenta filmdirektoro en Dubai, UAE. Mi eldonis plurajn laŭditajn librojn ĉe prestiĝaj internaciaj eldonejoj kiel HarperCollins kaj Routledge .
+
+Suvam Pal: Mi estas internacia ĵurnalisto kun pli ol 20 jaroj de sperto en kvin el la etne kaj kulture plej diversaj landoj: Ĉinio, Barato, Sud-Afriko, UAE kaj Tajvano. Mi estis laboranta por TaiwanPlus , ŝtatfinancata amaskomunikila platformo en Tajvano, ekde du jaroj. Antaŭ ol labori en Tajvano, mi laboris kiel ĵurnalisto en Barato, kaj poste mi laboris por TV-stacio en Sud-Afriko. Mi ankaŭ laboris por la ŝtatkontrolita amaskomunikilo CGTN, por preskaŭ kvin jaroj en Pekino, Ĉinio. Intertempe, mi ankaŭ laboris kiel dokumenta filmdirektoro en Dubai, UAE. Mi eldonis plurajn laŭditajn librojn ĉe prestiĝaj internaciaj eldonejoj kiel HarperCollins kaj Routledge .
+
+GV: Ĉu vi povas kunhavigi iun fonan informon pri la jilana kaj ĝia nuna statuso?
+
+SP: La jilana estis malkovrita en 2006 fare de profesorino Chien Yuechen, altranga profesorino ĉe la fako de indiĝenaj studoj de la Nacia Universitato Dong Hua [ ĉine: 國立東華大學, mallongigita “東華”, ndlr. ] Oienta Tajvano, en la distrikto Hualjan [eo]. Ŝi malkovris tiun lingvon kune kun profesorino Sanada Shinji, japana profesorino ĉe la Osaka Universitato, sub kiu ŝi estis laboranta kiel esplora akademiano. Dum ilia esplorado, ili rimarkis ke la lingvo respondas al ĉiuj kriterioj por ke la lingvo estu nomata kreola lingvo [eo]. Tio okazis ĉar Tajvano estis kolonio de Japanio dum 50 jaroj, inter 1895 kaj 1945 (je la fino de Dua Mondmilito kiam la japana estis la fakta oficiala lingvo en Tajvano). Multaj pli malnovaj generacioj ankoraŭ parolas iom la japanan ĝis hodiaŭ. Kelkaj el ili povas paroli, legi kaj verki en la japana. Multaj homoj aŭdis homojn paroli formon de la japana en Tajvano, sed neniu rimarkis, ke ĝi estis kreola lingvo. Profesorino Chien trovis, ke la lingvo estas kreola lingvo parolata en kvar vilaĝoj en la distriko Jilan. Mi iris al du el la kvar vilaĝoj por registri la dokumentan filmon. La distanco inter Aohua al Tungyueh estas ĉirkaŭ 45 minutoj ĝis 1 horo da veturado. La loĝantoj de ĉi tiuj kvar vilaĝoj nomis la lingvon per lokaj nomoj, ĉar ili antaŭe pensis, ke ĝi estas loka dialekto. Profesorino Chien studis la lingvon kaj rimarkis ke ĝi posedas ĉiujn trajtojn por esti nomata kreola lingvo . Ĉar la lingvo estis malkovrita en la distrikto Jilan [ Distrikto, konstitucie konata kiel “hsien”, estas sub la administra strukturo de Tajvano, laŭjure samnivela kiel provinca urbo, ndlr. ], profesorino Chien nomis la lingvon jilana kreola.  Ŝi ĵus faris esploron por la fako de indiĝenaj lingvoj de la tajvana registaro kaj eltrovis ke tie estas nuntempe malpli ol mil fluajn parolantojn de la lingvo. La lingvo estas la sola konata japan-bazita kreola lingvo en la mondo. Ĝi estas miksaĵo de la japana kaj la lingvo de du indiĝenaj triboj en Tajvano, Seediq kaj Atayal . La jilana lingvo estis kreita de tiuj du triboj miksita kun la japana kaj tial foje nomata jilana kreola lingvo.
+
+SP: La jilana estis malkovrita en 2006 fare de profesorino Chien Yuechen, altranga profesorino ĉe la fako de indiĝenaj studoj de la Nacia Universitato Dong Hua [ ĉine: 國立東華大學, mallongigita “東華”, ndlr. ] Oienta Tajvano, en la distrikto Hualjan [eo]. Ŝi malkovris tiun lingvon kune kun profesorino Sanada Shinji, japana profesorino ĉe la Osaka Universitato, sub kiu ŝi estis laboranta kiel esplora akademiano.
+
+Dum ilia esplorado, ili rimarkis ke la lingvo respondas al ĉiuj kriterioj por ke la lingvo estu nomata kreola lingvo [eo]. Tio okazis ĉar Tajvano estis kolonio de Japanio dum 50 jaroj, inter 1895 kaj 1945 (je la fino de Dua Mondmilito kiam la japana estis la fakta oficiala lingvo en Tajvano). Multaj pli malnovaj generacioj ankoraŭ parolas iom la japanan ĝis hodiaŭ. Kelkaj el ili povas paroli, legi kaj verki en la japana. Multaj homoj aŭdis homojn paroli formon de la japana en Tajvano, sed neniu rimarkis, ke ĝi estis kreola lingvo.
+
+Profesorino Chien trovis, ke la lingvo estas kreola lingvo parolata en kvar vilaĝoj en la distriko Jilan. Mi iris al du el la kvar vilaĝoj por registri la dokumentan filmon. La distanco inter Aohua al Tungyueh estas ĉirkaŭ 45 minutoj ĝis 1 horo da veturado. La loĝantoj de ĉi tiuj kvar vilaĝoj nomis la lingvon per lokaj nomoj, ĉar ili antaŭe pensis, ke ĝi estas loka dialekto. Profesorino Chien studis la lingvon kaj rimarkis ke ĝi posedas ĉiujn trajtojn por esti nomata kreola lingvo . Ĉar la lingvo estis malkovrita en la distrikto Jilan [ Distrikto, konstitucie konata kiel “hsien”, estas sub la administra strukturo de Tajvano, laŭjure samnivela kiel provinca urbo, ndlr. ], profesorino Chien nomis la lingvon jilana kreola.  Ŝi ĵus faris esploron por la fako de indiĝenaj lingvoj de la tajvana registaro kaj eltrovis ke tie estas nuntempe malpli ol mil fluajn parolantojn de la lingvo.
+
+La lingvo estas la sola konata japan-bazita kreola lingvo en la mondo. Ĝi estas miksaĵo de la japana kaj la lingvo de du indiĝenaj triboj en Tajvano, Seediq kaj Atayal . La jilana lingvo estis kreita de tiuj du triboj miksita kun la japana kaj tial foje nomata jilana kreola lingvo.
+
+GV: Kio inspiris vin krei dokumentan filmon pri la lingvo?
+
+SP: Mi ŝatus informi vin, ke mi estas la unua iam ajn barata ĵurnalisto por labori en Tajvano. Mia laboro en Tajvano konsciigis min ke la rakontoj pri Tajvano estas malpli rakontataj en la mondo. Kiam mi alvenis tie, mi trovis du malsamajn dividojn en la amaskomunikilara raportado ĉi tie. La unua estas la tajvana loka amaskomunikilaro kiu havas malsaman raportadan stilon. La lokaj ĵurnalistoj vidas Tajvanon el malsama vidpunkto, ĉar ili estas la lokanoj. Estas ankaŭ la okcidenta amaskomunikilaro, kies raportistoj havas malsaman vidpunkton. Mi rimarkis, ke ekzistas interspaco en la maniero kiel ambaŭ flankoj raportas siajn rakontojn, kaj mi volas transponti la interspacon. La okcidenta amaskomunikilaro ĉiam fokusiĝas geopolitikon, defendon kaj komercon. La loka ĵurnalisto ĝenerale kovras lokan politikon kaj aliajn rakontojn. Do mi komencis kovri rakontojn kiuj ne estas kovritaj de ambaŭ flankoj. Jen kiel mi ekkonis la jilanan kreolan. Mi estis surprizita, ke rakonto pri la lingvo ne estis raportita en la angla, kvankam multaj jaroj antaŭe japana amaskomunikilara organizaĵo eĉ produktis dokumentan filmon pri la lingvo en la japana. Nun gravas raporti pri ĝi, ĉar estis lastatempe esploro pri la lingvo, kiun iniciatis la registaro. La lingvo estis forigita de la listo de rekonitaj lingvoj en Tajvano.  Jen kial tio instigis min raporti pri la lingvo.  Alia afero, kiu inspiris min krei la dokumentan filmon estas mia ŝato de lingvoj. Mi estas el Barato, lingve diversa lando, kaj mi parolas tri lingvojn. Mi ĉiam estis fascinita pri lingvoj, kiu estas parto de la kialoj ke mi venis labori en Tajvano.
+
+SP: Mi ŝatus informi vin, ke mi estas la unua iam ajn barata ĵurnalisto por labori en Tajvano. Mia laboro en Tajvano konsciigis min ke la rakontoj pri Tajvano estas malpli rakontataj en la mondo.
+
+Kiam mi alvenis tie, mi trovis du malsamajn dividojn en la amaskomunikilara raportado ĉi tie. La unua estas la tajvana loka amaskomunikilaro kiu havas malsaman raportadan stilon. La lokaj ĵurnalistoj vidas Tajvanon el malsama vidpunkto, ĉar ili estas la lokanoj. Estas ankaŭ la okcidenta amaskomunikilaro, kies raportistoj havas malsaman vidpunkton.
+
+Mi rimarkis, ke ekzistas interspaco en la maniero kiel ambaŭ flankoj raportas siajn rakontojn, kaj mi volas transponti la interspacon. La okcidenta amaskomunikilaro ĉiam fokusiĝas geopolitikon, defendon kaj komercon. La loka ĵurnalisto ĝenerale kovras lokan politikon kaj aliajn rakontojn. Do mi komencis kovri rakontojn kiuj ne estas kovritaj de ambaŭ flankoj.
+
+Jen kiel mi ekkonis la jilanan kreolan. Mi estis surprizita, ke rakonto pri la lingvo ne estis raportita en la angla, kvankam multaj jaroj antaŭe japana amaskomunikilara organizaĵo eĉ produktis dokumentan filmon pri la lingvo en la japana. Nun gravas raporti pri ĝi, ĉar estis lastatempe esploro pri la lingvo, kiun iniciatis la registaro. La lingvo estis forigita de la listo de rekonitaj lingvoj en Tajvano.  Jen kial tio instigis min raporti pri la lingvo.  Alia afero, kiu inspiris min krei la dokumentan filmon estas mia ŝato de lingvoj. Mi estas el Barato, lingve diversa lando, kaj mi parolas tri lingvojn. Mi ĉiam estis fascinita pri lingvoj, kiu estas parto de la kialoj ke mi venis labori en Tajvano.
+
+GV: Kiel vi laboras kun la lingvo-komunumo por certigi ke iliaj rakontoj kaj perspektivoj estis trafe reprezentitaj?
+
+SP: Kiel ĵurnalisto, faktokontrolado [eo] estas gravega parto de mia laboro. Mi faris multajn kontrolojn. Mi parolis kun fakuloj kaj lingvistoj, ĉar mi pensas, ke la kompreno de la kulturo kaj soci-kulturaj nuancoj estas gravaj faktoroj ĵurnalisto devas prikonsideri dum raportado. Mi ankaŭ faris detalan esploron kaj demandis la profesoron por kontroli la unuan malneton de la laboro. Ŝi ankaŭ petis multajn denaskajn parolantojn de la kreola lingvo kontroli la laboron por certigi ke iliaj vidpunktoj estu trafe reprezentataj.
+
+SP: Kiel ĵurnalisto, faktokontrolado [eo] estas gravega parto de mia laboro. Mi faris multajn kontrolojn. Mi parolis kun fakuloj kaj lingvistoj, ĉar mi pensas, ke la kompreno de la kulturo kaj soci-kulturaj nuancoj estas gravaj faktoroj ĵurnalisto devas prikonsideri dum raportado. Mi ankaŭ faris detalan esploron kaj demandis la profesoron por kontroli la unuan malneton de la laboro. Ŝi ankaŭ petis multajn denaskajn parolantojn de la kreola lingvo kontroli la laboron por certigi ke iliaj vidpunktoj estu trafe reprezentataj.
+
+GV: Kian efikon vi esperas ke ĉi tiu dokumenta filmo havos sur la lingvan komunumon kaj la pli larĝan publikon?
+
+SP: Naŭdek naŭ procentoj de la tajvananoj kun kiu mi diskutis pri ĉi tiu dokumenta filmo diris al mi, ke ili ne sciis pri la ekzisto de la jilana kreola antaŭ nia diskuto kaj kunhavigo. Ĉi tiuj inkluzivas kelkajn de miaj kolegoj, universitataj profesoroj, ĵurnalistoj, redaktoroj, esploristoj, ktp. Ĉi tiu dokumenta filmo konciigis ilin pri la fakto ke ekzistas bezono por la revigligo de la lingvo [eo]. Mi vidis la nombron de vidoj kiun la videaĵo havis sur nia YouTube-kanalo [pli ol 83 000] kaj kiel homoj estas parolantaj pri ĝi en la rimarka sekcio. Ĉi tio donas al mi renovigitan esperon ke la lingvo povas esti savata. Alia grava efiko estas tiu ĉi intervjuo, ĉar mi kredas, ke pli larĝa spektantaro ekster Tajvano konsciiĝos pri la lingvo.
+
+SP: Naŭdek naŭ procentoj de la tajvananoj kun kiu mi diskutis pri ĉi tiu dokumenta filmo diris al mi, ke ili ne sciis pri la ekzisto de la jilana kreola antaŭ nia diskuto kaj kunhavigo. Ĉi tiuj inkluzivas kelkajn de miaj kolegoj, universitataj profesoroj, ĵurnalistoj, redaktoroj, esploristoj, ktp. Ĉi tiu dokumenta filmo konciigis ilin pri la fakto ke ekzistas bezono por la revigligo de la lingvo [eo]. Mi vidis la nombron de vidoj kiun la videaĵo havis sur nia YouTube-kanalo [pli ol 83 000] kaj kiel homoj estas parolantaj pri ĝi en la rimarka sekcio. Ĉi tio donas al mi renovigitan esperon ke la lingvo povas esti savata. Alia grava efiko estas tiu ĉi intervjuo, ĉar mi kredas, ke pli larĝa spektantaro ekster Tajvano konsciiĝos pri la lingvo.
+
+
+---
+
+# En Gvadelupo, ‘Kreolaj ĝardenoj’ donas lecionojn pri klimato en solidareca spirito
+
+**Published:** 2025-06-08
+
+**URL:** https://eo.globalvoices.org/2025/06/15299/
+
+**Author:** Claudio Gobbo
+
+**Categories:** Angla, Blogo, Bona novaĵo, Civitanaj komunikiloj, Edukado, Ekonomio kaj komerco, Gvadelupo, Ideoj, Indiĝenoj, Karibio, Medio, Nutraĵo, Scienco, Teknikaro, Ĉefaĵo
+
+Tipa ekzemplo de kreola ĝardeno. Ĉi tiun prizorgas Hugues Occiburn, kiu provas revivigi lokajn agrikulturajn sciojn. Foto fare de Olivia LOsbar, uzata kun permeso.
+
+Ĝi estas agrikultura modelo heredita de la kolonia periodo kaj neglektita dum jaroj, sed kiu nun ĝuas ian revigliĝon – la “ kreola ĝardeno “, tradicia hejma ĝardeno kiu produktas bazajn nutraĵojn por familioj. Bananujoj, tuberoj [eo] kiel ignamoj [eo] kaj manioko [eo], fruktarboj kiel avokado [eo] kaj mango [eo], kaj kuracaj kaj aromaj plantoj ĉiuj kunekzistas en harmonia ekosistemo; ajna produktada surpluso estas kundividata kun parencoj kaj najbaroj.
+
+Ĉi tiu sistemo de reciproka helpo forĝis sociajn ligojn ene de komunumoj, dum ĝi certigis nutraĵan aŭtonomecon por la plej vundeblaj familioj, kaj ĝi ofte estis respondo al krizoj, ĉu klimataj, ĉu ekonomikaj, ĉu sociaj. Hodiaŭ, la kreola ĝardeno estas ankaŭ vidata kiel alternativa maniero kontraŭbatali la negativajn efikojn de la klimata ŝanĝiĝo.
+
+Loka agrikulturo minacata de tutmonda ŝanĝiĝo
+
+INRAE (la franca nacia esplorinstituto pri agrikulturo, nutraĵo kaj naturmedio) faras eksperimenton kun esploristoj kaj farmistoj en Gvadelupo. Foto fare de Olivia Losbar, uzata kun permeso.
+
+Laŭ la franca nacia esplorinstituto pri agrikulturo, nutraĵo kaj medio, INRAE Antilles Guyane , kiu faris enketon pri la efiko de pandemio sur la kariba agrikulturo, ĉi tiu krizperiodo montris la reziston de lokaj farmistoj, parte danke al lokaj kaj tradiciaj praktikoj. Ĝi ankaŭ vekis publikan konscion pri la bezono ŝanĝi konsumkutimojn kaj reveni al vivteniga agrikulturo [eo].
+
+Kiam oni demandis pri la kolizioj de la klimata ŝanĝiĝo kun la kariba agrikulturo, la direktoro de la Unité des Recherches AgroSystèmes Tropicaux (ASTRO) [ndltr: Ento de esploroj pri tropikaj agrosistemoj] Jean-Marc Blazy , rimarkis: “La ĉefaj efikoj de la klimata ŝanĝiĝo [eo], kiujn ni observas en la regiono, estas ĉefe malpliiĝo de la produktado, kio estas klarigebla per malkresko de agrikulturaj rikoltoj, ligita [ĉefe al] katastrofaj eventoj kiel uraganoj aŭ inundoj.”
+
+Direktoro de la “ Unité de Recherches AgroSystèmes Tropicaux ” (ASTRO), Jean-Marc Blazy, faras prezentadon en la bieno en Gvadelupo. Foto fare de a Olivia Losbar, uzata kun permeso.
+
+Tiaj eventoj estas ofte interligitaj kaj povas konduki al detruo de kultivaĵoj. Iom da malkresko en la rikolto estas kaŭzata ankaŭ de varmego kaj sekiĝo, kiuj igas plantojn lukti kaj malpli floradi pro manko de akvo. Tamen, Blazy diras ke ĉi tiuj ne estas la solaj kaŭzoj de tiuj malkreskoj: “Kun la klimata ŝanĝiĝo, estas [malpli da] temperaturdiferenco inter nokto kaj tago, ĉar la varmiĝo estas pli alta dum la nokto ol dum la tago. Ĉi tio estas konata kiel noktodiurna amplitudo, kaj ĉi tiuj temperaturdiferencoj estas gravaj por la florado. Malpli da florado ankaŭ signifas malpli da fruktoj, kaj do malpli da rikolto.”
+
+Repripensante agrikulturon el perspektivo de justeco kaj rezilienco
+
+Fronte al ĉi tiuj defioj, INRAE, en partnereco kun aro da samideaj grupoj, inter kiuj CIRAD , la University of the West Indies [ndltr: Universitato de la Okcidentaj Indioj], kaj la Chamber of Agriculture [ndltr: Ĉambro de agrikulturo], kune kun aliaj lokaj aŭtoritatoj kaj ŝtataj instancoj, agadas kunlabore. Météo France , la franca nacia meteologia kaj klimatologia servo, ankaŭ starigis iniciatojn por helpi akordigon inter moderneco kaj loka kultura heredaĵo.
+
+La programo EXPLORER celas bone utiligi la scipovojn de la kreolaj ĝardenoj, kunigante ilin kun modernaj teknologioj, kiel veterstacioj kaj biologiaj enigaĵoj, por plifortigi la klimatan reziliencon [eo] de bienoj. Farmistoj ankaŭ ricevas ĉian subtenon laŭbezone por fari la transiron al agro-ekologia agrikulturo [eo].
+
+Kelkaj de la modernaj teknologioj uzataj, danke al la programo KARUSMART , por helpi subteni gvadelupajn farmistojn dum ilia transiro al agroekologia farmado. Foto fare de Olivia Losbar, uzata kun permeso.
+
+Laŭ Blazy, “estas multaj farmaj praktikoj kiuj devas esti adaptitaj al ĉiuj tiuj minacoj”. Li mencias ĉion, ekde revizio de la kalendaroj por la rikoltoj (por redukti  la riskon de ekspono al klimataj minacoj) ĝis la plibonigo de la agrikulturo kaj biologia diverseco en bienoj. Diverseco, li asertas, estas faktoro de rezilienco – ju pli da specioj oni havas, des pli bone. Tiel, plantoj povas pli bone provizi interhelpan protekton, tiel ke se minaco trafas planton, tiu ne nepre trafos alian.
+
+“Por maksimumigi produktadon”, aldonas li, “ni bezonas reveni al alta nivelo de variaĵa diverseco; al miksaĵoj de specioj […] Ni ankaŭ devas serĉi sinergiojn inter kultivaĵoj kaj brutaro.” Tiaj praktikoj apartenas al la kerno de la kreola ĝardeno, kiu inspiras la movon al pli granda agrikultura diverseco. Por Blazy, novigo signifas helpi farmistojn fari pli bonajn decidojn pri plantado kaj rikoltado, por minimumigi la surmetiĝon inter la kultiva ciklo kaj la klimataj minacoj.
+
+Foto farita per droneo [eo spavo], montranta la diversecon en unu el la bienoj de la programo KARUSMART en Gvadelupo. Bildo fare de Olivia Losbar, uzata kun permeso.
+
+Agrikulturo en transiro
+
+Agrikultura inĝeniero Hugues Occibrun volas konservi la kreolan ĝardenon. Foto de Occibrun, eldonita kun permeso.
+
+Ĉi tiuj nuntempaj defioj instigas gvadelupajn [eo] farmistojn repripensi sian ekonomian kaj ekologian modelon, kaj multaj nun laboras por restarigi ĉi tiujn praulajn farmpraktikojn.
+
+Por Hugues Occiburn, konservi la kreolan ĝardenon fariĝis lia ĉefa zorgo. Trejnita kiel agrikultura inĝeniero, li maltrankviliĝis pro la malapero de loka agrikultura scipovo kaj decidis pliigi la konscion pri la bezono ĝin konservi. Kune kun Astrid Gereld, li kunfondis 100%Zeb , agrikulturan kooperativon kiu ofertas trejnadojn, laborrenkontiĝojn [eo] kaj vendadon de kuracaj kaj aromaj plantoj endemiaj el Karibio [eo].
+
+En sia ĝardeno, enhavanta pli ol 300 speciojn, Occiburn regule bonvenigas ĉiun scivolemulon kiu volas malkovri (aŭ remalkovri) la kariban farmakopeon [eo]. Li instruas al ili rekoni la kuracan planton nomitan “ atoumo “, kiu estas konata pro la fortigo de la imunsistemo kaj kiu tradicie estas uzata por kontraŭbatali gripajn malsanojn aŭ mildigi artikodolorojn; malkovri la virtojn de “ vetivero “ por malpliigi la ginekologiajn dolorojn; kaj eĉ  “ cleomea “, kies acideta gusto pliriĉigas la guston de salatoj.
+
+Vido de la vendejo de Occiburn, kiu estas parto de lia kreola ĝardeno. Foto fare de Olivia Losbar, uzata kun permeso.
+
+Occiburn estas konvinkita, ke ĉi tiu spirito de solidareco ankaŭ povas helpi kontraŭbatali la efikojn de klimata ŝanĝiĝo. “Mi mem travivis tion”, diras li. “Mi vidis ĉiun krizon, kiun ni havis ĉi tie, ĉu temis pri la LKP en 2009 [la socia kaj sociala krizo kiu denuncis la ekonomian monopolon plenumatan de grandaj grupoj konsistantaj el posteuloj de koloniistoj], aŭ pri KOVIM . Kiam homoj haltas, al kio ili nature revenas? Al sia ĉirkaŭaĵo. Kaj tio, kio nin ĉirkaŭas, estas la kreola ĝardeno”.
+
+Li kredas, ke homoj “simple volas enradikiĝi; remalkovri iom de sia kreola kaj kariba identeco”, sed ankaŭ elspezi malpli. “Super ĉio”, li rivelas, “ekzistas ekologia deziro limigi malŝparon; komposti”. Occiburn klarigas, ke kiam importitaj produktoj ne alvenas en la landon laŭplane, la vivo fariĝas malfacila: “estas tuta vivmaniero, kiun ni pridiskutas.”
+
+Kelkaj el la karibaj plantoj kiujn Hugues Occiburn rikoltas el sia kreola ĝardeno. Foto fare de Olivia Losbar, uzata kun permeso.
+
+Per ĉi tiu laboro kun la loka loĝantaro, same kiel per kunlaboroj kun esplororganizoj kaj partopreno en festivaloj kaj aliaj eventoj, la aliro de la kooperativo por transdoni sian mesaĝon estas ampleksa. Laŭ ĉiuj raportoj, la gvadelupanoj montris sin tre ricevemaj.
+
+“La junuloj estas tre scivoleamaj pri lernado”, diras Occiburn. “Same kiel la plej maljuna generacio, ili estas tre kortuŝitaj vidinte la kreolan ĝardenon je tia nivelo. Mi ĝojas esti parto de tio”. Li kaj lia teamo pasigas “multan tempon” en lernejoj kaj libertempaj centroj, kie ili povas transdoni ĉi tiun scion al infanoj kun la espero influi estontajn generaciojn kaj tiel ŝanĝi la kulturon.
+
+Dum la defendanto de la kreola ĝardeno insistas ke la gvadelupa loĝantaro estas preta fari ĉi tiun ŝanĝon de vivstilo, li diras ke ĝi devas esti akompanata de “vera politika vizio”. Aliaj farmistoj kaj aktivuloj de biologia agrikulturo [eo], kiel Steve Selim kaj Yvelle Nels , ankaŭ fariĝis ĉefaj figuroj en la adopto de mediprotektaj agrikulturaj praktikoj kaj justaj distribuaj sistemoj.
+
+Vojo antaŭen: solidareco preter la limoj
+
+Laŭ Blazy, solidareco estas ŝlosilo al sukceso kaj devas esti parto de pli tutmonda aliro. Pro sia esplora fono, li scias ke ekzistas regiona dinamiko de scio-interŝanĝo, ĉefe tra la projekto INTERREG CambioNet , kiu kunigas karibajn kaj sudamerikajn partnerojn por interŝanĝi agro-ekologiajn sciojn.
+
+Ŝafoj sur bieno en Gvadelupo. Foto de Oliva LOsbar, uzata kun permeso.
+
+Internaciaj kunlaboroj ankaŭ okazis inter karibaj esploristoj kaj sciencistoj el Brazilo kaj Afriko, kvankam Blazy diras, ke la leĝaro kaj la ekonomioj de tiuj teritorioj ofte malhelpas progreson.
+
+En kunteksto markita de klimata ŝanĝiĝo, altaj vivokostoj kaj tutmondaj krizoj, tamen, ĉi tiu solidareco proponas daŭrigeblan kaj homecan respondon al nuntempaj defioj. Danke al aktivuloj, novigaj iniciatoj kaj praulaj praktikoj, Gvadelupo daŭrigas ambician vojon al nutraĵa suvereneco, samtempe repacigante sian pasintecon, nuntempon kaj estontecon.
+
+
+---
+
+# Kial la baŝkira bando Ay Yola kaj ilia furoraĵo ‘Homay’ ne plaĉis al kelkaj baŝkiroj
+
+**Published:** 2025-06-10
+
+**URL:** https://eo.globalvoices.org/2025/06/15381/
+
+**Author:** Herman Dekeŭnink
+
+**Categories:** Angla, Arto kaj kulturo, Azerbajĝano, Blogo, Civitanaj komunikiloj, Etno kaj raso, Indiĝenoj, Interreta aktivismo, Kazaĥio, Lingvo, Orienta kaj Centra Eŭropo, Rusio
+
+Ekrankopio de YouTube-filmeto de la kanto “Homay” de la baŝkira bando Ay Yola, prenita de la YouTube-kanalo AY YOLA . Justa uzo.
+
+Ĉi tiu artikolo estis originale publikigita en la rusa lingvo la 7-an de aprilo 2025, ĉe Novaya Vkladka , enhavpartnero de Global Voices. Daria Dergacheva tradukis la artikolon, kiu ankaŭ estis redaktita por klareco; ĉi tiu versio estas reeldonita ĉi malsupre kun permeso.
+
+La kanto “ Homay “, prezentita en la baŝkira lingvo [eo.wikipedia] de la en Ufa [eo] bazita grupo Ay Yola [eo], amasigis milionojn da interretaj aŭskultoj en nur kelkaj semajnoj kaj grimpis sur la tutmondajn furorlistojn. Dum iuj baŝkiroj ĝojas, ke kanto de loka artisto nun ludas ĉie, aliaj kritikas la ĉefkantistinon Adel Shaikhitdinova pro ŝia rusa akĉento, kies fonetiko igis kelkajn vortojn nekompreneblaj. Ĉi tiu sola kanto ekigis intensan debaton en Baŝkirio [ ndltr. oficiale Respubliko Baŝkortostan ) pri nacia fiereco kaj identeco.
+
+Dum la furoraĵo disvastiĝas en Kazaĥio , Azerbajĝano kaj aliaj tjurklingvaj anguloj de la interreto, varmega debato ekestis en la hejmregiono de Ay Yola, Baŝkirio, pri kiom bone “ Homay ” antaŭenigas la baŝkiran kulturon.
+
+En la turka mitologio [tr.wikipedia], la bela Homay estas konsiderata antikva dieco, protektanto de paco kaj boneco, birdo de feliĉo kiu protektas virinojn. En la baŝkira epopeo “ Ural-Batyr ” [ndltr. “Urala heroo”] , Homay estas cigno-junulino, la filino de la Suno kaj la birdoreĝo Samrau.
+
+La baŝkira bloganto kaj komikisto Azamat Nokta afiŝis humuran filmeton en Instagram, mokante la prononcon de la kantisto. En la filmeto , li aŭskultas “ Homay ” kaj pene komprenas la kantotekston, fiere konkludante, ke la kantisto devas esti baŝkiro. La filmeto kolektis 3.2 milionojn da spektoj kaj centojn da komentoj.
+
+Komentante la afiŝon, uzanto nomita Fidalia sugestis, ke “se la kantistino estus ĝuste prononcinta kaj konstruinta siajn frazojn ĝuste, la kanto ne iĝus furoraĵo.” Aliaj instigis homojn “lasu la knabinon trankvila”, dirante, ke ili ŝatis la kanton eĉ se ili ne komprenis ĉiujn vortojn.
+
+Tansulpan Burakaeva , konata scenaristino, reĝisorino kaj organizantino de baŝkira lingvostuda klubo, diris al la Telegram-kanalo From the Republics, ke multaj baŝkiroj ne povas akcepti tian prononcon kaj la kantistino devus studi fonetikon. “En la kanto ‘ Homay ‘,” ŝi klarigis, “ni preskaŭ tute perdas tiun senton de rekono, ĉar atento estas tirita al mallertaj linioj kaj mislokigitaj sonoj.” Burakaeva kredas, ke pro ruslingva dominata edukado, “denaskaj baŝkiraj parolantoj uzas la lingvon nur je hejma nivelo,” kaj sugestis, ke la kantistino “prenu kelkajn lecionojn por plibonigi sian prononcon.”
+
+Dume, arthistoriistino Guljuzum Gadelsina el Baŝkirio defendis la kantistinon. En komento al From the Republics, ŝi notis , “Akĉento ne estas difekto, ĝi estas signo de la tempo,” aldonante, ke la kontraŭreago damaĝas klopodojn konservi la baŝkiran lingvon, kiu estas pli kaj pli forpuŝata de la rusa lingvo:
+
+Jes, la akĉento ekfunkciigis debaton, sed ĉu ne estas pli grave, ke tiuj voĉoj estu aŭdataj? Pureco de la lingvo gravas, sed eĉ pli grava estas la volemo uzi ĝin. Anstataŭ kritiki “neperfektan” prononcon, ni kreu medion, kie ĉiu provo paroli la baŝkiran lingvon estas renkontita kun respekto.
+
+Jes, la akĉento ekfunkciigis debaton, sed ĉu ne estas pli grave, ke tiuj voĉoj estu aŭdataj? Pureco de la lingvo gravas, sed eĉ pli grava estas la volemo uzi ĝin. Anstataŭ kritiki “neperfektan” prononcon, ni kreu medion, kie ĉiu provo paroli la baŝkiran lingvon estas renkontita kun respekto.
+
+Plej multaj uzantoj de sociaj retejoj konsentis kun ŝi. Esprimante sian subtenon por Shaikhitdinova, ili argumentis, ke negativaj komentoj “mortigas ĉian deziron lerni kaj paroli la gepatran lingvon”. Kelkaj eĉ atentigis, ke kazaĥoj, uzbekoj kaj aliaj centraziaj nacioj bonvenigis la kanton, kaj instigis lokulojn esti pli toleremaj al propra artistino.
+
+Efektive, en Kazaĥio, “ Homay ” iĝis furoraĵo en sole unu tago. Sub filmetoj prezentantaj la kanton, kazaĥaj uzantoj verkis komentojn kiel “Ĉi tiu kanto estas mirinda! Mi ĝojas, ke tjurkaj popoloj [eo] kantas en siaj gepatraj lingvoj,” kaj “Iru, tjurkoj, iru!”. La portalo vAktau.ru notis , ke la sukceso de la kanto radikas en komuna kultura memoro, mitologio kaj lingvo, kiuj unuigas tjurkajn naciojn.
+
+Shaikhitdinova poste diris al ĵurnalistoj , ke ŝi trankvile akceptis la kritikojn pri la prononco:
+
+Mi estas duone baŝkirino kaj duone rusino. Ne estas denaskaj parolantoj en nia familio. Sed tio ne malhelpas min interesiĝi pri la kulturo kaj kanti en la denaska lingvo. Mi tute akceptas la komentojn pri mia akĉento — kelkaj aŭskultantoj eĉ trovis ĝin ĉarma.
+
+Mi estas duone baŝkirino kaj duone rusino. Ne estas denaskaj parolantoj en nia familio. Sed tio ne malhelpas min interesiĝi pri la kulturo kaj kanti en la denaska lingvo. Mi tute akceptas la komentojn pri mia akĉento — kelkaj aŭskultantoj eĉ trovis ĝin ĉarma.
+
+La kanto ankaŭ inspiris multajn baŝkirojn rekonektiĝi kun sia identeco. En sociaj retejoj, homoj komencis kundividi rakontojn pri siaj heredaĵo kaj kulturo, ofte vestiĝante per tradiciaj vestoj dum ludado de la kanto.
+
+Sufiĉe nova bando, Ay Yola estis formita en Ufa en 2024 de tri muzikistoj el malsamaj fonoj. Ilia debuta kanto “ Batyr “, ankaŭ en la baŝkira lingvo, estis produktita en februaro 2025, dum “ Homay ” aperis la 14-an de marto. La duopo patro/filino Ruslan kaj Adel Shaikhitdinov antaŭe kantis en la bando MUSUME .
+
+Rinat Ramazanov , gvidanto de la baŝkira etno-roka bando “ Argymak “, kunfondis Ay Yola. Dum ok jaroj, ĝis decembro 2024, li ankaŭ estris la Tutrusian Kongreson de Baŝkira Junularo . Li diras, ke la muziko de la bando baziĝas sur la valoroj en antikvaj baŝkiraj epopeoj:
+
+“Ay Yola” (Aj Jola) en la baŝkira lingvo signifas “universalaj leĝoj, kodo de la universo” – eternaj valoroj kiel ne mortigi, ne ŝteli, respekti maljunulojn, protekti junulojn. Jen la kernaj principoj de nia projekto. Ni ne nur eldonas albumon, sed prezentas plenkreskan muzikan spektaklon kaj interretan projekton inspiritan de unu el la plej malnovaj kaj misteraj epopeoj de la mondo – “Ural-Batir”.
+
+“Ay Yola” (Aj Jola) en la baŝkira lingvo signifas “universalaj leĝoj, kodo de la universo” – eternaj valoroj kiel ne mortigi, ne ŝteli, respekti maljunulojn, protekti junulojn. Jen la kernaj principoj de nia projekto. Ni ne nur eldonas albumon, sed prezentas plenkreskan muzikan spektaklon kaj interretan projekton inspiritan de unu el la plej malnovaj kaj misteraj epopeoj de la mondo – “Ural-Batir”.
+
+Tamen, Ramazanov afiŝis en Instagram por kolekti financojn kaj subteni baŝkirojn batalantajn en Ukrainio, kaj kundividis sian personan sperton pri sendado de sia propra frato al la milito.
+
+Ĉi tiu nun fama kanto estas dediĉita al Homay , heroino de tiu epopeo. En Rusio ĝi sukcesis esti la 10 plej pintaj kantoj de Shazam . Dum la publikigo, ĝi jam atingis la unuan lokon, superante eĉ kantojn de Lady Gaga. Subtekstigitaj filmetoj de la populara kanto estis publikigitaj en pluraj lingvoj, inkluzive de la azerbajĝana, kazaĥa kaj karakalpaka [eo].
+
+
+---
+
+# Knabina edukado povas sproni transformiĝon de Afriko
+
+**Published:** 2025-06-13
+
+**URL:** https://eo.globalvoices.org/2025/06/15392/
+
+**Author:** Viatcheslav Ivanov
+
+**Categories:** Angla, Blogo, Civitanaj komunikiloj, Edukado, Homaj rajtoj, Senegalo, Subsahara Afriko, The Bridge, Virinoj kaj genro, Ĉefaĵo
+
+Feliĉaj infanoj dum interleciona paŭzo. Bildo de Pexels . Libere uzebla .
+
+Verkita de Raby S. Diallo kaj Stéphanie Manguele
+
+Kvankam landoj en subsahara Afriko [eo] progresis rilate al seksa egaleco kaj faris signifajn paŝojn en edukado, sed edukado por knabinoj plu restas grava defio. Milionoj da knabinoj ankoraŭ ne havas la ŝancon frekventi lernejon. Eĉ kiam ili faras tion, ili malofte finas siajn studojn. Ĉirkaŭ 32,6 milionoj da knabinoj en la aĝo de bazlernejo kaj komenca mezlernejo nuntempe ne studas. Ĉi tiu nombro altiĝas al 52 milionoj ĉe la aĝo de fina mezlerneja nivelo. Tamen estas bone pruvita fakto, ke la enpovigo [eo] de virinoj pelas ekonomian kreskon, kiu ne povas esti atingita sen certigi inkluzivan aliron al edukado.
+
+La persisto de socikulturaj baroj
+
+Knabina edukado en Afriko ne povas esti limigita ĝis aliro al lernejo mem; ĝi devas ankaŭ adresi la strukturan malegalecon kaj la patriarkajn normojn, kiuj retenas la progreson.
+
+Seksaj antaŭjuĝoj estas profunde enradikiĝintaj en la socioj de Afriko kaj estas subtenataj de sociaj strukturoj, inkluzive de lernejoj. Ĉi tiuj antaŭjuĝoj malfaciligas por knabinoj imagi sin en roloj preter tiuj tradicie aljuĝataj al ili. Edukaj materialoj ofte plifortigas ĉi tiujn seksajn malegalecojn: virinoj malofte estas prezentitaj en gvidaj roloj kaj estas tipe montritaj nur en hejmaj kuntekstoj. Ĵusa interna dokumento konigita de certaj naciaj departementoj en Senegalo [eo], permesanta al virinoj pli frue foriri de laborloko dum Ramadano [eo] por okupiĝi pri hejmaj aferoj, bone ilustras tiun kontraŭdiron. Ĉi tiu ekzemplo brile respegulas la persistan disdividon de laboro laŭ sekso, kiu limigas virinojn al hejmaj taskoj, dum viroj okupas strategiajn decidfarajn postenojn en organizoj.
+
+Vere inkluziva edukado postulas seks-sentemajn politikojn, kiuj certigas, ke knabinoj havu sekuran kaj subtenan lernmedion . Tial estas grave revizii la edukan enhavon por rompi stereotipojn kaj instigi la partoprenon de knabinoj en sciencaj kaj teknikaj kampoj.
+
+Oni devas agnoski ankaŭ ekonomiajn barojn. Edukado de infanoj implicas signifajn elspezojn, devigante familiojn elekti inter eduki knabojn aŭ knabinojn. Ĉar edzinigi filinojn ofte estas vidata kiel elirejo el malriĉeco, investi en ilian edukadon ne estas konsiderata prioritato, male al la knaboj, kies sukceso estas dezirata kaj atentata.
+
+Laŭ la Monda Banko kaj UNESCO , knabina edukado en subsahara Afriko postrestas je 30 jaroj kompare al evoluintaj landoj . Urĝaj rimedoj necesas por rompi la seksan muron, plifirmigante la rajton de knabinoj al edukado per tri ĉefaj manieroj: levi konscion pri ĝia graveco en komunumo, oferti stipendiojn kaj financan subtenon al familioj kun malfacilaĵoj, krei inkluzivan kaj sekuran lernmedion.
+
+Investi en la edukado de knabinoj signifas investi en la enpovigo de virinoj kaj la disvolviĝo de Afriko. Tamen vera ŝanĝo postulas agi preter la lernejoj por malkonstrui la sociajn normojn, kiuj aljuĝas al knabinoj subordigitan rolon en la socio ekde frua infanaĝo.
+
+Kiel certigi la rajton de knabinoj je edukado
+
+Antaŭenigi la rajton de knabinoj je edukado postulas engaĝiĝon de ĉiuj koncernatoj. Pli da klopodoj estas bezonataj por provizi solvojn adaptitajn al la kompleksaj realaĵoj de Afriko. Ĉiuj devas partopreni: la civila socio, registaroj kaj neregistaraj organizoj — ĉiuj havas rolojn por ludi. Registaroj, plej grave, portas la respondecon certigi, ke ĉi tiu rajto estas garantiata kaj tial ili devas okazigi ĉiujn necesajn iniciatojn.
+
+Malgraŭ tio ke afrikaj ŝtatoj promesis provizi 12 jarojn da senpaga bazlerneja kaj mezlerneja edukado al ĉiuj infanoj — knaboj kaj knabinoj — tiaj politikoj ofte estas malbone efektivigitaj, malhelpataj de malriĉeco kaj la disvastiĝo de socikulturaj normoj ene de lokaj komunumoj, kiuj eternigas seksan malegalecon.
+
+Tial afrikaj registaroj devas entrepreni konkretajn reformojn kaj pli multe investi por certigi, ke edukaj politikoj ofertas kvalitan edukadon al ĉiuj junaj afrikaj knabinoj. Tio signifas ankaŭ forigon de sociaj baroj al la aliro de knabinoj al lernejoj, starigon de juraj kadroj por certiĝi, ke ĉiuj knabinoj finu studadon antaŭ la aĝo de 16 jaroj, financadon de senpaga deviga edukado per asignado de pli granda parto de naciaj buĝetoj al bazlerneja kaj mezlerneja edukado. Gravas certigi sekuran, subtenan lernmedion — ankaŭ per revizio de instruplanoj por forigi seksajn stereotipojn.
+
+Oni devas ankaŭ disvolvi eblojn por metia trejnado por junaj patrinoj kaj endanĝerigitaj junaj virinoj por malhelpi ilian malebligon, kaj preni taŭgajn rimedojn kontraŭ frua geedziĝo. Ĉiuokaze, oni devas funkciigi sistemojn por observado kaj taksado por certigi, ke ĉi tiuj politikoj estas efike realigitaj.
+
+Konsiderante ke plejparto da virinoj elspezas ĝis 90 elcentojn de sia enspezo al la bonfarto de siaj familioj kaj komunumoj , dum ĉe virinoj temas pri 30 kaj 40 elcentoj respektive, estas gravege pligrandigi la jurajn, homajn kaj financajn resursojn por la knabina edukado. Tia investo ne nur plibonigos individuajn kondiĉojn, sed ankaŭ fondos bazon por vera transformado de la afrika socio.
+
+
+---
+
+# Indonezia tribunalo senkulpigas laboristinon akuzita pro kalumnio de fama entreprenisto
+
+**Published:** 2025-06-21
+
+**URL:** https://eo.globalvoices.org/2025/06/15213/
+
+**Author:** Adam D. Prakasa
+
+**Categories:** Angla, Blogo, Civitanaj komunikiloj, GV Advocacy, Homaj rajtoj, Indonezio, Laboro, Orienta Azio, Parollibereco, Ĉefaĵo
+
+La tribunala decido de Septia en Ĝakarto, la 22-an de Januaro, 2025 / SAFEnet. Uzata kun permeso.
+
+La distrikta tribunalo de centra Ĝakarto [eo] en Indonezio [eo] senkulpigis laboristinon, kiu estis akuzita pro supozita kalumnio de ŝia entreprenista estro, unu el la multaj lastatempaj decidoj surbaze de la tre polemika leĝo pri elektronikaj informoj kaj transakcioj ( Electronic Information and Transactions Law , mallonge UU ITE) en la lando.
+
+Septia Dwi Pertiwi, iama stabano de merkatiko ĉe Hive Five, la interreta platformo de kompania registrado kaj konsultado, afiŝis en X inter Novembro 2022 kaj Januaro 2023 por esprimi sin kontraŭ la ekspluataj laborpraktikoj de ŝia estro Henry Kurnia Adhi (famkonata kiel Jhon LBF). En ŝiaj pepaĵoj (ne plu legeblaj), ŝi konjektis ke la kompanio pagis ŝin malpli ol la minimuma salajro, ne pagis ŝin kaj aliajn gelaboristojn por aldona laboro, arbitre malaltigis ilian salajron, kaj eĉ detenis iliajn personajn dosierojn, ekz. diplomojn kaj geedziĝajn atestilojn, kontraŭe al la nacia labora juro [eo].
+
+Jhon LBF akiris ne tiom gravan statuson de famulo en la indonezia interreto pro liaj famaj afiŝoj, proklamante sian entreprenan kapablon kaj motivigajn aspirojn, samtempe fanfaronante pri siaj bonaj kontaktoj kun kompaniaj kaj registaraj gravuloj en Indonezio. Li fieras pri 1,4 milionoj da sekvantoj en Instagram kaj 2,7 milionoj da sekvantoj en TikTok , kiuj funkcias kiel la ĉefaj rimedoj por reklami liajn kompaniojn, kiuj inkluzivas juran firmaon, vendejon de elektroskoteroj [eo], parfumaĵan vendejon, kaj imposto-konsultejon. Hive Five , kiu provizas servojn por korporacia registrado, estas unu el tiuj kompanioj.
+
+Trovinte la interretajn afiŝojn de Septia, Jhon LBF registrigis kriman plendon ĉe la polico kio igis la oficejon de la ŝtata prokuroro de centra Ĝakarto akuzi ŝin en aŭgusto 2024 laŭ tri artikoloj (Art. 27[3], 36, kaj 51[2]) de la amendita versio de 2016 pri elektronikaj informoj kaj transakcioj (UU ITE), kiu malpermesis elektronikan elsendon de kalumnio. Ŝi estis tuj arestita post la proceso.
+
+En la krima akuzo kontraŭ Septia, la ĉef-persekutisto de la ŝtata prokurora oficejo de centra Ĝakarto, Maryani Melindawati, argumentis interalie ke ŝiaj pepaĵoj malsukcesigis la komercajn kontraktojn de Jhon LBF, kio plenumas la kondiĉon laŭ la artikoloj de UU ITE ke akuzoj pri kalumnio bezonas pruvon pri reala malgajno kaŭzita al la kalumniito, kaj ke ŝiaj pepaĵoj kaŭzis “maltrankvilecon por la publiko”. La persekutisto petis unu jaran da malliberigo kaj monpunon de 50 milionojn IDR (ĉirkaŭ 3000 USD).
+
+La proceso komenciĝis la 10-an de Septembro 2024, kaj tiam Septia estis defendita de grupo da advokatoj, kiu taŭge nomiĝas “ Tim Advokasi Septia Gugat Negara Abai ” (Advokata teamo de Septia persekutas la ŝtaton pro malzorgemo) . En la defenda noto , la advokatoj argumentis, ke esprimi sin kontraŭ la malobservoj de laboristaj rajtoj en sociaj retejoj ne devus esti krimigita. Entute dudek unu tribunalaj sesioj okazis antaŭ tri juĝistoj, kiuj finfine rezultigis la decidon por senkulpigi Septia pri ĉiuj akuzoj kaj liberigi ŝin la 22-an de Januaro 2025.
+
+La kazo de Septia altiris multan amaskomunikilan atenton en Indonezio kaj eksterlande. Grupo da 105 civitanrajtaj kaj laboristaj organizaĵoj tutmonde subskribis internacian komunan deklaron por peti ŝian plenan senkulpigon. Jen parto de tiu deklaro:
+
+Ni forte denuncas la senbazan akuzon kontraŭ Septia Dwi Pertiwi. Ŝia persekuto substrekas la malfacilaĵojn de defendantoj de laborrajtoj en Indonezio, kiuj alfrontas krimuligon simple pro uzo de esprimlibereco por atingi justecon.
+
+Ni forte denuncas la senbazan akuzon kontraŭ Septia Dwi Pertiwi. Ŝia persekuto substrekas la malfacilaĵojn de defendantoj de laborrajtoj en Indonezio, kiuj alfrontas krimuligon simple pro uzo de esprimlibereco por atingi justecon.
+
+Dum la lasta jaro, persekutoj rilataj al UU ITE kaŭzis krimigadon de homoj kiel homrajtaj defendantoj, Haris Azhar kaj Fatia Maulidiyanti , ankaŭ aktivisto de naturprotektaj rajtoj en Karimunjavo, Daniel Frits Maurits Tangkilisan .
+
+La instituto por krimjura reformo en Ĝakarto ( Institute for Criminal Justice Reform , malonge ICJR) kritikis la perrsekutiston ke li elektis la krimajn artikolojn por akuzi Septia, rimarkante ke la lasta amendo al la UU ITE en 2024 enhavas pli mildajn akuzojn kaj efektive aboliciis ĉi tiujn artikolojn, kaj ke la indoneziaj krimaj proceduroj postulas, ke la plej malsevera regulo estu aplikata al la akuzito en kazo de amendo en la krima juro. Specife, Art. 27[3] de la 2016-a versio de la UU ITE estas delonge elstarigita de homrajtaj organizaĵoj en Indonezio kiel unu el la plej subpremaj leĝiloj disponeblaj por la persekutado. En alia interveno proponita al la tribunalo, la Asocio por homaj rajtoj kaj jura helpo de Indonezio (PBHI) ankaŭ argumentis ke la agoj de Septia estis laŭrajta “formo de kritiko kaj opinio kiel iama dungito, kies dungitaj aspiroj estis neniam aŭskultitaj” kaj ke la akuzo estis klopodo por silentigi Septia kaj kontraŭi bazajn principojn de homaj rajtoj.
+
+La unika trajto de la kazo de Septia estis ŝia akuzo, kiu devenas de plendo farita de privata partio, dum aliaj akuzoj estis komencitaj de registaraj agantoj, kaj la kazo ankaŭ estis rigardita el pli granda kadro de daŭranta malboniĝo de laboristaj rajtoj en Indonezio. La pasinta administracio de Joko Widodo, subtenita de preskaŭ ĉiuj politikaj partioj reprezentitaj en la Nacia Parlamento, oficialigis la polemikan leĝon pri kreado de laborpostenoj en 2020, kiu malstriktigis multajn laborprotektilojn kaj malfortigis la potencon de la jam ĥaose organizitaj laboristoj. Tio kaŭzis amasajn protestojn, jurajn defiojn , nuligon kaj refaron de tiu leĝo en 2023 . Lia posteulo, Prabowo Subianto, promesis batali por laboristaj rajtoj, sed li ankaŭ venkis la pasintjaran prezidentan balotadon per kampanjo surbaze de plano por daŭrigi plejparte la politikon de la administracio de Widodo .
+
+Nuntempe, la malkondamno de Septia estis bonvena freŝa novaĵo en pli kaj pli mallibera medio por esprimlibereco kaj subprema diĝita scenejo en la lando . Nenden Sekar Arum de la Grupo por esprimlibereco en sud-orienta Azio [eo] ( Southeast Asia Freedom of Expression Network aŭ SAFEnet) diris:
+
+La decido de la juĝisto senkulpigi Septia estas certe bona novaĵo, sed tio ne devus esti okazinta kiam la leĝo povas esti uzata tiel facile por krimigi homojn, kiuj postulas siajn rajtojn.
+
+La decido de la juĝisto senkulpigi Septia estas certe bona novaĵo, sed tio ne devus esti okazinta kiam la leĝo povas esti uzata tiel facile por krimigi homojn, kiuj postulas siajn rajtojn.
+
+
+---
+
+# Ĉu novaj ĉiniaj sunenergiaj kompanioj rapidigos la mediamikan transiron de Indonezio?
+
+**Published:** 2025-07-22
+
+**URL:** https://eo.globalvoices.org/2025/07/15433/
+
+**Author:** Adam D. Prakasa
+
+**Categories:** Civitanaj komunikiloj, Ekonomio kaj komerco, Indonezio, Internaciaj rilatoj, Medio, Orienta Azio, Usono, Ĉefaĵo, Ĉina, Ĉinio
+
+Sudorienta Azio jam estas sunenergia produktanta centro por ĉiniaj kompanioj. Fonto: Wikicommons. CC BY-SA 20
+
+En Aprilo 2025, la usona departemento de komerco findecidis novan tarifon ĝis 3521 procentoj por importitaj sunpaneloj el kvar sudorientaj aziaj landoj: Vjetnamio, Malajzio, Kamboĝo kaj Tajlando. Ĉi tio okazis post kiam la usona alianco por sunenergia produktanta komerca komitato akuzis grandajn ĉiniajn sunpanelfabrikojn en tiuj kvar landoj eksporti sunpanelojn kun prezo malpli ol la kosto por produkti ilin, kaŭzante inundon da maljuste malmultekostaj komercaĵoj en la usona merkato. Ili petis al la usona registaro plialtigi tarifon por protekti iliajn usonajn komercadojn, kiuj valoras miliardojn da dolaroj. La limdato de tiu fina decido estis Junio 2025.
+
+La disputo pri sunenergia komerco inter Usono kaj Ĉinio jam okazas dum multaj jardekoj. En 2012, la usona departemento de komerco impostis 30 procentojn aŭ pli da puna tarifo al ĉiniaj sunenergiaj kompanioj post kiam usonaj sunenergiaj kompanioj akuzis ĉiniajn fabrikojn tranĉi la prezon per maljusta financa helpo, kiu ruinigis enlandajn kompaniojn laŭ ili.  Ĉinio evitis tion movante ĝian produktadon al sudorienta Azio. Ĉi tio transformis Malajzion, Kamboĝon, Tajlandon kaj Vjetnamion al centro de ĉiniaj sunpanelfabrikoj.
+
+Tiuj kvar landoj produktis pli ol 40 procentojn da sunpanela produktkapablo ekster Ĉinio kaj kontribuis ĉirkaŭ 20 procentojn al la tutmonda sunpanela eksportado. Laŭ BloombergNEF , 80 procentoj da iliaj produktaĵoj estis eksportitaj al Usono dum la unua jarduono de 2024. En 2023, ilia eksportado al Usono kreskis ĝis 12 miliardoj da usonaj dolaroj. Tiuj fabrikaj centroj fortigis la grandan potencon de Ĉinio en tutmonda sunpanela eksportado, kiu konsistigas 80 procentojn da tutmonda perŝipa komerco en 2023.
+
+Sed, pro la nova baldaŭa tarifo kaj malfacilaj rivaloj enlande kun malalta profito, Ĉinio provis eviti la problemon per translokiĝo al aliaj plaĉaj landoj, kiuj ĝis nun jam evitis la tarifojn, ekzemple Indonezio. Ke la kialoj estas klaraj, diris Yana Hryshko, direktoro de esploro pri tutmonda sunenergia provizoĉeno en Wood Mackenzie, al la VOA :
+
+事 实 上，在所有 东 南 亚 国家中，印尼是最佳 选择 ，因 为 印尼本身就是一个非常有前景的太阳能市 场 。例如，印尼在海上浮 动 太阳能方面 拥 有最大潜力， 这 些太阳能 设 施可以安装在靠近海岸的海域上。此外，印尼幅 员辽阔 ，有足 够 的空 间 建 设 其他太阳能 项 目，如内 陆 太阳能 项 目。
+
+事 实 上，在所有 东 南 亚 国家中，印尼是最佳 选择 ，因 为 印尼本身就是一个非常有前景的太阳能市 场 。例如，印尼在海上浮 动 太阳能方面 拥 有最大潜力， 这 些太阳能 设 施可以安装在靠近海岸的海域上。此外，印尼幅 员辽阔 ，有足 够 的空 间 建 设 其他太阳能 项 目，如内 陆 太阳能 项 目。
+
+Indonezio estas la plej bona elekto inter ĉiuj sudorientaj aziaj landoj ĉar ĝi estas tre potenca sunenergia merkato. Ekzemple, Indonezio havas la plej grandan eblecon rilate al flosanta sunpanelaro sur la maro, kiu estas konstruebla en akvaĵoj apud la plaĝo. Krom tio, Indonezio estas vasta lando kaj havas sufiĉan spacon por konstrui aliajn sunenergiajn projektojn, ekzemple surterajn sunenergiajn projektojn.
+
+Indonezio estas la plej bona elekto inter ĉiuj sudorientaj aziaj landoj ĉar ĝi estas tre potenca sunenergia merkato. Ekzemple, Indonezio havas la plej grandan eblecon rilate al flosanta sunpanelaro sur la maro, kiu estas konstruebla en akvaĵoj apud la plaĝo. Krom tio, Indonezio estas vasta lando kaj havas sufiĉan spacon por konstrui aliajn sunenergiajn projektojn, ekzemple surterajn sunenergiajn projektojn.
+
+Ilustrataĵo de sunpanelaj fabrikoj. Fonto: Pxhere
+
+Ĉinaj sunenergiaj kompanioj kreskegas en Indonezio
+
+La translokiĝo de ĉinaj fabrikoj al Indonezio okazis “ rapide kaj grandskale .” Dum la pasintaj 18 monatoj, almenaŭ kvar Ĉinio-rilataj sunenergiaj projektoj komenciĝis en Indonezio kaj Laoso kaj du pluaj projektoj komenciĝos .
+
+Kiel ebla merkato en “strategia loko por fabrikaj centroj” kun “malalta kosto de produktado,” kelkaj ĉindevenaj kompanioj, inkluzive Thornova Solar (拓纳瓦太阳能), Trina Solar ( 天合光能股份有限公司), New East Solar (新东方太阳能), kaj China Lesso Group (中国联塑集团控股有限公司), anoncis planojn por pligrandigi siajn produktajn kapablojn en Indonezio.
+
+Krom sunenergiaj kompanioj, la Energia Konstruada Korporacio de Ĉinio (中国电力建设集团有限公司) sub la Zona kaj Voja Iniciato (angle Belt and Road Iniciative aŭ BRI , interkontinenta granda disvolva projektaro de Ĉinio) konstruis la digon de Ĉirata en Okcidenta Javo, la plej grandan flosantan projekton de fotovoltaika energiproduktado en Indonezio. Plie, en Marto, China Gezhouba Group Co. (中国葛洲坝集团股份有限公司) subskribis kontrakton kun la indonezia registaro por 60 megavata flosanta sunpanela kampo en Saguling, Okcidenta Javo. Pertamina Nova kaj Renovigebla Energio, kiu estas nacia kompanio, ankaŭ ekdiskutis pri kunlaboro kun ĉina produktanto por konstrui sunpanelan fabrikon en Karawang, Okcidenta Javo.
+
+La flosanta sunenergia kampo de Ĉirata en Okcidenta Javo, Indonezio. Fonto: Ekranfoto de la YouTube-kanalo de la Indonezia Departemento de Energiaj kaj Mineralaj Resursoj.
+
+En 2024 mem, 22 ĉinaj sunenergiaj kompanioj investis en 30 projektoj en 18 landoj, inkluzive du projektoj en Indonezio, laŭ Guang Fu Men , komunika grupo kiu fokusiĝas pri la sunenergia industrio de Ĉinio.
+
+Malgraŭ la granda investo, ĉinaj sunenergiaj kompanioj alfrontas multajn defiojn en Indonezio. Ĉinaj kompanioj havas limigitan aliron al internaciaj financaj institucioj kaj fremdaj bankoj, diris Gu Xincen, la direktoro de klimata kaj energia programo de la internacia naturprotekta organizo Greenpeace , dum intervjuo kun Global Voices .
+
+中国企业的一些国际竞争对手则利用其低成本和长贷款期的融资优势，在项目竞标时报出很低的价格。中资企业应该借鉴国际同行的经验，充分利用境外国际金融机构、外资银行的资金以加快发展。
+
+中国企业的一些国际竞争对手则利用其低成本和长贷款期的融资优势，在项目竞标时报出很低的价格。中资企业应该借鉴国际同行的经验，充分利用境外国际金融机构、外资银行的资金以加快发展。
+
+Kelkaj internaciaj rivaloj de ĉinaj kompanioj uzas sian malaltan koston kaj longdaŭran financan avantaĝon por oferti tre malmultekostan prezon en projekta aŭkcio. Ĉinaj kompanioj devas lerni de siaj internaciaj samanoj kaj tute utiligi la financojn de eksterlandaj internaciaj financaj institucioj kaj fremdaj bankoj por rapidigi disvolviĝon.
+
+Kelkaj internaciaj rivaloj de ĉinaj kompanioj uzas sian malaltan koston kaj longdaŭran financan avantaĝon por oferti tre malmultekostan prezon en projekta aŭkcio. Ĉinaj kompanioj devas lerni de siaj internaciaj samanoj kaj tute utiligi la financojn de eksterlandaj internaciaj financaj institucioj kaj fremdaj bankoj por rapidigi disvolviĝon.
+
+Renovigebla energia sektoro de Indonezio
+
+Kiel granda karba produktanta lando , Indonezio ankoraŭ forte dependas de karbo kiel sia ĉefa elektra fonto. En Novembro 2024, prezidento de Indonezio Prabowo Subianto diris ke li volas ke Indonezio ĉesu uzi karbon kaj fosilian brulaĵon post 15 jaroj. Li celis krei 75 gigavatojn da renovigebla energio plej malfrue en 2040. Prabowo diris:
+
+Kami memiliki sumber energi terbarukan lainnya dan itulah sebabnya kami sangat optimistis bahwa kami dapat mencapai nol emisi sebelum 2050.
+
+Kami memiliki sumber energi terbarukan lainnya dan itulah sebabnya kami sangat optimistis bahwa kami dapat mencapai nol emisi sebelum 2050.
+
+Ni havas aliajn fontojn de renovigebla energio, kaj tial ni estas optimismaj ke ni povos atingi nul ellasadon antaŭ 2050.
+
+Ni havas aliajn fontojn de renovigebla energio, kaj tial ni estas optimismaj ke ni povos atingi nul ellasadon antaŭ 2050.
+
+Poluado en Ĝakarto, Indonezio. Foto el Wikipedia CC BY SA 3.0
+
+Karbo-brulantaj elektrejoj reprezentas altan riskon por la sano. Esploroj el la Centro por Esploro pri Energio kaj Pura Aero (angle CREA) malkovris ke poluado el la karbo-brulanta elektrejo de Suralaya en Banten kaŭzis almenaŭ 1470 mortojn ĉiujare kaj sanrilatan malgajnon ĝis 14,2 mil miliardoj da indoneziaj rupioj (pli ol 871 milionoj da usonaj dolaroj). Loĝanto ĉirkaŭ la elektrejo diris al la BBC ke sia ido suferas pulman problemon pro la poluado. Ĉi tiu elektrejo estas ankaŭ unu el la ĉefaj kaŭzoj de aerpoluado en Ĝakarto kaj aliaj ĉirkaŭaj distriktoj.
+
+Ĉi tiu kondiĉo pliurĝigas la transiron al renovigebla energio. Ŝanĝo al sunpaneloj povas krei pli sanan kaj bonkvalitan vivon kaj samtempe malmultigi ellasadon de forceja gaso kaj dependecon de fosilia bruligaĵo.
+
+En lastaj jaroj, la indonezia registaro jam provis allogi pli da investoj por renovigebla energio, inkluzive sunenergio. Sed, investo en la renovigebla energio-sektoro de Indonezio jam stagnis la pasintajn sep jarojn, kun nur investo de 1,5 miliardoj da usonaj dolaroj en 2023. Ĉinio, kiu estas la dua plej granda eksterlanda investanto en Indonezio, nur fokusas kvaronon da sia investo en la energia sektoro. Inter 2006 kaj 2022, nur 14 procentoj da ĉinaj energio-investoj estis por renovigebla energio, kaj la aliaj fokusiĝis pri fosilia bruligaĵo. En 2023, nur 13,1 procentoj da energio produktita en Indonezio devenis de mediamikaj fontoj, malpli ol 17,1 procentoj laŭ ŝtata celo. Fakulo diris ke “la manko de progreso” de Indonezio pri ĝia sindevigo transiri al renovigebla energio estas zorginda.
+
+Mutya Yustika, energia financa fakulo de IEEFA, diris al Dialogue Earth ke Indonezio alfrontas kelkajn strukturajn defiojn por multigi investon en renovigebla energio. Unue estas la deviga registara partenereco kiu ordonas ke privataj kompanioj kunlaboru kun PLN (la nacia elektra kompanio de Indonezio). Ankaŭ la malmultekosta sunenergia tarifo de naŭ cendoj po kilovat-horo limigas la financan intereson por investantoj, plie la longa kaj malklara alira procezo kaŭzas pli da malfruigo.
+
+Indonezio ankoraŭ forte dependas de karbo por elektro. Fonto: Pxhere
+
+Ĉu ĉina investo rapidigos la mediamikan transiron de Indonezio?
+
+Kiel tropika lando, Indonezio havas grandan sunenergian eblon [rdlr. potencialon ], ĉirkaŭ 3,294 gigavatoj . Sed ĝis nun, ĝi nur havas 140 megavatojn da tegmentaj sunpanelaj instalaĵoj, tial Indonezio estas en la oka pozicio inter aliaj sudorientaj aziaj landoj rilate al la granda utiligo de sunenergio, laŭ Global Energy Monitor .
+
+La indonezia registaro decidis ambician celon : 3,61 gigavatojn da tegmentaj sunpaneloj plej malfrue en 2025, 26,65 gigavatojn da flosantaj sunpaneloj, kaj 4,68 gigavatojn da granda sunenergia elektrejo plej malfrue en 2030. Indonezia Nacia Elektra Plano 2024–2060 divenas grandan kreskon de enlanda sunenergia bezono dum la sekvontaj jardekoj, sed fakuloj diras ke lokaj produktkapabloj devas esti altigataj por produkti miliardojn da sunpaneloj.
+
+Enlanda bezono evidente jam kreskis dum la pasintaj kvin jaroj, diris Erlangga Bayu el la Indonezia Asocio de Tegmentaj Sunpanelaj Instalistoj (Perkumpulan Pemasang PLTS Atap Indonesia) al Global Voices . Statistike, okazis 160-procenta kresko en la postulo pri instalado de sunpaneloj de 2020 ĝis 2024.
+
+Sed, por multaj aĉetantoj, sunpaneloj estas ankoraŭ tro multekostaj. Lani Diana, 30-jaraĝa, jam konsideras instali sunpanelon en sia hejmo en Suda Tangerang, Banten. Ŝi daŭre hezitis pro la alta prezo kaj ĝia granda influo sur la naturmedio.
+
+“Sunpaneloj ankoraŭ ne estas popularaj. Mi jam pensis pri ĝia naturprotekta avantaĝo, ĉu granda aŭ ne granda, sed ĝi ankoraŭ estas multekosta,” diris Lani al Global Voices .
+
+Ĉi tie, ĉina investo povas havi grandan rolon por subteni enlandajn sunenergiajn aparatojn kaj infrastrukturojn. Erlangga diris ke ĉinaj sunenergiaj kompanioj povas plibonigi la enlandan merkaton pro iliaj altnivelaj teknologioj, kiuj allogas kapitalon kaj kreas dungadon.
+
+“Per sunpaneloj faritaj en Indonezio, la prezo ankaŭ estos pli malmultekosta loĝistike ol importado el Ĉinio. Do, kiam ekzistas malmultekostaĵo, la multobliganta efiko estos ke ankaŭ la bezono estos pli granda,” diris Erlangga al Global Voices .
+
+Yang Muyi, sperta energia analizisto en la tutmonda energia pensfabriko Ember, diris al Dialogue Earth ke li estas optimisma ke novaj ĉinaj sunenergiaj kompanioj povas levi la mediamikan transiran ambicion de Indonezio. Kiel potenca partio tutmonde kun 90 procentoj da akcioj en ĉefaj partoj de la sunpanela provizoĉeno, Ĉinio oferas strategiajn avantaĝojn por la kresko de indonezia renovigebla energio. Ĝiaj altnivelaj teknologioj povas subteni la ambicion de Indonezio por krei grandajn sunenergiajn elektrejojn.
+
+Sed, fakuloj ankaŭ emfazis la bezonon disvolvi lokajn produktantajn industriojn, ĉar Ĉinio eble ne portos la plej altnivelajn teknologiojn al Indonezio. Ankaŭ eblas — kaj eĉ verŝajne — ke en la estonteco, Usono ankaŭ altrudos novan imposttarifon al la sunenergia industrio de Indonezio.
+
+Ankaŭ ekzistas kelkaj konsiderindaj riskoj por la naturo, precipe kiam industrio bezonas vastan landon por granda sunenergia produktado. Kampanjo-estro de Wahana Lingkungan Hidup Indonesia (Forumo por Naturo), Fanny Tri Jambore, diris al Tempo , unu el la plej grandaj sendependaj gazetaj retejoj de Indonezio, ke okazos problemoj se fabriko delokigos ekologie gravajn ekosistemojn, kiel ekzemple protektatajn habitatojn [rdlr. vivejojn] aŭ aerkolektajn areojn.
+
+
+---
+
+# Subtenu Global Voices dum ni lanĉas nian donackampanjon
+
+**Published:** 2025-07-22
+
+**URL:** https://eo.globalvoices.org/2025/07/15508/
+
+**Author:** Herman Dekeŭnink
+
+**Categories:** Announcements, Civitanaj komunikiloj, Ĉefaĵo
+
+Membroj de la komunumo Global Voices ĉe la GV-pintkunveno en Katmanduo, Nepalo, en decembro 2024. Foto de Jer Clarke. Uzata kun permeso.
+
+Hodiaŭ, Global Voices lanĉas donackampanjon por kolekti USD 250 000 [ĉ. 313 000 €)  por subteni la funkciadon de niaj novaĵaj kaj tradukaj retejoj.
+
+Historie, Global Voices estis ĉefe subtenata de fondumoj kaj aliaj subvenciantoj kaj ni estas dankemaj pro la financado, kiun ni ricevas tiel. Tamen, signifaj reduktoj en eksterlanda helpo fare de kelkaj registaroj ŝrumpigis la disponeblajn financojn por neprofitcelaj organizaĵoj. Ĉi tio aparte influis organizaĵojn pri ciferecaj rajtoj kiel la nia.
+
+Nuntempe novaĵaj kaj tradukaj organizaĵoj travivas malfacilajn tempojn, kun novaj teknologioj uzataj por redukti dungitaron kaj amasproduktita misinformado forpuŝante kvalitajn novaĵojn. Malgraŭ tio, Global Voices [ Tutmondaj Voĉoj en Esperanto, rdlr. ] daŭre kreskas kaj laŭ nombro de artikoloj kaj laŭ nombro de legantoj. Tamen, nia engaĝiĝo ne meti enhavon malantaŭ pagmurojn aŭ montri reklamojn signifas, ke ni ne povas kovri niajn funkciajn kostojn sen donacoj de legantoj.
+
+Global Voices estas relative malmultekosta organizaĵo por funkciigi: Ni ne havas oficejojn, ni ne lupagas kaj bezonas minimumajn rimedojn. Ni pagas por niaj serviloj por gastigi Gloval Voices kaj kelkajn aliajn administrajn kostojn, sed sendube la plej granda parto de niaj elspezoj iras al salajroj de dungitoj. Multaj subvenciantoj elektas financi altprofilajn projektojn kovrante nur minimumajn dungitarajn kostojn. Sed ĝuste la kompensado de la dungitaraj kostoj subtenas ĉiujn niajn projektojn.  Niaj dungitoj kaj volontuloj esploras temojn kaj verkas enhavon, redaktas ĝin, tradukas ĝin, kaj pledas por rajtoj – kaj foje faras grafikan dezajnon aŭ elektas ilustraĵojn por akompani la enhavon, reklami ĝin en sociaj retejoj, kaj multe pli. Jen la homoj, kiujn ni esperas subteni per la donacoj de ĉi tiu kampanjo – nia komunumo – tiujn, kiuj kreas la artikolojn, eseojn, tradukojn, faras esplorlaboron kaj podkastojn, kiujn vi trovas en nia retejo.
+
+Se ni ricevus unu eŭron aŭ dolaron por ĉiu paĝrigardo, ni ne devus komenci ĉi tiun kampanjon! Kaj se ĉiu el tiuj eŭroj aŭ dolaroj estus monata donaco, ni povus plani niajn agadojn pli longtempe kaj estus sub malpli da premo ĝenerale. Ni ankaŭ scias, ke ne ĉiuj — pro diversaj kialoj — havas la rimedojn por subteni nin finance. Anstataŭe, ni povas imagi, ke kvinono de la monataj retejaj spektoj alportas kvin eŭrojn/dolarojn, aŭ dek eŭrojn/dolarojn el dekono. Eble iu, kiu nenion legis ĉi-monate sed kredas je nia laboro, donos dudek kvin eŭrojn/dolarojn, kaj iu, kiu ŝatas tradukojn, sendos pliajn dek kvin, kaj… vi komprenas la ideon.
+
+Ni esperas, ke vi povas esti unu el tiuj homoj kiuj subtenas nin per donaco. Kaj se vi ne povas nun, ni esperas, ke vi tamen pasigos tempon en nia retejo kaj poste rakontos al aliaj pri ĝi. Pli ol esti sole novaĵretejo, Global Voices estas komunumo, kaj ni ŝatus ke vi estu parto de ĝi. Ni daŭre kundividos informojn pri la kampanjo kaj pri Global Voices en sociaj retejoj. Bonvolu kundividi por ke pli da homoj sciu pri ni kaj la eblojn partopreni. Dankon pro via subteno!
+
+Donacu
+
+
+---
+
+# Monkolekto: Grimpante virtualan Evereston kun la komunumo Global Voices
+
+**Published:** 2025-07-25
+
+**URL:** https://eo.globalvoices.org/2025/07/15523/
+
+**Author:** Herman Dekeŭnink
+
+**Categories:** Blogo, Civitanaj komunikiloj, Ĉefaĵo
+
+Mia biciklada provo de Everest Roam estas la plej nova en serio da vojaĝoj de kompreno, kiujn mi entreprenis dum mi alfrontas spiran malsanon, kiu ŝanĝis mian kapablon vaste vojaĝi. En 2022, mi biciklis “ Pilgrimadon por Miliono da Vivoj “, 190 mejlojn reprezentantaj 12 colojn por ĉiu KOVIM-morto. En 2023, Ivan Sigal kaj mi biciklis tra la Centra Valo de Kalifornio laŭ la spuroj de la Marŝo de Kamparanoj de 1966 por lerni pri la estonteco de nutraĵoj kaj la naturmedio. En 2024, mi desegnis la Acerbiciklan Aventuron por serĉi esperon dum krizoj, kiuj ŝajnas neeble grandaj por ŝanĝi . Kaj ĉi-somere, mi biciklis trans la Granda Dislima Migrovojo (rdltr.” Great Divide Trai l”) de Kolorado al Utaho por repripensi la veran potencon en la rilato de homoj al teknologio.
+
+En mondo plena de konflikto kaj konkurenco, kultivi komprenon trans homaj diferencoj malfacilas, necesas, kaj tamen tiel belas. Ĉi-somere, mi biciklos supren laŭ la ekvivalento de Sagarmato [eo, laŭ la nepala nomo सगरमाथा, transliterigita Sagarmāthā aŭ Mount Everest en la angla] dum vojaĝo de interrilato kaj kompreno. Dum mi faras tion, mi invitas vin sekvi kaj donaci por helpi al Global Voices atingi la celon kolekti 250 000 dolarojn por daŭrigi la decidan transliman raportadon, tradukadon kaj subtenon de subreprezentitaj komunumoj, kiun ili faris dum la pasintaj 20 jaroj [eo].
+
+La sporto de eltenbiciklado ŝatas defiojn, kaj unu el ĝiaj plej grandaj defioj estas Everest Roam , kie biciklantoj grimpas pli ol 10 000 metrojn en alteco (32 809 ft ) en malpli ol 36 horoj, biciklante minimuman distancon de 400 km (248 mejloj). En miaj plej sovaĝaj revoj, mi ŝatus kolekti dolaron por ĉiu metro en ĉi tiu 10 000-metra supreniro.
+
+Noto: Se vi donacos per la suba fenestraĵo, bonvolu mencii en la komenta sekcio “provided that it's for the Everest campaign!” (kondiĉe ke ĝi estas por la Everesta kampanjo!)
+
+Por multaj biciklantoj, la ideo pri Everesto ( Sagarmato ) estas abstraktaĵo — legenda referenco por persona atingo. Sed Everesto estas pli ol nombro. Ĝi estas loko famigita pro ĝia rolo en jarcento da aventuro kaj esplorado, eĥo de epoko kiam okcidentanoj serĉis famon per konkerado de la naturo. En la lastaj jaroj, okcidentaj amaskomunikiloj komencis kovri Evereston kun pli da profundo kaj koloro — rakontante la historiojn de lertaj lokaj ŝerpaj grimpistoj kaj priskribante la defion konservi la ekosistemon meze de la burĝona aventura turismo. Sed estas multe pli pri la komunumoj kaj kulturoj apud la plej alta monto de la mondo ol estas prezentita en IMAX-filmoj (eo).
+
+Nepalo kaj la Katmandua Valo unue ekfokusiĝis en mian vivon tra grupo de nepalaj amikoj ĉe la universitato. Transloĝiĝinte al Usono dum la Nepala Enlanda Milito, ili priskribis la defion vivi pace, sekure en tempoj de konflikto kaj renversiĝo. Miaj amikoj prezentis al mi Momos , Kheer kaj aliajn nepalajn manĝaĵojn. Mi ankaŭ lernis ludi Bagh-Chal , antikvan nepalan ludon de tigroj kaj kaproj, kiu instruas al ludantoj pensi pri nesimetria potenco, forto kaj senperforto. Mi estas tre dankema pro la malavareco de tiuj amikoj. Ili instruis al mi kiel esti gasto, gastiganto kaj amiko en socio kie, laŭ nunaj normoj, ni supozeble turnu la fotilon al ni mem.
+
+Malgraŭ dumviva scivolemo pri la nepala kulturo, mi ne scias ĉu mi iam ajn vizitos Nepalon.  Pro miaj spiraj problemoj, la aerpoluado en Katmanduo, la ĉefurbo , kaŭzos ke mi certe devos iri al la hospitalo ( la AQI atingis 333 tiun ĉi-aprilon ). Tamen, dum mi provas la Everest Roam Challenge , la komunumo Global Voices malavare kreas 30-horan ludliston de muziko, historio, kulturo kaj analizoj pri la lando, kiu helpos min pli profunde interrilati dum mi biciklas kun la komunumoj, kiujn ili nomas hejmo.
+
+Global Voices ( Tutmondaj Voĉoj en Esperanto ) estas internacia, plurlingva komunumo de verkistoj, tradukistoj kaj homrajtaj aktivuloj, kiu utiligas la potencon de la interreto por verki rakontojn, kiuj konstruas interkomprenon trans limoj. Antaŭ pli ol dek kvin jaroj, la komunumo Global Voices inspiris min kombini mian pasion por teknologio kaj homan interkomprenon. Tra la komunumo GV, mi trovis mian kuracistan konsiliston, ŝancojn por mia frua esplorado, kaj reton de principaj homoj, kiuj kuraĝigis min, defiis min kaj helpis min vidi la mondon pli kolorigite. Mi nun servas en la estraro de la Amikoj de Global Voices [en] kun sidejo en Usono. GV havas fortan sud-azian komunumon, kaj mi entuziasmiĝas kundividi ilian kantludan liston!
+
+Faciligi la laboron de tutmonda komunumo en dekoj da lingvoj ne estas facila tasko — ĝi postulas multan administradon, redaktan laboron, kunordigadon kaj teknologion. La financoj, kiujn ni kolektas por Global Voices per la Everest Roam Challenge , helpos ĝin daŭre ligi homojn trans limoj por la komuna bono.
+
+Do, se vi zorgas pri nia kolektiva kapablo kompreni niajn kunhomojn kaj alfronti la tutmondajn defiojn de nia tempo, mi invitas vin sekvi mian vojaĝon kaj donaci al Global Voices.
+
+Detaloj pri la veturado :
+
+Veturada tempo: Aŭgusto 1-3 Rezervaj datoj kaze de veterado: Aŭgusto 10-12
+
+Rezervaj datoj kaze de veterado: Aŭgusto 10-12
+
+Itineria plano (nuna skizo): FLX Everest Roam (ĉe Komoot) . Gvidaj celoj: Grimpi multajn el la plej belaj kaj ikonecaj vojoj kaj gruzaj montetoj en la areo inter Ithaca NY kaj Watkins Glen , Nov-Jorkio (eo). Minimumigi grimpajn ripetojn
+
+Grimpi multajn el la plej belaj kaj ikonecaj vojoj kaj gruzaj montetoj en la areo inter Ithaca NY kaj Watkins Glen , Nov-Jorkio (eo).
+
+Minimumigi grimpajn ripetojn
+
+Distanco: 400 km, 300 mejloj
+
+Maksimuma deklivo: 20%
+
+Tempolimo: 36 horoj
+
+Kiel sekvi la veturadon:
+
+Ĉar mi estos okupata biciklante, la skipo ĉe Global Voices kontaktos min, afiŝos ĝisdatigojn kaj kundividos komunikilojn pri mia vojaĝo. Vi povas sekvi ilin ĉi tie:
+
+Instagram: @globalvoicesonline
+
+Bluesky: @globalvoices.org
+
+Mastodon: @globalvoices
+
+Facebook: @globalvoicesonline
+
+
+---
+
+# Interretaj uzantoj en Rusio povus esti punataj pro siaj serĉoj
+
+**Published:** 2025-08-14
+
+**URL:** https://eo.globalvoices.org/2025/08/15535/
+
+**Author:** Arturo Serrano
+
+**Categories:** Cenzuro, Civitanaj komunikiloj, GV Advocacy, Interreta aktivismo, Juro, Komunikiloj kaj ĵurnalismo, Orienta kaj Centra Eŭropo, Parollibereco, Rusio, Ĉefaĵo
+
+Foto de David Pupăză en Unsplash
+
+La Rusia Ŝtata Dumao, seĝo de la tiunacia parlamento, aprobis en la 22-a de julio leĝon [ru], kiu estigas monpunojn pro rete serĉi enhavon “ekstremisman”. Plie, nova leĝo nun klasigas la uzon de virtualaj privataj retoj (eo – VPR) kiel krime plipeziga cirkonstanco, kiu povas laŭleĝe pligravigi deliktojn kaj okazigi pli senindulgajn punojn.
+
+Anton Gorelkin, ano de la ŝtata Dumao, skribis en sia Telegram-kanalo [ru]: “Civitanoj povos libere uzi VPR-ojn por ajna laŭleĝa celo. Sed se iu uzas tiajn ilojn por krimi, ĝi estos konsiderata kiel cirkonstanco plipeziga.”
+
+Sub la nova amendo [ru], oni povas monpunati je sumo de 3000 ĝis 5000 rubloj (ĉirkaŭ de 33 ĝis 55 dolaroj) pro serĉi aŭ aliri “materialon/informon ekstremisman”, inkluzive per VPR-oj, eĉ se tiuj retejoj jam oficiale estas blokataj. La leĝo ankaŭ estigas monpunojn [ru] pro promocii aŭ anonci ilojn kiuj preterpasas interretajn limigojn, ekzemple VPR-oj. La monpunoj varias de 555 dolaroj por individuoj ĝis 5550 dolaroj je juraj por juraj entoj.
+
+Laŭ klarigo de Meduza [ru], “materialoj ekstremismaj” havas difinon ampleksan en tiuj amendoj. La nova artikolo de la leĝo specife mencias du metodojn por determini ĉu informo estas konsiderata kiel “ekstremisma”. La unua maniero, kiu estas memklara, diras ke la informo estu enlistigata en la tutalirebla listo federacia [ru] de materialoj ekstremismaj. Tiu listo nun enhavas pli ol 5000 retejojn.
+
+La dua metodo, per kiu la aŭtoroj de la amendo citas la difinon de “materialoj ekstremismaj” el la federacia leĝo “Pri kontraŭadi agadon ekstremisman”, malfermas la pordon al larĝa interpretado kaj ebla mistraktado [en.wikipedia]. Laŭ ĉi tiu leĝo, materialoj ekstremismaj povas enhavi ajnajn dosierojn aŭ informon kiu alvokas agadon ekstremisman, aŭ kiu pruvas aŭ pravigas la bezonon de tia agado.
+
+La nuna koncepto de “agado ekstremisma” en la rusia leĝaro estas sufiĉe vasta: ĝi enhavas [en] agadon terorisman, aldone al la uzo de simboloj de organizaĵoj konsiderataj kiel “ekstremismaj” en Rusio. Ĉi tiu etikedo ekzemple estas aplikata al la Fondumo Kontraŭ-Koruptado [en, pdf, 46.7 KB] de Aleksej Navalnij [eo], kaj eĉ al la “internacia publika movado LGBT” [ GLAT en Esperanto]
+
+Komunikiloj rusiaj sendependaj ankoraŭ ne ankoraŭ ricevis la etikedon “ekstremisma”, sed dum ne estas leĝaro kiu preventu la aŭtoritatojn tion fari, Meduza supozigas [ru] ke la estantaj amendoj estas paŝo en la direkton krimigi legadon, ĉar tia ago celtrafe malpermesus tutan legadon de ĉi tiuj informfontoj.
+
+
+---
+
+# Hispanaj artistoj reimagas Gernikon de Picasso kontraŭ la genocido en Gazao
+
+**Published:** 2025-08-15
+
+**URL:** https://eo.globalvoices.org/2025/08/15470/
+
+**Author:** Adam D. Prakasa
+
+**Categories:** Arto kaj kulturo, Blogo, Civitanaj komunikiloj, Hispanio, Mezoriento kaj Nordafriko, Milito kaj konflikto, Okcidenta Eŭropo, Palestino, Virinoj kaj genro, Ĉefaĵo
+
+Canva adaptaĵo de la verko de Moreno Mural (@ morenomural ) farita de Global Voices. Arto uzita kun permeso.
+
+Malmulte da pentraĵoj simbolas la doloron kaj absurdecon de milito kiel la Gerniko [eo] de Pablo Picasso, grava verko, kiun li fine faris en 1937. La pentraĵo, kiu altas 3,49 metrojn (11 futoj kaj 5 coloj) kaj larĝas 7,76 metrojn (25 futoj kaj 6 coloj), entenas la perforton kaj ĥaoson, kie cent miloj da homoj mortis dum la Hispana Enlanda Milito [eo] (1936-1939). Gerniko [eo] estas la nomo de eŭska [eo] urbo, kiu estis bombardita de nazia Germanio kaj faŝista Italio en 1937.
+
+Unu el la plej rimarkindaj partoj en la superrealisma [eo] verko estas la madre con niño muerto (patrino kun mortinta knabo) pentrita en la malsupra maldekstra parto de la bildo: unu patrino, ploranta sufere kaj dolore, tenanta sian mortintan bebon en siaj brakoj. Picasso poste pentris postskribojn de ĉi tiu figuro en siaj sekvaj verkoj.
+
+“Guernica” de Pablo Picasso (1937). Wikimedia Commons , sub justa uzo kun malalta difino..
+
+Pli ol 80 jaroj post la bombardo de Gerniko, Palestino [eo] suferas vastan amasmortigon faritan de israelaj aŭtoritatoj, plidolorigite de la senagado de fremdaj landoj, kaj infanoj ne estis ŝparitaj. Ankaŭ ili estas viktimoj de bombardoj, perforto, kaj malsatego. Laŭ la Unuiĝintaj Nacioj, ekde la komenco de la israela milito kontraŭ Gazao en 2023, pli ol 50 000 palestinaj infanoj estis mortigitaj aŭ vunditaj. Multaj jam mortis en la brakoj de sia patrino.
+
+Nun, ok hispanaj artistoj, alvokante haltigi la militon kontraŭ Gazao, reimagas la emblemplenan pentraĵon de Picasso. Ili esperas veki emocion en la kolektiva konscio de Hispanio per rekta komparo kun ĝia propra dolora historio.
+
+Foto de Sara Montero, membro de PararLaGuerra, farita dum la unua prezento en Marto 2025. Uzata kun permeso.
+
+La prezento Madre del Guernika (Patrino de Guernika) estis unue montrita antaŭ la Muzeo de Reina Sofía en Madrido en Marto 2025. Post ĉirkaŭ tri monatoj, la 14-an de Junio, Parar la Guerra , hispana kontraŭmilita movado kiu federas dekojn da organizaĵoj, prezentis la diversajn grandajn artajn verkojn en la publika urba placo . Sed ĉi-foje, ili estis montritaj antaŭ la hispana parlamento, antaŭ la amasa protesto kontraŭ la genocido en Palestino, kiu nun okazis tra tuta Hispanio.
+
+Grandaj kulturaj gravuloj, ekzemple filmreĝisoro Pedro Almódovar , alvokis la popolon protesti kontraŭ la milito kiam miloj da homoj iris al la stratoj de Hispanio. Reprezentanto de Parar la Guerra diris dum la protestoj:
+
+Tras la ruptura del precario alto el fuego el 18 de marzo, la violencia ha escalado. Estamos ante uno de los momentos más crueles y mortíferos de la matanza que el gobierno israelí lleva veinte meses perpetrando contra una población civil inocente, desarmada e indefensa.
+
+Tras la ruptura del precario alto el fuego el 18 de marzo, la violencia ha escalado. Estamos ante uno de los momentos más crueles y mortíferos de la matanza que el gobierno israelí lleva veinte meses perpetrando contra una población civil inocente, desarmada e indefensa.
+
+Post la rompo de la malstabila batalhalto la 18-an de Marto, la perforto eskaliĝis [eo]. Ni alfrontas unu el la plej kruelaj kaj danĝeregaj momentoj de amasmortigo, kiun la israela registaro jam dudek monatojn faras kontraŭ senkulpa, senarmila, kaj sendefenda civila loĝantaro.
+
+Post la rompo de la malstabila batalhalto la 18-an de Marto, la perforto eskaliĝis [eo]. Ni alfrontas unu el la plej kruelaj kaj danĝeregaj momentoj de amasmortigo, kiun la israela registaro jam dudek monatojn faras kontraŭ senkulpa, senarmila, kaj sendefenda civila loĝantaro.
+
+Vi povas vidi la verkaron ĉi-sube.
+
+Verko de Moreno Mural (@ morenomural ), uzata kun permeso.
+
+Verko de Jacobo Palos Wey (@ jacobopaloswey ), uzata kun permeso.
+
+Verko de Anita Muñoz Rivera ( @alonatural17 ), uzata kun permeso.
+
+Verko de Klina (@ Klina_art ), uzata kun permeso.
+
+Verko de Victor “Konestilo” ( @Konestiloart ), uzata kun permeso.
+
+Verko de Nauni69 (@ nauni69 ), uzata kun permeso.
+
+Verko de Jota López (@ jotalo ), uzata kun permeso.
+
+Verko de Jesús Soriano Ñuku (@ nukugraffiti ) reimagas la skulptaĵon “Pietà” de Michelangelo Buonarroti, en la Baziliko de Sankta Petro, Vatikano. Uzata kun permeso.
+
+
+---
+
+# Malajziaj aŭtoritatoj inspektas organizantojn de ateliero kun GLAT-fiera temo pro antaŭenigo de ‘devia kulturo’
+
+**Published:** 2025-08-15
+
+**URL:** https://eo.globalvoices.org/2025/08/15455/
+
+**Author:** Adam D. Prakasa
+
+**Categories:** Angla, Blogo, Civitanaj komunikiloj, Homaj rajtoj, Junuloj, Malajzio, Orienta Azio, Politiko, Rajtoj je seksa diverseco (GLAT), Regado, Sano, Ĉefaĵo
+
+Kelkaj membroj de Pemuda Sosialis aliĝis al la festo de Virina Tago en Marto alvokante por diverseco kaj egaleco. Fonto : Facebook
+
+La juna sekcio de Parti Sosialis Malaysia [Malajzia Socialista Partio] estis devigata mafruigi sian atelieron pri seksa sano por GLAT-partoprenantoj post kiam la ministro de religiaj aferoj publike denuncis la eventon pro supozeble antaŭenigo de “deviaj kulturoj”. Kelkaj homrajtaj porparolantoj riproĉis aŭtoritatojn minaci la organizantojn kaj inciti diskriminacion kontraŭ membroj de la komunumo GLAT+.
+
+Kun la temo “PRIDECARE: Kviraj Rakontoj kaj Konscio pri Seksa Sano,” la ateliero organizita de la Malajzia Socialista Partio Pemuda Sosialis, estis origine planita por la 21-a de Junio. Post kiam la evento estis diskonigita en socia retejo lastmonate, la ministro de religiaj aferoj, Na’im Mokhtar, diris ke ĝi “klare defias sociajn normojn kaj religiajn valorojn apogitajn de plejparte da malajzianoj.” Li instigis la policon inspekti la agadon.
+
+Mi alvokas ĉiujn partiojn helpi defendi la socian kaj moralan strukturon de nia socio kontraŭ ajna elemento kiu povas subfosi niajn kredon, etikon, kaj nacian harmonion. Deviaj, malkonformaj kulturoj neniam estos akceptataj kiel normo en Malajzio.
+
+Mi alvokas ĉiujn partiojn helpi defendi la socian kaj moralan strukturon de nia socio kontraŭ ajna elemento kiu povas subfosi niajn kredon, etikon, kaj nacian harmonion.
+
+Deviaj, malkonformaj kulturoj neniam estos akceptataj kiel normo en Malajzio.
+
+Poste, 21 policaj raportoj estis registritaj ĉe 11 distriktaj centroj kontraŭ la ateliero.
+
+Kvankam 63,5 procentoj da malajzianoj mem identiĝas kiel islamanoj, la konstitucio de la lando antaŭenigas religian harmonion. Dum la lastaj jaroj, kelkaj striktuloj jam puŝis pli striktan integriĝon kaj devigon de islamaj instruoj en regado, kiuj kaŭzis zorgon ke ĝi povas inciti al rasa kaj religia malharmonioj en la socio.
+
+Amanda Shweeta Louis, prezidanto de la Malajzia Socialista Partio Pemuda Sosialis , diris ke ili estis devigataj malfruigi la atelieron pro la interretaj minacoj direktitaj kontraŭ siaj membroj.
+
+Post la eldiro de la ministro, la nombro de malamaj komentoj kaj mortigaj minacoj en niaj sociaj retejaj kontoj multiĝis draste. Ĉu perforto kaj malamo estas la kulturo, kiun ni volas normaligi en Malajzio?
+
+Post la eldiro de la ministro, la nombro de malamaj komentoj kaj mortigaj minacoj en niaj sociaj retejaj kontoj multiĝis draste. Ĉu perforto kaj malamo estas la kulturo, kiun ni volas normaligi en Malajzio?
+
+La 4-an de Junio, du organizantoj de la ateliero estis alvokitaj de la polico rilate al inspekto pri blasfemo kaj “malĝusta uzo de retaj aparatoj aŭ retaj servoj” laŭ la komunika kaj multmedia leĝo (angle Communications and Multimedia Act aŭ CMA) de 1998. Iliaj telefonoj estis forprenitaj kaj ili devis respondi 38 demandojn.
+
+La Malajzia Socialista Partio Pemuda Sosialis insistis ke sia planita evento malantaŭ fermita pordo ne kaŭzus ian damaĝon al la socio.
+
+Ni volas refoje diri ke nia motivo por okazigi ĉi tiun malgrandan edukan atelieron estas por doni ĝustan informon pri seksa sano … kaj ĝi ne estas ‘morala detruo’ kiel akuzita de kelkaj partioj.
+
+Ni volas refoje diri ke nia motivo por okazigi ĉi tiun malgrandan edukan atelieron estas por doni ĝustan informon pri seksa sano … kaj ĝi ne estas ‘morala detruo’ kiel akuzita de kelkaj partioj.
+
+La partio promesis kontraŭi maljustajn politikojn kaj arbitrajn agojn.
+
+Pemuda Sosialis firme staras kontraŭ ĉi tiu ondo de malamo kaj subpremo. Ni ne restos silenta kiam vundeblaj grupoj estas minacitaj per perforto kaj ilia digneco estas malakceptita, ĉu de la ŝtato ĉu de la publiko.
+
+Pemuda Sosialis firme staras kontraŭ ĉi tiu ondo de malamo kaj subpremo. Ni ne restos silenta kiam vundeblaj grupoj estas minacitaj per perforto kaj ilia digneco estas malakceptita, ĉu de la ŝtato ĉu de la publiko.
+
+La Centro por sendependa ĵurnalismo (angle Centre for Independent Journalism aŭ CIJ) admonis aŭtoritatojn pri ilia respondeco apogi esprimliberecon. Ĝi atentigis ke CMA estas inter la leĝoj, kiujn la registaro uzas kiel armilon por timigi kritikantojn kaj antaŭenigi “arkaikajn valorojn kaj politikan oportunecon.”
+
+Kvankam kelkaj agantoj kontraŭis ĉi tiun eventon pro moralaj kaj religiaj valoroj de Malajzio, CIJ notis ke esprimlibereco, kiu inkluzivas esprimon pri identeco, estas garantiita en la plej alta jura kadro de nia lando, montrante la valorojn de Malajzio.
+
+Kvankam kelkaj agantoj kontraŭis ĉi tiun eventon pro moralaj kaj religiaj valoroj de Malajzio, CIJ notis ke esprimlibereco, kiu inkluzivas esprimon pri identeco, estas garantiita en la plej alta jura kadro de nia lando, montrante la valorojn de Malajzio.
+
+Nalini Elumalai de ARTICLE 19, observatorio pri ciferecaj rajtoj [ ndlr. ĝi monitoras, pledas por kaj defendas la rajtojn de individuoj en la cifereca kampo ], diris ke la inspektado de la polico substrekis la limigojn truditajn al GLAT-anoj.
+
+Ĉi tiu inspektado substrekas la subpremajn kondiĉojn, en kiu la komunumo GLAT daŭre vivas, kaj la senfinan diskriminacion, kiun ili alfrontas nur pro uzi siajn bazajn liberecojn de esprimo kaj kunveno.
+
+Ĉi tiu inspektado substrekas la subpremajn kondiĉojn, en kiu la komunumo GLAT daŭre vivas, kaj la senfinan diskriminacion, kiun ili alfrontas nur pro uzi siajn bazajn liberecojn de esprimo kaj kunveno.
+
+Ŝi ankaŭ instigis elektitajn oficialulojn antaŭenigi inkluzivecon anstataŭ inciti malamon kontraŭ malplimultaj komunumoj.
+
+Ili ankaŭ devas sin deteni de la uzo de stigmatiga lingvo, kiu povas plu kreskigi diskriminacion, maltoleremon, aŭ malpacon, precipe kontraŭ grupoj, kiuj jam alfrontas ekskludon kaj grandajn barojn por akiri efikajn rimedojn.
+
+Ili ankaŭ devas sin deteni de la uzo de stigmatiga lingvo, kiu povas plu kreskigi diskriminacion, maltoleremon, aŭ malpacon, precipe kontraŭ grupoj, kiuj jam alfrontas ekskludon kaj grandajn barojn por akiri efikajn rimedojn.
+
+Zaid Malek de Advokatoj por Libereco (angle Lawyers For Liberty ) argumentis ke oficialuloj ne faru malican ĉasadon surbaze de religia ideologio.
+
+…la fakto ke Islamo estas la oficiala religio ne rajtigas la registaron fari sorĉistin-ĉasadon kontraŭ eventoj, kiuj supozeble malobservas la principojn de Islamo. Ĉiukaze, ĉi tiu publiksana evento por malplimulta grupo neniel ofendas islamon. Islamo instigas kompaton kaj helpon al tiuj, kiuj bezonas ĝin. La registaro ankaŭ devas certigi ke ministroj ne malrespondece faru eldiron sen leĝa bazo nek incitu malamon kontraŭ malplimulaj grupoj.
+
+…la fakto ke Islamo estas la oficiala religio ne rajtigas la registaron fari sorĉistin-ĉasadon kontraŭ eventoj, kiuj supozeble malobservas la principojn de Islamo.
+
+Ĉiukaze, ĉi tiu publiksana evento por malplimulta grupo neniel ofendas islamon. Islamo instigas kompaton kaj helpon al tiuj, kiuj bezonas ĝin.
+
+La registaro ankaŭ devas certigi ke ministroj ne malrespondece faru eldiron sen leĝa bazo nek incitu malamon kontraŭ malplimulaj grupoj.
+
+
+---
+
+# Rara eldonejo uzas azian literaturon por pli proksimigi Tajvanon kaj Japanion al Ukrainio
+
+**Published:** 2025-08-15
+
+**URL:** https://eo.globalvoices.org/2025/08/15482/
+
+**Author:** Adam D. Prakasa
+
+**Categories:** Arto kaj kulturo, Blogo, Civitanaj komunikiloj, Japana, Japanio, Lingvo, Literaturo, Orienta kaj Centra Eŭropo, Rusa, Tajvano (RĈ), Ukraina, Ukrainio, Ĉefaĵo, Ĉina
+
+Ekranfoto de la retejo de Safran . Justa uzo.
+
+Ĝis ĉirkaŭ 1990, ukrainaj kaj tajvanaj literaturoj havis similan sperton en monda literaturo: malofte tradukitaj, taksitaj kiel subkategorio de siaj pli grandaj najbaroj, Rusio kaj Ĉinio respektive. La situacio ŝanĝiĝis iom post iom danke al lernejaj programoj (ekzemple la kreado de tajvanaj studoj), entuziasmaj tradukistoj, kaj kuraĝaj eldonejoj. Hodiaŭ, tajvanaj kaj ukrainaj literaturoj estas agnoskitaj tutmonde kiel sendependaj aĵoj, iliaj aŭtoroj estas invitataj al internaciaj festivaloj, kaj pli kaj pli da libroj estas tradukataj.
+
+Global Voices parolis kun Svitlana Pryzynchuk, ukrainino el Kievo, kiu studis internacian juron en la Internacia Universitato de Kievo kaj poste loĝis ses jarojn en Pekino, kie ŝi diplomiĝis kun magistra titolo pri artaj studoj ĉe la Normala Universitato de Pekino. Ŝi revenis al Ukrainio en 2015 kaj en la fino de 2018 fondis Safran , la unuan eldonejon en Ukrainio kiu specializiĝas pri aziaj literaturoj, en Kievo.
+
+La intervjuo okazis per retpoŝto post renkontiĝo en Tajpeo. La respondoj estis redaktitaj pro stilo kaj mallongigo.
+
+Svitlana Pryzynchuk, foto de la eldoneja privata arkivo, uzata permesite.
+
+Filip Noubel (FN): Kio estas la celo kaj historio de la eldonejo Safran?
+
+Svitlana Pryzynchuk (SP): En 2016 mi rimarkis ke mankas al ni ukrainlingva literaturo pri Azio. La situacio de la fako tiel nomita ‘Orientaj studoj’ en Ukrainio estis tre malĝoja. Dum la stalinistaj purigoj [eo] ĉirkaŭ 1930, preskaŭ ĉiuj ukrainaj fakuloj pri aziaj studoj kaj lingvoj estis subpremitaj, kaj ukrainoj estis malpermesitaj studi aŭ fari esploron pri Orienta Azio, kiu estis taksita kiel ‘burĝa-naciista agado’ kontraŭ la prioritatoj fiksitaj laŭ komunismo. Ankaŭ estis malpermesite lerni iun ajn orientazian lingvon en universitatoj de Ukrainio. Ukrainoj povis fari tion nur en Moskvo, Leningrado [nun Sankt-Peterburgo], aŭ Vladivostoko. Post la dissolvo de Sovetunio en 1991, en Ukrainio restis neniu ukrainlingva literaturo pri Azio. Ĝi eĉ ne havis ukrainan tradukon de la ĉefaj klasikaj verkoj. Ĉi tiu periodo okazis samtempe kiam Azio ekdisvolviĝis tre rapide (unue Japanio, Koreio, Tajvano, kaj poste kontinenta Ĉinio), sed al Ukrainio mankis scion kaj profesian informon pri Azio. Preskaŭ ĉiuj disponeblaj informoj venis de Rusio en la rusa lingvo. Sed historie, dum miloj da jaroj, Ukrainio estis profunde ligita al Azio tra la Granda Stepo, de la skitoj [eo] kaj ĥazaroj [eo] ĝis la Mongola Ora Hordo [eo], la Krimea Ĥanlando kaj la Otomana Imperio [eo]. Altranga moderna historiisto de Ukrainio, Mykhailo Hrushevsky [1866–1934] skribis: ‘…La orienta elemento estis kaj daŭre estas forta kaj aktiva en niaj vivoj, tre komplikaj estas ĝiaj partoj.’ En 2018, ni fondis nian azian eldonejon, kiu estas la unua tia en Ukrainio, por alfronti la modernajn defiojn de tutmondiĝo, por respondi al la kresko de Azio, kaj por superi la postkolonian heredaĵon de Ukrainio. Ni verkas niajn librojn mem kaj eldonas ukrainajn tradukojn de antikvaj kaj nuntempaj literaturoj el Azio. Verkante pri malsamaj genroj, ni provas doni al ukrainoj pli bonan komprenon pri aziaj societoj kaj kulturoj.
+
+Svitlana Pryzynchuk (SP): En 2016 mi rimarkis ke mankas al ni ukrainlingva literaturo pri Azio. La situacio de la fako tiel nomita ‘Orientaj studoj’ en Ukrainio estis tre malĝoja. Dum la stalinistaj purigoj [eo] ĉirkaŭ 1930, preskaŭ ĉiuj ukrainaj fakuloj pri aziaj studoj kaj lingvoj estis subpremitaj, kaj ukrainoj estis malpermesitaj studi aŭ fari esploron pri Orienta Azio, kiu estis taksita kiel ‘burĝa-naciista agado’ kontraŭ la prioritatoj fiksitaj laŭ komunismo. Ankaŭ estis malpermesite lerni iun ajn orientazian lingvon en universitatoj de Ukrainio. Ukrainoj povis fari tion nur en Moskvo, Leningrado [nun Sankt-Peterburgo], aŭ Vladivostoko. Post la dissolvo de Sovetunio en 1991, en Ukrainio restis neniu ukrainlingva literaturo pri Azio. Ĝi eĉ ne havis ukrainan tradukon de la ĉefaj klasikaj verkoj.
+
+Ĉi tiu periodo okazis samtempe kiam Azio ekdisvolviĝis tre rapide (unue Japanio, Koreio, Tajvano, kaj poste kontinenta Ĉinio), sed al Ukrainio mankis scion kaj profesian informon pri Azio. Preskaŭ ĉiuj disponeblaj informoj venis de Rusio en la rusa lingvo.
+
+Sed historie, dum miloj da jaroj, Ukrainio estis profunde ligita al Azio tra la Granda Stepo, de la skitoj [eo] kaj ĥazaroj [eo] ĝis la Mongola Ora Hordo [eo], la Krimea Ĥanlando kaj la Otomana Imperio [eo]. Altranga moderna historiisto de Ukrainio, Mykhailo Hrushevsky [1866–1934] skribis: ‘…La orienta elemento estis kaj daŭre estas forta kaj aktiva en niaj vivoj, tre komplikaj estas ĝiaj partoj.’
+
+En 2018, ni fondis nian azian eldonejon, kiu estas la unua tia en Ukrainio, por alfronti la modernajn defiojn de tutmondiĝo, por respondi al la kresko de Azio, kaj por superi la postkolonian heredaĵon de Ukrainio. Ni verkas niajn librojn mem kaj eldonas ukrainajn tradukojn de antikvaj kaj nuntempaj literaturoj el Azio. Verkante pri malsamaj genroj, ni provas doni al ukrainoj pli bonan komprenon pri aziaj societoj kaj kulturoj.
+
+Kovrilo de la ne-fikcia libro de Sanmao, pri okazaĵo en la Saharo. Foto de Filip Noubel, uzata permesite.
+
+FN: Vi jam tradukis kaj eldonis japanajn kaj tajvanajn literaturojn. Kiel estis la opinioj pri tiuj tradukoj? Kiel estas la videbleco de tajvana literaturo hodiaŭ en Ukrainio?
+
+SP: Jes, ni jam eldonis modernan japanan klasikan verkon, ‘Stebkovrilo’ (japane 蒲団, ukraine Постіль ), rakontetaro de Tayama Katai (田山 花袋). Ĉi-printempe ni ankaŭ eldonis ‘ La Subiranta Suno ’ (japane 斜陽, ukraine Надзахідне сонце ), prozetaro de Dazai Osamu (太宰 治). Temas pri Tajvano, ni jam eldonis tri nuntempajn fikciajn verkojn kaj naŭ volumojn de diversaj tajvanaj bildrakontoj. Kiam ni unue eldonis la premiitan novelon ‘ La Ŝtelita Biciklo ’ (ĉine 單車失竊記, ukraine Хроніки поцуплених роверів ) de Wu Ming-yi (吳明益), kaj ‘ La Rakontoj de la Saharo ’ (ĉine 撒哈拉的故事, ukraine Історії Сахари ) de Sanmao (三毛), ĝi estis tute nova afero en nia libro-merkato. Ni rimarkis la eblan valoron de tiuj libroj, sed la vendado estis ankoraŭ malrapida. Pro tio, la sekvonta fikcio kun la titolo ‘ Fantoma Urbo ’ (ĉine 鬼地方, ukraine Місто привидів ) de Kevin Chen (陳思宏) estis ĵus eldonita fine de 2024. Ĉi tio okazis samtempe kiam la ukraina libro-merkato kreskegis. Ĉi tio okazis pro la ampleksa rusia invado en 2022 kaj la sekvinta malpermeso kontraŭ importitaj libroj el Rusio. La vendado estis pli multe ol nia supozo, tial ni eldonis, post ne plu ol kvin monatoj, la duan eldonon de la tradukita verko de Chen. Ĉi tio rezultigis grandan sukceson en nia klopodo promocii tajvanan literaturon. Temas pri bildrakontoj, ni jam havas junan legantaron, kiu scivolemas malkovri Tajvanon per altkvalita tajvana bildrakonto. Nia celo ja estas konigi azian kulturon al ukrainoj, do ni zorge selektis ĉiun verkon. Ekzemple, ‘ Guardienne ’ (ĉine 守娘, ukraine Берегиня ) temas pri la rolo de virinoj en tradicia ĉina socio, ‘ Invito de Yama ’ (ĉine 閻王帖, ukraine Путівка в Потойбіччя ) montras al ni la Subteran Landon, ‘ La Leono en la Biblioteko de Bildrakontoj ’ (ĉine 獅子藏匿的書屋, ukraine Книгарня, в якій причаївся лев ) rakontas pri geniaj goludantoj, kaj ‘ Aventuro dum Tea Horo ’ (ĉine 異人茶跡, ukraine Формоза: хроніки чаювання ) montras la historion de la apero de blua teo en Tajvano en la 19-a jarcento. Ĉiuj tiuj verkoj enhavas aldonan materialon, kiu rolas kiel unika informfonto pri tajvanaj kaj aziaj kulturoj.
+
+SP: Jes, ni jam eldonis modernan japanan klasikan verkon, ‘Stebkovrilo’ (japane 蒲団, ukraine Постіль ), rakontetaro de Tayama Katai (田山 花袋). Ĉi-printempe ni ankaŭ eldonis ‘ La Subiranta Suno ’ (japane 斜陽, ukraine Надзахідне сонце ), prozetaro de Dazai Osamu (太宰 治). Temas pri Tajvano, ni jam eldonis tri nuntempajn fikciajn verkojn kaj naŭ volumojn de diversaj tajvanaj bildrakontoj. Kiam ni unue eldonis la premiitan novelon ‘ La Ŝtelita Biciklo ’ (ĉine 單車失竊記, ukraine Хроніки поцуплених роверів ) de Wu Ming-yi (吳明益), kaj ‘ La Rakontoj de la Saharo ’ (ĉine 撒哈拉的故事, ukraine Історії Сахари ) de Sanmao (三毛), ĝi estis tute nova afero en nia libro-merkato. Ni rimarkis la eblan valoron de tiuj libroj, sed la vendado estis ankoraŭ malrapida. Pro tio, la sekvonta fikcio kun la titolo ‘ Fantoma Urbo ’ (ĉine 鬼地方, ukraine Місто привидів ) de Kevin Chen (陳思宏) estis ĵus eldonita fine de 2024. Ĉi tio okazis samtempe kiam la ukraina libro-merkato kreskegis. Ĉi tio okazis pro la ampleksa rusia invado en 2022 kaj la sekvinta malpermeso kontraŭ importitaj libroj el Rusio. La vendado estis pli multe ol nia supozo, tial ni eldonis, post ne plu ol kvin monatoj, la duan eldonon de la tradukita verko de Chen. Ĉi tio rezultigis grandan sukceson en nia klopodo promocii tajvanan literaturon.
+
+Temas pri bildrakontoj, ni jam havas junan legantaron, kiu scivolemas malkovri Tajvanon per altkvalita tajvana bildrakonto. Nia celo ja estas konigi azian kulturon al ukrainoj, do ni zorge selektis ĉiun verkon. Ekzemple, ‘ Guardienne ’ (ĉine 守娘, ukraine Берегиня ) temas pri la rolo de virinoj en tradicia ĉina socio, ‘ Invito de Yama ’ (ĉine 閻王帖, ukraine Путівка в Потойбіччя ) montras al ni la Subteran Landon, ‘ La Leono en la Biblioteko de Bildrakontoj ’ (ĉine 獅子藏匿的書屋, ukraine Книгарня, в якій причаївся лев ) rakontas pri geniaj goludantoj, kaj ‘ Aventuro dum Tea Horo ’ (ĉine 異人茶跡, ukraine Формоза: хроніки чаювання ) montras la historion de la apero de blua teo en Tajvano en la 19-a jarcento. Ĉiuj tiuj verkoj enhavas aldonan materialon, kiu rolas kiel unika informfonto pri tajvanaj kaj aziaj kulturoj.
+
+FN: Kio estos la redakta plano por la estonteco? Ĉu ĝi inkluzivos ĉinian literaturon? Kio estas la ĉefa defio por tradukistoj?
+
+SP: Temas pri ĉinia literaturo, ni fakte jam komencis en 2018. Ni eldonis la unuan ukrainan tradukon de klasikaj verkoj, ekzemple la filozofio de Zhuangzi (ĉine 莊子, ukraine Джвандзи ), kaj la ‘ Klasiko de Teo ’ (ĉine 茶经, ukraine Чайний канон ) de Lu Yu (陸羽). Ni prezentis ilin dum la plej grava libro-festivalo en Ukrainio — Book Arsenal 2019 (ukraine Книжковий Арсенал 2019 ). Ĝi markis sukcesan komencon en la ukraina libro-socio, kun pli ol du cent ĉeestantoj en niaj eventoj dediĉitaj al varbado por niaj tradukoj. Ni ankaŭ eldonis infanajn seriojn pri temoj, kiel la legendoj de Ĉinio, la 24 sunaj periodoj de la ĉina sunkalendaro [eo], ĉina teatro. Sed nun ni decidis eldoni nur klasikajn verkojn de ĉina literaturo, ekzemple Xiao Hong (蕭紅), grava ĉina verkistino kiu vivis kaj verkis dum la periodo de la Respubliko de Ĉinio (1912–1929 en kontinenta Ĉinio). Krom tajvanaj verkoj, ni planas eldoni japanajn bildrakontojn same kiel niajn tajvanajn bildrakontajn seriojn. Ni ankaŭ planas eldoni pli da koreaj fikcioj. Ĉi tio fakte taŭgas laŭ la intereso de nia ukraina legantaro. La ĉefaj defioj por tradukistoj estas ke ili meritas bonan pagon pro siaj tradukoj el aziaj lingvoj ĉar ili havas raran lingvan kapablon. Sed ni neniel povas, kiel eldonejo, provizi altan pagon ĉar la ukraina libro-merkato estas ankoraŭ malforta. Krome, azia literaturo estas ankoraŭ taksita kiel rara literaturo, do la preskvantoj estas sufiĉe malmultaj. Certe ni klopodas trovi financajn helpojn plejeble, sed tre ofte ni eldonas niajn librojn (precipe klasikajn verkojn) sole dependante de nia eldoneja financo. Nia eldono de ĉinaj klasikaj poemoj de la elstara ukraina ĉinologo Yaroslava Shekera estas vendataj jam kvin jarojn.
+
+SP: Temas pri ĉinia literaturo, ni fakte jam komencis en 2018. Ni eldonis la unuan ukrainan tradukon de klasikaj verkoj, ekzemple la filozofio de Zhuangzi (ĉine 莊子, ukraine Джвандзи ), kaj la ‘ Klasiko de Teo ’ (ĉine 茶经, ukraine Чайний канон ) de Lu Yu (陸羽). Ni prezentis ilin dum la plej grava libro-festivalo en Ukrainio — Book Arsenal 2019 (ukraine Книжковий Арсенал 2019 ). Ĝi markis sukcesan komencon en la ukraina libro-socio, kun pli ol du cent ĉeestantoj en niaj eventoj dediĉitaj al varbado por niaj tradukoj.
+
+Ni ankaŭ eldonis infanajn seriojn pri temoj, kiel la legendoj de Ĉinio, la 24 sunaj periodoj de la ĉina sunkalendaro [eo], ĉina teatro. Sed nun ni decidis eldoni nur klasikajn verkojn de ĉina literaturo, ekzemple Xiao Hong (蕭紅), grava ĉina verkistino kiu vivis kaj verkis dum la periodo de la Respubliko de Ĉinio (1912–1929 en kontinenta Ĉinio). Krom tajvanaj verkoj, ni planas eldoni japanajn bildrakontojn same kiel niajn tajvanajn bildrakontajn seriojn. Ni ankaŭ planas eldoni pli da koreaj fikcioj. Ĉi tio fakte taŭgas laŭ la intereso de nia ukraina legantaro.
+
+La ĉefaj defioj por tradukistoj estas ke ili meritas bonan pagon pro siaj tradukoj el aziaj lingvoj ĉar ili havas raran lingvan kapablon. Sed ni neniel povas, kiel eldonejo, provizi altan pagon ĉar la ukraina libro-merkato estas ankoraŭ malforta. Krome, azia literaturo estas ankoraŭ taksita kiel rara literaturo, do la preskvantoj estas sufiĉe malmultaj. Certe ni klopodas trovi financajn helpojn plejeble, sed tre ofte ni eldonas niajn librojn (precipe klasikajn verkojn) sole dependante de nia eldoneja financo. Nia eldono de ĉinaj klasikaj poemoj de la elstara ukraina ĉinologo Yaroslava Shekera estas vendataj jam kvin jarojn.
+
+FN: Vi nuntempe loĝas en Tajnano. Kio estis via plej granda surprizo ĝis nun en Tajvano? Kion vi ŝatus, ke ukrainoj plej bone komprenu pri Tajvano?
+
+SP: Ekde la antaŭa Januaro, mi loĝas en Tajnano [eo], aminda urbo en la suda parto de Tajvano. Mi ŝatas ĝin ĉar ĝi estas la plej malnova urbo en Tajvano kun riĉa 400-jara historio, kun multe da belaj arkitekturoj, kaŝitaj temploj, bona vetero, kaj proksima maro. Kiam mi unue alvenis en ĉi tiu urbo, mi estis tute mirigita, kaj mi volas ke ukrainoj komprenu ke Tajvano estas sendependa ŝtato kun komplika historio, kun malsamaj influoj de siaj ekskoloniistoj, kiuj ĉiuj kreis unikan kulturon, kaj ke Ukrainio kaj Tajvano havas sufiĉe multe komune.
+
+SP: Ekde la antaŭa Januaro, mi loĝas en Tajnano [eo], aminda urbo en la suda parto de Tajvano. Mi ŝatas ĝin ĉar ĝi estas la plej malnova urbo en Tajvano kun riĉa 400-jara historio, kun multe da belaj arkitekturoj, kaŝitaj temploj, bona vetero, kaj proksima maro. Kiam mi unue alvenis en ĉi tiu urbo, mi estis tute mirigita, kaj mi volas ke ukrainoj komprenu ke Tajvano estas sendependa ŝtato kun komplika historio, kun malsamaj influoj de siaj ekskoloniistoj, kiuj ĉiuj kreis unikan kulturon, kaj ke Ukrainio kaj Tajvano havas sufiĉe multe komune.
+
+Por pli da informoj pri la evoluanta rilato inter Tajvano kaj Ukrainio, legu la artikolon Understand the link between Ukraine and Taiwan .
+
+
+---
+
+# Kiel du ŝokantaj novaĵoj el Gazao apenaŭ faris tutmondajn fraptitolojn
+
+**Published:** 2025-08-16
+
+**URL:** https://eo.globalvoices.org/2025/08/15425/
+
+**Author:** Adam D. Prakasa
+
+**Categories:** Angla, Civitanaj komunikiloj, Homaj rajtoj, Homama agado, Israelo, Mezoriento kaj Nordafriko, Milito kaj konflikto, Palestino, The Bridge, Ĉefaĵo
+
+Ekrankopio el video alŝutita al YouTube de Al Jazeera English .kun la titolo “(israela armeo pafas sur multajn homojn dum la mortigado ĉe helpcentroj en Gazao multiĝas”, Justa uzo.
+
+Du novaĵoj raportitaj antaŭnelonge montris kelkajn el la plej teruraj militkrimoj de nia epoko — sed ili apenaŭ troviĝis en la monda gazetaro. En mondo kie la normaligo de sufero kaj senpuneco en Gazao iom post iom fariĝas normala, eĉ informoj kiuj devus estigi ĝeneraligitan koleron kaj respondecon pri ĉi tiuj agoj tamen plejparte estis responditaj per indiferenteco.
+
+Ni estis ‘ordonitaj’ pafi al malsataj helpopetantoj
+
+La 24-an de Junio, la israela gazeto Haaretz publikigis raporton kun detalaj atestoj de israelaj soldatoj, kiuj konfesis ke ili ricevis ordonon por ekpafi palestinanojn, kiuj malespere provis iri al helpo-kamionoj en Gazao, kion ili priksribis kiel “batalkampon”.
+
+Laŭ la esploro , soldatoj el multaj brigadoj diris ke ili estis ordonitaj pafi iun ajn, kiu proksimiĝas al la helpo-karavano sen ajna pruvo ke ili montras konkretan minacon.
+
+Unu rezervisto servante en Gazao priskribis ĝin kiel senleĝan nenieslandon, konfirmante la avertojn de homrajtaj grupoj: “Gazao ne plu interesas iun ajn kaj la perdo de homa vivo ne plu signifas ion.”
+
+Alia oficisto konfirmis: “Estis senutila, ili estis mortigitaj senkiale. Intertempe mortigi senkulpulojn jam estas normaligita.”
+
+Alia soldato klarigis : “Jen la areoj kie palestinanoj rajtas resti, ni estas tiuj, kiuj alproksimiĝas kaj decidas ke (ili) estas danĝeraj por ni.”
+
+“Por ĉiu domo malkonstruenda ĉefkonstruisto povas gajni 5000 siklojn sed ja estas permesebla mortigi homojn, kiuj nur serĉis manĝaĵon,” aldone li diris.
+
+Ĉi tiuj hororaj konfesoj venas meze de ripete okazantaj atakoj al grupo da homoj kunvenantaj ĉirkaŭ la malabunda homhelpo. Ĉi-jarkomence Israelo altrudis novan militarigitan sistemon de helpo-disdono, konata kiel Gaza Humanitarian Foundation (Gazaa Homhelpa Fondumo).  H elpo-karavanoj ĉi tie eniras kun la israela armeo kaj ofte estas forlasitaj en hazardaj lokoj. Tiu ĉi fenomeno, konata kiel “ amasmurdo de helpo-serĉantoj ” fariĝis malĝoja ĉiutaga okazaĵo.
+
+Pli ol 743 palestinanoj estis mortigitaj de Israelo kaj 4 891 estis vunditaj en ĉi tiuj amasmurdoj ekde la komenco de Junio, kaj pli ol 170 ne-registaraj organizaĵoj alvokas por haltigi la mortigeman praktikon.
+
+Dependigemaj dolorpiloloj troviĝas en faruno disdonitaj al malsataj gazaanoj. Ni estis ‘ordonitaj’ pafi al malsataj helpo-serĉantoj
+
+La dua novaĵo estas same terura. La 27-an de Junio, la Gaza Government Media Office Komunika Oficejo de la Registaro de Gazao anoncis ke post laboratoriaj testoj montriĝis ke en sakoj da faruno senditaj per internaciaj helpekspedoj tra la GHF troviĝis spuroj da oksikodono , forta kaj dependigema opioido.
+
+Lokaj sanaŭtoritatoj avertas ke la trovo de tiaj substancoj en baza ĉefa manĝaĵo povas kaŭzi detruajn efikojn al publika sano de la loĝantaro kiu jam estis malfortigita de misnutrado kaj traŭmo. Oficistoj plie diris ke oni baldaŭ plu testos por kontroli ĉu la enmiksiĝo estis senintenca aŭ intenca. Atendante la sendependan certigadon, eĉ nura akuzo substrekas la etoson de profunda malkredeco kaj timo rilate al helpo-asistado.
+
+Ankoraŭ neniu granda gazeta kompanio esploris ĉi tiujn asertojn, kaj homhelpaj agentejoj ankoraŭ ne publikigis konkludan eldiron. Sed, la incidento plie multigas la suferojn kaŭzitajn al la ĉirkaŭbarita loĝantaro, kiu jam malfacile klopodas vivi sub aeraj, landaj, kaj maraj blokadoj.
+
+Artefarita malsatego
+
+La 24-an de Junio, la Homrajta Ofico de la Unuiĝintaj Nacioj kondamnis “la armiligon de manĝaĵo en Gazao” kiel militkrimon kaj alvokas por ke la mortigado “estu esplorita rapide kaj neŭtrale,” kaj devigu al la kulpuloj esti “respondecaj”.
+
+Gazao jam suferas blokadon de Israelo — per egiptia kunlaboro — ekde 2007, kiu strikte regas komercaĵojn, manĝaĵojn, bruligaĵojn, kaj medikamentojn de ĝiaj 2,3 milionojn da loĝantoj. La nuntempa genocida milito ekde Oktobro 2023 transformis ĉi tiun jam mizeran kondiĉon al katastrofo.
+
+Agentejoj de UN kaj homrajtaj grupoj jam plurfoje avertis ke Gazao preskaŭ — aŭ jam — suferas malsategon .
+
+La Integrita Klasifikado de la Nutraĵsekureca Fazo (angle Integrated Food Security Phase Classification aŭ IPC) avertis ke “la tutan loĝantaron supozeble suferos krizon aŭ pli malbone, akutan nutran malsekurecon. Ĉi tio inkluzivas 470 000 homojn (22 procentoj de la loĝantaro) en katastrofo , pli ol milionon da homoj (54 procentoj) en grava danĝero , dum la restanta duonmiliono da homoj (24 procentoj) troviĝas en krizo .”
+
+Eĉ je la komenco de Julio, almenaŭ 66 infanoj jam mortis pro malsatego laŭ Amnestio Internacia, kiu ĝin priskribas kiel “intencan kreadon de malsatego per kiu genocido iĝas praktiko”, sed la veran nombron bedaŭrinde oni supozas ege pli multa, konsiderante la detruiĝon de la sanservoj kaj la mankon de ampleksa monitorado.
+
+Silento, senpuneco, kaj la erozio de kolero
+
+Devus esti ĉefpaĝaj novaĵoj en gazetoj tutmonde ke israelaj soldatoj konfesis ricevi ordonon por pafi malsatajn homojn serĉantajn manĝaĵojn, aŭ ke faruno donita al malesperaj familioj eble enhavas dependigemajn narkotikojn. Tamen mondaj gazetaj raportoj estas malpasiaj pri ĉi tiuj klaraj ekzemploj de krimoj kontraŭ la homaro, kaj estas malmulte da — se iuj ekzistas — gravaj internaciaj paŝoj por enketado aŭ devigo al respondeco.
+
+Ĉi tiu silenta internacia reago estas pruvo ke la sufero de palestinanoj en Gazao jam akceptiĝis la ideo ke la faktoj plenumas sian oficon. Dum la blokado plifortiĝas, la bomboj daŭre falas. Laŭ lastatempaj raportoj, israelaj pilotoj, kiuj atakis Iranon revenante al siaj bazoj, bombis Gazaon per la bomboj, kiujn ili postlasis. Dum la malsatego disvastiĝas, ŝajnas kvazaŭ la mondo sentas sin ĉiam malpli morale respondeca.
+
+
+---
+
+# Kiel la serio ‘La Eternaŭto’ revivigis la serĉadon de malaperigitoj en Argentino
+
+**Published:** 2025-08-19
+
+**URL:** https://eo.globalvoices.org/2025/08/15546/
+
+**Author:** Toño DEL BARRIO
+
+**Categories:** Argentino, Arto kaj kulturo, Civitanaj komunikiloj, Historio, Latinameriko, Politiko
+
+Afiŝo de la serio ”La eternaŭto” kun intervenoj por la malaperigitoj de la familio Oesterheld. Foto: Kaloian/ prenita el El Destape/Uzata kun permeso
+
+Eternaŭto ( Eternauta ) estas termino kies signifo devenas de “etero” , kiu rilatas al tio eterna, tio, kio transcendas la morton, kaj “naŭto” , kiu rilatas al vojaĝanto aŭ navigisto, tio estas, “eterna vojaĝanto”. En la argentina bildstrio “ El Eternauta “, kreita de la verkisto Héctor Germán Oesterheld [eo] en 1957, la rolulo nomiĝas Juan Salvo. Rolulo, kiu, male al la tradicia superheroo, spertas nekompreneblan tragedion.
+
+[Ndltr: Oesterheld estis krome esperantisto; vidu artikolon pri tio en Libera Folio ]
+
+Preskaŭ sepdek jarojn post sia publikigo, la rakonto estis ĵus transformita en serion de Netflix, kun Ricardo Darín , unu el la plej rekoneblaj nomoj en la argentina kinarto, kiel ĉefrolulo. La adapto enkondukis novajn temojn, kvankam respektante la strukturon de la originala intrigo, kaj la maskoj portataj de la roluloj por supervivo aperis en lastatempaj protestoj [es] kontraŭ la registaro de Javier Milei .
+
+Ekster la intrigo, la persona rakonto de Oesterheld kaj lia familio ankaŭ akiris atenton. La aŭtoro, liaj kvar filinoj, du bofiloj kaj du ne naskiĝintaj nepoj estis malaperigitaj [es] fare de la civilmilita diktaturo (1976–1983) .
+
+La serio estis ŝoko, kiu revivigis serĉojn [es] pri identeco, ĉar centoj da beboj kaj infanoj estis forkaptitaj disde siaj familioj. La viktimoj suferis ĉiuspecajn sortojn; kelkaj estis adoptitaj de militistoj aŭ civiluloj kaj kreskis sen koni sian veran originon.
+
+Avinoj de Placo de Majo , neprofitcela civila asocio fondita en 1977, serĉas ĉi tiujn bebojn kaj infanojn alproprigitajn de la diktaturo. La organizaĵo ricevas konsultojn pri identeco kaj denuncojn pri eblaj alproprigoj, sed ankaŭ estas kontaktoj kun homoj kun duboj pri sia propra historio. Post la premiero de la serio, ĝis majo 2025, la nombro da homoj serĉantaj koni sian identecon sesobliĝis [pt], kaj la nombro da homoj kiuj provizas informojn pri eblaj serĉataj nepoj triobliĝis.
+
+Post la sukceso de la serio, organizaĵoj de familianoj intervenis sur afiŝoj de la serio per fotoj de Oesterheld kaj liaj kvar filinoj, ĉiuj ankoraŭ malaperintaj. H.I.J.O.S., organizaĵo de gefiloj de viktimoj [Ndltr: la akronimo signifas (ge)filojn en la hispana] , kundividis la anoncon en sociaj retoj:
+
+¿Estás mirando El Eternauta? Si es así y naciste en noviembre de 1976 o entre noviembre de 1977 y enero de 1978 y tenés dudas sobre tu identidad o la de alguien que nació en esas fechas, contactate con @abuelasdifusion Foto Kaloian Santos pic.twitter.com/EkEvPFgS8P — H.I.J.O.S. Capital (@hijos_capital) May 3, 2025
+
+¿Estás mirando El Eternauta?
+
+Si es así y naciste en noviembre de 1976 o entre noviembre de 1977 y enero de 1978 y tenés dudas sobre tu identidad o la de alguien que nació en esas fechas, contactate con @abuelasdifusion
+
+Foto Kaloian Santos pic.twitter.com/EkEvPFgS8P
+
+— H.I.J.O.S. Capital (@hijos_capital) May 3, 2025
+
+Ĉu vi spektas El Eternauta ? Se tiel, kaj vi naskiĝis en novembro 1976 aŭ inter novembro 1977 kaj januaro 1978, kaj vi havas dubojn pri via identeco, aŭ tiu de iu naskiĝinta en tiuj datoj, kontaktu @abuelasdifusion Foto Kaloian Santos pic.twitter.com/EkEvPFgS8P — H.I.J.O.S. Capital (@hijos_capital) la 3-a de majo 2025
+
+Ĉu vi spektas El Eternauta ?
+
+Se tiel, kaj vi naskiĝis en novembro 1976 aŭ inter novembro 1977 kaj januaro 1978, kaj vi havas dubojn pri via identeco, aŭ tiu de iu naskiĝinta en tiuj datoj, kontaktu @abuelasdifusion
+
+Foto Kaloian Santos pic.twitter.com/EkEvPFgS8P
+
+— H.I.J.O.S. Capital (@hijos_capital) la 3-a de majo 2025
+
+Kie troviĝas Oesterheld?
+
+“ Kie troviĝas Oesterheld? ”. La demando viruse disvastiĝis kaj fariĝis batalkrio ekde la ekelsendo de la serio. La loko kie troviĝas Oesterheld, liaj filinoj, bofiloj kaj nepoj restas nekonata preskaŭ 42 jarojn post la fino de la diktaturo en Argentino, t.e. la sama sorto kiel miloj da aliaj en la lando.
+
+Laŭ homrajtaj organizaĵoj, ekzistas 30 000 malaperintoj [es]. La Registro de Viktimoj de la Parque de la Memoria (Memorparko) registras nur 8 948 viktimojn .
+
+Kiel en aliaj landoj de la Suda Konuso, kiuj spertis diktaturojn inter la 1960-aj kaj 1980-aj jaroj, ŝtata subpremo dum la lasta militista diktaturo en Argentino ankaŭ karakteriziĝis per la kontraŭvola malaperigo de homoj kiel sistema ekstermoplano kontraŭ politikaj, sindikataj kaj studentaj aktivuloj, el kiuj kelkaj estis membroj de armitaj organizaĵoj. Inter la metodoj uzitaj de ŝtata terorismo en ĉi tiuj malaperigoj estis, ekzemple, la t.n. mortoflugoj , kiuj kuntrenis la ĵetadon de homoj en la Riveron de la Plata el aviadiloj.
+
+Kvankam la lando spertis la procesadon de la militaj juntoj, juran procezon kiu kondamnis kelkajn el la subpremantoj en 1985, la plej multaj el la malaperigitoj neniam estis retrovitaj, kiel estas la kazo kun la familio Oesterheld [es].
+
+La Oesterheld-familio
+
+La familio Oesterheld, Héctor, Elisa kaj iliaj filinoj. Foto: Retejo de Avinoj de Placo de Majo /Uzata kun permeso.
+
+Héctor Germán Oesterheld naskiĝis en 1919 en Bonaero kaj estis kidnapita en 1977, unu jaron post la komenco de la lasta milita diktaturo. Li estis scenaristo, verkisto kaj ĵurnalisto, kaj fariĝis gvida figuro kaj pioniro de la moderna bildstria arto. Li ankaŭ estis politika aktivulo kaj aliĝis al la armita organizaĵo Montoneros [es]. Priskribita de sia edzino, Elsa Sánchez, kiel “maldekstra liberpensulo kun superba inteligenteco”, lia akra socia kaj politika rigardo pri la argentina realeco kaj ĉiuj ĉi aspektoj de lia vivo speguliĝas en la originala bildstrio.
+
+Oesterheld intensigis sian engaĝiĝon en la politika lukto dum la 1970-aj jaroj. Tiutempe, li verkis novan version de La Eternaŭto, kiun li finis verki en kaŝeco. Ĉi tiu aktivismo kostis al li la vivon. Atestoj de pluvivintoj konfirmis, ke malgraŭ la tragedio kaj fizika damaĝo, li ĉiam konservis la dignon kaj klarecon kiu reflektiĝas en lia verko.
+
+Kiel li, ankaŭ liaj kvar filinoj, ĉiuj membroj de Montoneros, estis forkaptitaj. Du el ili, Diana kaj Marina, estis gravedaj. La bebo de Diana devintus naskiĝi [es] en novembro 1976, dum tiu de Marina [es] naskiĝus inter decembro 1977 aŭ januaro 1978.
+
+La familio de Fernando Araldi Oesterheld malaperis dum la diktaturo. Foto: Uzata kun permeso.
+
+Fernando Araldi Oesterheld, la unua filo de Diana, estis unu-jaraĝa kiam liaj gepatroj estis forportitaj. Lia patro, Raúl, estis identigita en 2010 [es] de la Argentina Skipo pri Krimmedicina Antropologio en la Norda Tombejo de Tukumano (Tucumán). Lia patrino kaj fratiĉo aŭ fratino ankoraŭ restas malaperintaj. Kiam lia familio estis forkaptita, Fernando estis lasita en vartejo, de kie lin savis liaj patraj geavoj.
+
+Neniu saviĝas sola: Patrinoj, Avinoj, H.I.J.O.S.
+
+Elsa Sánchez de Oesterheld [es], la vidvino de la verkisto, serĉis siajn filinojn kaj nepojn ĝis sia morto en 2015 kaj estis membro de la Avinoj de Placo de Majo . Ŝi aliĝis al la grupo post kiam aliaj avinoj alproksimiĝis kaj kuniĝis al ŝia serĉado.
+
+En la retejo de la Avinoj [es] estas citaĵo ŝia: “Mia batalo estas por ke miaj nepoj sciu la veron; tial mi ne parolas pri restituo sed pri la rajto al identeco.”
+
+La Avinoj ne estis la sola organizaĵo fondita post la argentina tragedio kaj la lukto de familioj de viktimoj de ŝtata terorismo. Ankaŭ en 1977, patrinoj serĉantaj siajn infanojn renkontiĝis en la sama Placo de Majo , situanta antaŭ la Casa Rosada ( Rozkolora Domo ), la sidejo de la argentina prezidento. Ili interŝanĝis informojn kaj fondis la organizaĵon Patrinoj de Placo de Majo . Ilia simbolo estis blanka kaptuko, origine beba vindotuko.
+
+Jarojn poste, en 1995, ankaŭ aperis organizaĵo de la tria generacio de familianoj: H.I.J.O.S., grupo de gefiloj por la identeco kaj la justeco kontraŭ forgeso kaj silento.
+
+La Avinoj jam sukcesis retrovi 140 genepojn [es] ekde la komenco de sia serĉado. La lasta anonco pri retrovita nepo estis farita la 7-an de julio 2025, la unua tia kazo post la apero de la serio.
+
+El #Nieto140 es el primer anuncio de @abuelasdifusion desde que salió la serie El Eternauta La búsqueda sigue por todos los hermanos y hermanas que falta encontrar Si naciste entre 1975 y 1983 y dudás de tu identidad, acercate. Si tenés información, aportala Foto @kalofotograma pic.twitter.com/7QaFmcRJgw — H.I.J.O.S. Capital (@hijos_capital) July 8, 2025
+
+El #Nieto140 es el primer anuncio de @abuelasdifusion desde que salió la serie El Eternauta
+
+La búsqueda sigue por todos los hermanos y hermanas que falta encontrar Si naciste entre 1975 y 1983 y dudás de tu identidad, acercate. Si tenés información, aportala
+
+Foto @kalofotograma pic.twitter.com/7QaFmcRJgw
+
+— H.I.J.O.S. Capital (@hijos_capital) July 8, 2025
+
+La #Nieto140 [Nepo 140] estas la unua anonco de @abuelasdifusion ekde la apero de la serio El Eternauta . La serĉado daŭras por ĉiuj fratiĉoj kaj fratinoj, kiuj restas netrovataj. Se vi naskiĝis inter 1975 kaj 1983 kaj ne certas pri via identeco, bonvolu kontakti nin. Se vi havas informojn, bonvolu kundividi ilin. Foto @kalofotograma pic.twitter.com/7QaFmcRJgw — H.I.J.O.S. Capital (@hijos_capital) la 8-an de julio 2025
+
+La #Nieto140 [Nepo 140] estas la unua anonco de @abuelasdifusion ekde la apero de la serio El Eternauta .
+
+La serĉado daŭras por ĉiuj fratiĉoj kaj fratinoj, kiuj restas netrovataj. Se vi naskiĝis inter 1975 kaj 1983 kaj ne certas pri via identeco, bonvolu kontakti nin. Se vi havas informojn, bonvolu kundividi ilin.
+
+Foto @kalofotograma pic.twitter.com/7QaFmcRJgw
+
+— H.I.J.O.S. Capital (@hijos_capital) la 8-an de julio 2025
+
+La organizaĵo daŭrigas sian laboron, serĉante homojn naskitajn inter 1975 kaj 1983, kiuj havas demandojn pri sia identeco kaj deveno. La du infanoj de Oesterheld estas inter la preskaŭ 300 [es], kiuj ankoraŭ ne estis redonitaj.
+
+La laboro de la Argentina Nacia Banko de Genetikaj Datumoj [es], esenca por la ekzamenoj kiuj restarigas identecojn, estas minacata de la buĝetaj eltranĉoj al la scienca esplorado sub la nuna registaro. La Avinoj kaj aliaj organizaĵoj postulas [es] la daŭrigon de publikaj politikoj por memoro kontraŭ ŝtata terorismo.
+
+Dek kvin tagojn post la premiero de la serio “ La Eternaŭto ”, Manuel Gonçalves Granada [es], membro de la gvidkomisiono de la Avinoj kaj nepo retrovita en 1995 (kazo n-ro 57 [es]), diris al Infobae [es], ke “donas al ili esperon kaj ĝojon vidi, ke, pro la serio, reaktiviĝas la mekanismoj kreitaj de la Avinoj.”
+
+“La multiĝado de demandoj levas la grandegan esperon trovi la sekvan nepon aŭ nepinon, kio estas tio, por kio ni laboras kaj por kio la Avinoj batalas ĉiutage,” li deklaris.
+
+
+---
+
+# En Afriko, genra egaleco en la cifereca epoko estas esenca kondiĉo por justa kaj daŭripova disvolviĝo
+
+**Published:** 2025-09-01
+
+**URL:** https://eo.globalvoices.org/2025/09/15595/
+
+**Author:** Arturo Serrano
+
+**Categories:** Civitanaj komunikiloj, Disvolvado, Edukado, GV Advocacy, Interreta aktivismo, Juro, Komunikiloj kaj ĵurnalismo, Subsahara Afriko, Togolando, Virinoj kaj genro, Ĉefaĵo
+
+Virinoj en la Afrika Sciocentro pri Energio kaj Daŭripova Disvolviĝo (en la Altlernejo de Sciencoj kaj Teknologioj de la Universitato de Ruando). Bildo el Flickr CC BY-NC-ND 2.0
+
+En Afriko, kiel aliloke, socioj alfrontas rapidegan ciferecan transformiĝon, kiu ne estas senriske: la vundeblo de civitanoj vidalvide de kiberatakoj [fr] estas vera minaco kiu ofte pli trafas virinojn [fr] ol virojn.
+
+Por lerni pri eblaj solvoj por trakti ĉi tiun minacon, Global Voices [ndltr. Tutmondaj Voĉoj] retpoŝte intervjuis Winnie Aicha Tchedre [fr], juristinon togolandan, fakulinon pri cifereca juro kaj instruistino por la trejnado kaj konsciigado pri la kiberhigieno [fr] kaj la teknologia edukado.
+
+Jean Sovon (JS): Kiel edukado pri ciferecaj rajtoj povas kontribui al la disvolviĝo kaj la cifereca inkluzivo en Afriko ?
+
+Winnie Aicha Tchedre (WAT): La cifereca edukado estas potenca levilo por la disvolviĝo kaj la teknologia inkluzivo en Afriko, sed kondiĉe ke ĝi estu konceptata por kaj kun virinoj kaj marĝenularoj. Efektive, genro estas grava aspekto en nia engaĝiĝo, ĉar la cifereca breĉo de la afrikaj landoj, inkluzive de Togolando, havas genran vizaĝon. Virinoj estas plej trafataj de [fr] “ ilektronismo ” [ ndlr. de la franca “illectronisme” (franca neologismo por ‘illetrisme digital’), kiu estas cifereca formo de funkcia analfabeteco) , nome la manko de kapabloj kaj scioj pri la uzo de ciferecaj rimedoj. Ĉi tio rilatas al specifaj soci-ekonomikaj kaj kultur-edukaj baroj, kiuj limigas ilian aliron al teknologioj. Sen inkluziva cifereca edukado kiu vere konsideras genron, ni pligravigos la malegalecojn kiuj jam ekzistas. Tial ni spronas la fortan ĉeeston de knabinoj ene de nia instruado: sukcesa cifereca edukado permesas al virinoj ekonomie aŭtonomiĝi [eo] por aliri informon, retan merkaton, retan administrado, telelaboron [eo], telemedicinon [eo] kiu gajnas popularecon.
+
+Winnie Aicha Tchedre (WAT): La cifereca edukado estas potenca levilo por la disvolviĝo kaj la teknologia inkluzivo en Afriko, sed kondiĉe ke ĝi estu konceptata por kaj kun virinoj kaj marĝenularoj.
+
+Efektive, genro estas grava aspekto en nia engaĝiĝo, ĉar la cifereca breĉo de la afrikaj landoj, inkluzive de Togolando, havas genran vizaĝon. Virinoj estas plej trafataj de [fr] “ ilektronismo ” [ ndlr. de la franca “illectronisme” (franca neologismo por ‘illetrisme digital’), kiu estas cifereca formo de funkcia analfabeteco) , nome la manko de kapabloj kaj scioj pri la uzo de ciferecaj rimedoj. Ĉi tio rilatas al specifaj soci-ekonomikaj kaj kultur-edukaj baroj, kiuj limigas ilian aliron al teknologioj.
+
+Sen inkluziva cifereca edukado kiu vere konsideras genron, ni pligravigos la malegalecojn kiuj jam ekzistas. Tial ni spronas la fortan ĉeeston de knabinoj ene de nia instruado: sukcesa cifereca edukado permesas al virinoj ekonomie aŭtonomiĝi [eo] por aliri informon, retan merkaton, retan administrado, telelaboron [eo], telemedicinon [eo] kiu gajnas popularecon.
+
+Foto de Winnie Aicha Tchedre, uzata kun permeso..
+
+JS: Kiel integriĝi genran dimension en la projektoj rilataj al ciferecaj rajtoj ?
+
+Seksa inkluzivo postulas bone strukturitan aliron kiu implikas genrobazitajn analizojn. Jam dum la ekkonceptado de projekto necesas analizi la verajn bezonojn, la barojn, la efikojn kiuj influas virinojn kaj virojn. Ekzemplo de tia projekto estas la Okcident-Afrika Regiona Komunikada Infrastruktura Programo (WARCIP), kiu integras aspektojn por la aliro de virinoj al bezonata trejnado. Oni devas ankaŭ komenci el inkluziva perspektivo, ĉar estas esence, ke virinoj partoprenu ekde la koncepta fazo de la ilaro, platformoj kaj trejnadprogramoj. Oni devas pensi kiel krei interfacojn kiuj permesas al virinoj facilan aliron al didaktikan enhavon en lokaj lingvoj, kaj ankaŭ konsideri la scio-nivelojn de virinoj. En niaj landoj, la plej multaj virinoj malofte sukcesas iri al lernejo. Eĉ se ili parolas la francan lingvon, ili ne kapablas facile legi en tiu lingvo, do estas ankoraŭ pli malfacile kiam temas pri ciferecaj interfacoj. Ni do devas inkluzivi virinojn dekomence, por ke ili ekkonu kio estas farata por ili kaj finfine ke ili majtru ĝin. Komunikkanaloj kaj templinioj devas esti adaptataj.  Virinaj asocioj povas servi kiel informcentroj por klarigi retan ĉikanadon, seksismon kaj la riskojn, kiuj ekzistas en la cifereca ekosistemo. Plie oni devas konsciigi programistojn eviti genrajn antaŭjuĝojn.
+
+Seksa inkluzivo postulas bone strukturitan aliron kiu implikas genrobazitajn analizojn. Jam dum la ekkonceptado de projekto necesas analizi la verajn bezonojn, la barojn, la efikojn kiuj influas virinojn kaj virojn. Ekzemplo de tia projekto estas la Okcident-Afrika Regiona Komunikada Infrastruktura Programo (WARCIP), kiu integras aspektojn por la aliro de virinoj al bezonata trejnado.
+
+Oni devas ankaŭ komenci el inkluziva perspektivo, ĉar estas esence, ke virinoj partoprenu ekde la koncepta fazo de la ilaro, platformoj kaj trejnadprogramoj. Oni devas pensi kiel krei interfacojn kiuj permesas al virinoj facilan aliron al didaktikan enhavon en lokaj lingvoj, kaj ankaŭ konsideri la scio-nivelojn de virinoj.
+
+En niaj landoj, la plej multaj virinoj malofte sukcesas iri al lernejo. Eĉ se ili parolas la francan lingvon, ili ne kapablas facile legi en tiu lingvo, do estas ankoraŭ pli malfacile kiam temas pri ciferecaj interfacoj. Ni do devas inkluzivi virinojn dekomence, por ke ili ekkonu kio estas farata por ili kaj finfine ke ili majtru ĝin. Komunikkanaloj kaj templinioj devas esti adaptataj.  Virinaj asocioj povas servi kiel informcentroj por klarigi retan ĉikanadon, seksismon kaj la riskojn, kiuj ekzistas en la cifereca ekosistemo. Plie oni devas konsciigi programistojn eviti genrajn antaŭjuĝojn.
+
+JS: Kiuj estas la ĉefaj baroj kiujn virinoj alfrontas kiam ili aliras ciferecajn teknologiojn?
+
+WAT: Virinoj alfrontas la plej multajn barojn rilate al aliro al ciferecaj teknologioj. En la togolanda kunteksto, socikulturaj baroj daŭre kondukas al la ekskludo de virinoj.  Asertoj kiel “virinoj ne estis faritaj por cifereca mondo” kondukas al situacioj kie la telefono de virino estas sub la kontrolo de ŝia edzo.  Ankaŭ estas malscio pri la uzo de la ciferecaj rimedoj ekster sociaj retejoj. Kaj ni ne forgesu la koston de reta konekto, kiu ne ĉiam estas pagebla por la plejparto de virinoj, speciale por tiuj kiuj loĝas en malproksimaj regionoj. Pri sekureco, la timo de retaj agresoj estas ankaŭ rimarkinda. En sociaj retejoj kaj ciferecaj platformoj kreskas agresoj, ĉikanadoj, insultoj, fraŭdoj pro kiuj ili povas facile viktimiĝi.
+
+WAT: Virinoj alfrontas la plej multajn barojn rilate al aliro al ciferecaj teknologioj. En la togolanda kunteksto, socikulturaj baroj daŭre kondukas al la ekskludo de virinoj.  Asertoj kiel “virinoj ne estis faritaj por cifereca mondo” kondukas al situacioj kie la telefono de virino estas sub la kontrolo de ŝia edzo.  Ankaŭ estas malscio pri la uzo de la ciferecaj rimedoj ekster sociaj retejoj. Kaj ni ne forgesu la koston de reta konekto, kiu ne ĉiam estas pagebla por la plejparto de virinoj, speciale por tiuj kiuj loĝas en malproksimaj regionoj.
+
+Pri sekureco, la timo de retaj agresoj estas ankaŭ rimarkinda. En sociaj retejoj kaj ciferecaj platformoj kreskas agresoj, ĉikanadoj, insultoj, fraŭdoj pro kiuj ili povas facile viktimiĝi.
+
+JS: Kiel vi taksas la efikon de genraj stereotipoj en ciferecaj enhavoj ? Ĉu ekzistas mekanismoj por raporti kaj trakti genrobazitan diskriminaciojn kaj interretajn agresojn?
+
+WAT: Oni devas ĉi tie rimarki ke kliŝaĵoj plifortigas malegalecojn. La portretado de virinoj kiel objektoj, limigataj en hejma rolo, dum la viroj estas familiestroj, plifortigas antaŭjuĝemojn. Plie, fakulinoj ofte malvideblas: en Togolando [eo], rolmodelinoj tre malmultas, plifortigante algoritmajn antaŭjuĝajn mekanismojn kiuj marĝenigas ilin, ĉar datumoj reproduktiĝas malfavore al virinoj en enketaj rezultoj: de serĉrezultaj ĝis laborŝancoj aŭ por merkatumaj celoj. La enhavoj kiuj oni vidas en sociaj retejoj estas plejparte seksismaj kaj profundigas la virinan timon profiti plene de cifereca teknologio. En Facebook, Twitter, Instagram, oni nun vidas rimarkojn tiel seksismajn ke ni pensas: “Fi, kie ni nun estas?” Ĉiu sin permesas diri ion ajn al iu ajn sen ajna riproĉo, speciale en Afriko. Ĉio ĉi havas realan efikon sur la aliro de vrinoj al cifereca enhavo. En Togolando ekzistas speciala altranga polica unuo kaj centroj por protektado de personaj datumoj kiujn oni povas kontakti en kazo de kontraŭleĝa kolektado de personaj datumoj. Plie en grandaj ciferecaj platformoj kiel Facebook, Instagram, TikTok, estas butonoj por raporti seksismajn kaj mizoginajn enhavojn, malamon aŭ ĉikanadon. Oni do povas raporti kriman agon aŭ situacion kiu ĝenas nin, kiel virinojn aŭ kiel virojn.  La defio estas ke tre malmultaj personoj scias ke ili havas rajtojn, kiujn ili povas postuli en tiaj situacioj.
+
+WAT: Oni devas ĉi tie rimarki ke kliŝaĵoj plifortigas malegalecojn. La portretado de virinoj kiel objektoj, limigataj en hejma rolo, dum la viroj estas familiestroj, plifortigas antaŭjuĝemojn. Plie, fakulinoj ofte malvideblas: en Togolando [eo], rolmodelinoj tre malmultas, plifortigante algoritmajn antaŭjuĝajn mekanismojn kiuj marĝenigas ilin, ĉar datumoj reproduktiĝas malfavore al virinoj en enketaj rezultoj: de serĉrezultaj ĝis laborŝancoj aŭ por merkatumaj celoj.
+
+La enhavoj kiuj oni vidas en sociaj retejoj estas plejparte seksismaj kaj profundigas la virinan timon profiti plene de cifereca teknologio. En Facebook, Twitter, Instagram, oni nun vidas rimarkojn tiel seksismajn ke ni pensas: “Fi, kie ni nun estas?” Ĉiu sin permesas diri ion ajn al iu ajn sen ajna riproĉo, speciale en Afriko. Ĉio ĉi havas realan efikon sur la aliro de vrinoj al cifereca enhavo.
+
+En Togolando ekzistas speciala altranga polica unuo kaj centroj por protektado de personaj datumoj kiujn oni povas kontakti en kazo de kontraŭleĝa kolektado de personaj datumoj. Plie en grandaj ciferecaj platformoj kiel Facebook, Instagram, TikTok, estas butonoj por raporti seksismajn kaj mizoginajn enhavojn, malamon aŭ ĉikanadon. Oni do povas raporti kriman agon aŭ situacion kiu ĝenas nin, kiel virinojn aŭ kiel virojn.  La defio estas ke tre malmultaj personoj scias ke ili havas rajtojn, kiujn ili povas postuli en tiaj situacioj.
+
+JS: Ĉu ekzistas leĝoj, kiuj garantias genran egalecon en la cifereca spaco?
+
+WAT: Apliki specifajn leĝojn aŭ regularojn por certigi genran egalecon restas defio en Afriko.  Tamen estas regionaj iniciatoj, kiel la Protokolo de Maputo [fr], la Agendo 2063 de la Afrika Unio [fr], la Politiko pri genro de la Afrika Unio [fr], kiuj celas krei pli inkluzivan ciferecan ĉirkaŭaĵon. Pri la rajtoj de la afrikaj virinoj, la Afrika Ĉarto pri Homaj kaj Popolaj Rajtoj [fr] atentigas en ĝiaj artikoloj 1-a, 3-a kaj 9-a pri la graveco garantii protekton de virinoj kiel unu de ĝiaj fundamentaj principoj. Ankaŭ la Rezolucio pri Protekto de Virinoj Kontraŭ Cifereca Perforto en Afriko [fr], nomata la CADHP/RES de 2022, spronas ŝtatojn alpreni leĝaron por kontraŭbatali formojn de cifereca agreso kaj plilarĝigi la difinon de genro-rilata agreso. Hodiaŭ, la difino de genra agreso ankaŭ inkluzivas vortan agreson, precipe enrete. Juraj kadroj devas rekoni ĉiujn tiujn dimensiojn por redifini genrobazitajn malobservojn. Multaj landoj alprenis leĝojn kiuj inspiriĝis de la Konvencio de Maroko, de la Afrika Unio, pri cifereca sekureco kaj protekto de datumoj, kaj ankaŭ de la Ekonomia Komunumo de Okcidentafrikaj Ŝtatoj [fr] (fr: CEDEAO, en: ECOWAS). Kelkaj leĝoj specife krimigas genrorilatajn agresojn, kiel la reta ĉikanado, kalumnio de seksa naturo, kaj la malkonsentita disvastigo de intimaj bildoj; tia estas la kazo en Eburbordo, Senegalio kaj Benino. Sed malmultaj da tiuj leĝoj estas iniciatemaj, kio ne specife kaj plene garantias egalan aliron. Devigaj leĝoj pri cifereca inkluzivo kaj la plifortigo de reguloj kontraŭ diskriminaciaj algoritmaj antaŭjuĝoj estas gravegaj antentopunktoj por la estonteco. Egaleco cifereca ne estas lukso, sed vere esenca kondiĉo por justa kaj daŭripova disvolviĝo en Afriko.
+
+WAT: Apliki specifajn leĝojn aŭ regularojn por certigi genran egalecon restas defio en Afriko.  Tamen estas regionaj iniciatoj, kiel la Protokolo de Maputo [fr], la Agendo 2063 de la Afrika Unio [fr], la Politiko pri genro de la Afrika Unio [fr], kiuj celas krei pli inkluzivan ciferecan ĉirkaŭaĵon.
+
+Pri la rajtoj de la afrikaj virinoj, la Afrika Ĉarto pri Homaj kaj Popolaj Rajtoj [fr] atentigas en ĝiaj artikoloj 1-a, 3-a kaj 9-a pri la graveco garantii protekton de virinoj kiel unu de ĝiaj fundamentaj principoj. Ankaŭ la Rezolucio pri Protekto de Virinoj Kontraŭ Cifereca Perforto en Afriko [fr], nomata la CADHP/RES de 2022, spronas ŝtatojn alpreni leĝaron por kontraŭbatali formojn de cifereca agreso kaj plilarĝigi la difinon de genro-rilata agreso.
+
+Hodiaŭ, la difino de genra agreso ankaŭ inkluzivas vortan agreson, precipe enrete. Juraj kadroj devas rekoni ĉiujn tiujn dimensiojn por redifini genrobazitajn malobservojn.
+
+Multaj landoj alprenis leĝojn kiuj inspiriĝis de la Konvencio de Maroko, de la Afrika Unio, pri cifereca sekureco kaj protekto de datumoj, kaj ankaŭ de la Ekonomia Komunumo de Okcidentafrikaj Ŝtatoj [fr] (fr: CEDEAO, en: ECOWAS). Kelkaj leĝoj specife krimigas genrorilatajn agresojn, kiel la reta ĉikanado, kalumnio de seksa naturo, kaj la malkonsentita disvastigo de intimaj bildoj; tia estas la kazo en Eburbordo, Senegalio kaj Benino. Sed malmultaj da tiuj leĝoj estas iniciatemaj, kio ne specife kaj plene garantias egalan aliron.
+
+Devigaj leĝoj pri cifereca inkluzivo kaj la plifortigo de reguloj kontraŭ diskriminaciaj algoritmaj antaŭjuĝoj estas gravegaj antentopunktoj por la estonteco. Egaleco cifereca ne estas lukso, sed vere esenca kondiĉo por justa kaj daŭripova disvolviĝo en Afriko.
+
+
+---
+
+# Ĉinio helpas Uzbekion savi la Aralan Maron
+
+**Published:** 2025-09-22
+
+**URL:** https://eo.globalvoices.org/2025/09/15655/
+
+**Author:** Toño DEL BARRIO
+
+**Categories:** Centra Azio kaj Kaŭkazio, Civitanaj komunikiloj, Internaciaj rilatoj, Kazaĥio, Medio, Orienta Azio, Rusa, Sano, Uzbekio, Ĉefaĵo, Ĉina, Ĉinio
+
+Partoj de Aralo, iam vasta akvejo inter Kazaĥio kaj Uzbekio, sekiĝis, lasante boatojn surgrundiĝintaj kaj la regionon dezertiĝinta. Bildo de Flickr. Licenco: CC BY 2.0
+
+Ĉi tiu artikolo estis prezentita kiel parto de la alianco Global Voices Climate Justice, kiu kunigas ĵurnalistojn el ĉinlingvaj kaj tutmond-plimultaj landoj por esplori la efikojn de ĉinaj evoluigaj projektoj eksterlande. Trovu pliajn informojn tie ĉi .
+
+Iam la kvara plej granda lago en la mondo, Aralo nun estas preskaŭ tute dezerto, perdinte pli ol 90 procentojn de sia surfacareo ekde la 1960-aj jaroj. La restanta akvo fariĝis tre salsaturita [en] kaj poluita, kio kaŭzis ekologian detruon. En 2010, la tiama ĝenerala sekretario de UN, Ban Ki-moon, flugis super ĝi per helikoptero kaj, ŝokite, konfesis [en], ke la sperto lasis lin “kun profunda impreso de malĝojo, ke tia potenca maro malaperis.”
+
+La lago situas ĉe la limo inter Kazaĥio kaj Uzbekio. En la 1960-aj jaroj, kiam ambaŭ nacioj estis parto de la Sovetia Bloko, oficialuloj lanĉis planon kultivi vastajn pecojn de dezerta tero en Centra Azio per redirektado de akvo de la du ĉefaj riveroj [ru], kiuj nutris la Aralan Maron: la Sirdarjo kaj Amudarjo. Neniu sukcesis antaŭvidi la detruajn efikojn, kiuj sekvus.
+
+Sen akvo de la Amudarjo kaj Sirdarjo, la lago sekiĝis. Dum jardekoj, la lagofundo akumulis toksajn pesticidojn kaj sterkaĵojn forlavitajn el la kotonkampoj.
+
+La satelitoj Terra kaj Aqua de NASA dokumentas la malpliiĝon de la Arala Maro ekde 2000. Bildo de NASA Goddard Photo and Video . Licenco: CC BY 2.0
+
+Kvankam okazis diversaj provoj restarigi la maron dum la lastaj 34 jaroj, neniu el ambaŭ landoj atingis signifan sukceson. En 2005, Kazaĥio finis la Digon Kokaral [ru],  kiu kaptis akvon en sia parto de la lago kaj iom revivigis komercan fiŝkaptadon en la nordokcidenta parto de la maro, kvankam la tuta volumeno de la lago daŭre malpliiĝas. Uzbekio havis neniun sukceson en traktado de la dezertiĝo, grunderozio kaj sablo- kaj salŝtormoj kaŭzitaj de la katastrofo.
+
+Digo Kokaral de Kazaĥio. Bildo de Wikimedia Komunejo per la satelito Copernicus de EU. Enhavas modifitajn datumojn de Copernicus Sentinel de 2021. Libere uzebla.
+
+Tamen, Uzbekio nun serĉas helpon de Ĉinio [en], tutmonda gvidlando en la batalo kontraŭ dezertiĝo kaj grunderozio [en], kaj la situacio pliboniĝas por la unua fojo post jardekoj. Ĉinio havas vastan sperton pri efektivigo de gut-irigaciaj metodoj (ankaŭ konataj kiel mikro-irigacio), procezo kie akvo estas gutigita rekte en la grundon proksime al la radikoj de kultivaĵoj per tuboj. Ĉi tiu procezo povas ŝpari 50-80 procentojn pli da akvo ol tradiciaj terkulturaj metodoj kaj povas atingi integriĝon de akvo kaj sterkaĵo.
+
+Kiel unu industria analiza raporto de la Ĉina Raporta Reto (中国报告网) notis [cn]:
+
+省水、省工、增产、节能、灌溉效果最佳、地形适应力强.
+
+省水、省工、增产、节能、灌溉效果最佳、地形适应力强.
+
+Ĝi ŝparas akvon, ŝparas laboron, pliigas rendimenton, ŝparas energion, havas la plej bonan irigacian efikon, kaj havas fortan adaptiĝemon al tereno
+
+Ĝi ŝparas akvon, ŝparas laboron, pliigas rendimenton, ŝparas energion, havas la plej bonan irigacian efikon, kaj havas fortan adaptiĝemon al tereno
+
+La kosto de la “blanka oro”
+
+La katastrofo de la Arala Maro estas forte ligita al la kultivado de kotono en Uzbekio, aŭ “blanka oro”, kiel ĝi foje estas nomata. La agrikulturaj planoj de Sovetunio transformis la landon en gigantan kotonplantejon kun jara produktado de 4,5 milionoj da tunoj [ru], kio konsistigis pli ol 30 procentojn [ru] de la tuta kotonproduktado de la bloko.
+
+Kotonkampoj en la Taŝkenta regiono de Uzbekio. Licenco: CC BY-SA 3.0 , tra Wikimedia Komunejo
+
+La perdo de tiom kolosa akvejo signife influis la klimaton, manifestiĝante per neelteneble varmaj someroj kaj severaj frostoj vintre. La loĝantoj de la Arala regiono estis plej forte trafitaj. Fine de la 1990-aj jaroj, la indico pri infanmortoj en la regiono estis la plej alta en la mondo, kaj la situacio restas serioza.
+
+Ĉiujare, ŝtormoj disŝutas 80 milionojn da tunoj [ru] da toksa sablo kaj salo de la lagfundo, kio venenas la loĝantaron, kondukante al amaso da kronikaj kaj mortigaj malsanoj [ru].
+
+Diversaj regionaj studoj trovis toksajn substancojn, insekticidojn kaj danĝerajn pesticidojn en la sango kaj urino de plenkreskuloj kaj infanoj, kaj eĉ en la lakto de mamnutrantaj patrinoj. Plenkreskuloj kaj infanoj en la regiono ofte suferas pro anemio, kancero, renaj malsanoj kaj epidemia tuberkulozo.
+
+Gutiga irigacio kaj salorezistaj plantoj
+
+La mediprotekta kunlaborado pri la Arala Maro estas nur unu aspekto de la rapide kreskanta engaĝiĝo inter Uzbekio kaj Ĉinio, kiu ampleksas energion, minadon, aŭtofabrikadon, renovigeblan energion, transportadon kaj agrikulturon, interalie. Ĉinio estas samtempe la plej granda komerca partnero kaj investanto [ru] de Uzbekio. En 2024, la nombro de uzbekaj-ĉinaj komunaj entreprenoj kreskis je 43,6 procentoj kaj atingis 3 357 [ru], firmigante la rolon de Ĉinio en la regiono.
+
+Projekto pri gutirigacio en Uzbekio. Bildo per UNDP Uzbekistan Flickr . Licenco: CC BY-NC-SA 2.0
+
+En 2016, la du landoj faris la unuan paŝon al komuna traktado de la Arala krizo kiam grupo de ĉinaj sciencistoj vizitis la regionon [ru] por studo, kiu daŭris pli ol kvin jarojn. En 2022, la esploristoj konkludis [ru] ke la ĉefaj kialoj de la elsekiĝo de la lago en la lastaj 20 jaroj estis klimata ŝanĝo kaj manko de akvoŝparaj teknologioj sur agrikulturaj terenoj. Farmistoj uzas akvoŝparajn teknologiojn nur ĉe kvin procentoj de la plugtero en Uzbekio, lasante grandegan potencialon por akvoŝparaj teknologioj.
+
+La praktika kunlaboro komenciĝis en 2020 kiam la Ŝinĝjanga Instituto pri Ekologio kaj Geografio (ŜIEG) de la Ĉina Akademio de Sciencoj komencis lanĉi gutirigaciajn sistemojn [en] en pluraj lokoj tra Uzbekio por montri ĝian efikecon [en].
+
+Chen Xi, direktoro de la Esplorcentro por Ekologio kaj Mediprotektado de Centra Azio ĉe la Ĉina Akademio de Sciencoj, komentis [cn] :
+
+棉花种植的高耗水量可以通过推广节水技术增加用水效率来解决，高效节水技术可使乌兹别克斯坦每年节约80-100亿立方米的水资源，可用于产业发展和咸海生态修复。
+
+棉花种植的高耗水量可以通过推广节水技术增加用水效率来解决，高效节水技术可使乌兹别克斯坦每年节约80-100亿立方米的水资源，可用于产业发展和咸海生态修复。
+
+La alta akvokonsumo de kotonkultivado povas esti solvita per antaŭenigo de akvoŝparaj teknologioj por pliigo de la efikeco de akvouzo. Alt-efikaj akvoŝparaj teknologioj povas ebligi al Uzbekio ŝpari 8-10 miliardojn da kubaj metroj da akvo ĉiujare, kiuj povos esti uzataj por industria disvolviĝo kaj ekologia restarigo de la Arala Maro.
+
+La alta akvokonsumo de kotonkultivado povas esti solvita per antaŭenigo de akvoŝparaj teknologioj por pliigo de la efikeco de akvouzo. Alt-efikaj akvoŝparaj teknologioj povas ebligi al Uzbekio ŝpari 8-10 miliardojn da kubaj metroj da akvo ĉiujare, kiuj povos esti uzataj por industria disvolviĝo kaj ekologia restarigo de la Arala Maro.
+
+Tio ĉi estus grandega pozitiva evoluo, ĉar neniom da akvo nutras la uzbekan parton de la lago, kaj la kazaĥa flanko ricevis nur 2,6 milionojn da kubaj metroj [en] en 2024.
+
+Boatoj restas surgrundigitaj en la regiono Moynaq de Uzbekio, ĉar la iam vasta akvo de la Arala Maro sekiĝis. Bildo de Wikimedia Komunejo . Licenco: CC BY 2.0
+
+Paralele al la antaŭenigo de efikaj irigaciaj sistemoj, Ĉinio estas laboranta pri arbarigaj programoj. En 2020, ŜIEG konstruis arbokultivejon [en] ĉe la lagobordo, kie dekoj da salo-toleremaj plantoj estis sukcese kultivitaj, montrante sian potencialon por pligrandigado kaj por reduktado de la saleco en la grundo.
+
+Tion ĉi sekvis io en multe pli granda skalo. En 2025, Abdiraŝit Mirzambetov, estro de la laboratorio pri bioteknologio kaj plantfiziologio de la Internacia Noviga Centro de la Arala regiono, komentis [ru]:
+
+Мы привезли из Китая свыше двухсот видов солеустойчивых и засухоустойчивых растений. Их семена будут выращиваться в регионах Приаралья с последующим их выращиванием на осушенном дне Аральского моря.
+
+Мы привезли из Китая свыше двухсот видов солеустойчивых и засухоустойчивых растений. Их семена будут выращиваться в регионах Приаралья с последующим их выращиванием на осушенном дне Аральского моря.
+
+Ni alportis pli ol ducent speciojn de salo- kaj sekeco-rezistaj plantoj el Ĉinio. Iliaj semoj estos kreskigataj en la Arala regiono kaj poste kultivataj sur la reakirita Arala marfundo.
+
+Ni alportis pli ol ducent speciojn de salo- kaj sekeco-rezistaj plantoj el Ĉinio. Iliaj semoj estos kreskigataj en la Arala regiono kaj poste kultivataj sur la reakirita Arala marfundo.
+
+Laŭ la Ĉina Akademio de Sciencoj, komence de 2025, ŜIEG sendis 1,5 tunojn da salorezistaj plantsemoj al Uzbekistano por establi komunan salrezistan arboplantejon. “Ĉi tiuj semoj subtenos klopodojn pri tero-restarigo kaj servos kiel fundamento por biodiverseca esplorado,” diris Wang Ping de ŜIEG.
+
+La plej nova teknologia scio alportita de ĉinaj sciencistoj al la regiono de Arala Maro estas sunenergi-bazitaj solvoj. Tiurilate, en 2025, ŜIEG instalis [en] “gut-irigaciajn sistemojn funkciigitajn per fotovoltaaj paneloj” kaj “novigan inteligentan irigaci-sistemon por kotonkultivado per sunenergio” ŜIEG deklaras, ke “la projekto triobligis la kotonajn rikoltojn kaj signife reduktis produktokostojn kaj akvokonsumon”.
+
+Verda diplomatio
+
+Ĉinio propagandas siajn klopodojn helpi Uzbekion kaj Kazaĥion rilate al la ŝrumpado de la Arala Maro. Tio ebligas al Ĉinio sin montri kiel altteknologian superpotencon en mesaĝado direktita al Centra Azio. Same, Ĉinio povas prezenti sin kiel ekologiema lando.
+
+En tempo kiam okcidentaj potencoj pli kaj pli montriĝas hezitaj pri siaj internaciaj engaĝiĝoj, la krizo de Aralo ankaŭ kompreniĝas [en] kiel maniero per kiu Ĉinio firmigas siajn ligojn kun Uzbekio kaj aliaj centraziaj landoj, en “subteno de la principoj de ‘scienco sen limoj,’” tiel implicante ke okcidentaj landoj aŭ forlasis ĉi tiun taskon aŭ provis uzi sciencan helpon kiel truddevigan ilon.
+
+En la helpo al Uzbekio, Ĉinio uzas siajn proprajn spertojn en la batalo kontraŭ dezertiĝo kaj grunderozio. Ĉinio starigis la plej grandan homkreitan arbaron de la mondo en Saihanba [en], Hebejo [eo], kaj ankaŭ provis transformi la dezerton en Interna Mongolio [eo]. Ĝia sperto pri restarigo de la baseno de la rivero Tarim [en] en nordorienta Ĉinio estas konsiderata aparte grava, tamen, ĉar la kondiĉoj tie estas rigardataj [cn] kiel similaj al tiuj de la Arala Maro.
+
+La Turo Saihan ĉe la Nacia Arbara Parko Saihanba en Hebejo, Ĉinio. Ĉi tiu parko estas la plej granda homkreita parko en la mondo, kaj estas ekzemplo de la sperto de Ĉinio pri rearbarigo. Bildo de Wikimedia Komunejo . CC BY-SA 4.0
+
+Konsiderante ĉi tiun sperton, Ĉinio strebas prezenti sin kiel spertulo pri kontraŭbatalado de dezertiĝo, kiel rimedo por plifortigi rilatojn kun Uzbekio kaj aliaj landoj alfrontantaj problemojn pri grunderozio kaj dezertiĝo.
+
+Ĉiukaze, la sukceso de ĉi tiu kunlaboro kaj la ĝenerala respondeco trakti la katastrofon de la Arala Maro kuŝas sur la ŝultroj de Uzbekio kiel baza lokejo. Ĉinio jam aperis kiel gajninto poziciiĝante kiel la ĉefgvidanto en ĉi tiu kampo kaj kiel respondeca internacia ĉefrolulo preta engaĝiĝi preter la ekstraktado de resursoj.
+
+Tia kunlaborado helpas Ĉinion plibonigi sian publikan bildon en Uzbekio, precipe inter ordinaraj civitanoj. Verŝajne daŭros jardekojn ĝis kiam oni vidos ian plibonigon en la Arala krizo, sed Ĉinio estos memorata kiel tiu kiu etendis helpeman manon por inversigi ĝin.
+
+
+---
+
+# En Malagasio, ateliero pri verkado valorigas la ĉeeston de la malagasa lingvo enrete
+
+**Published:** 2025-09-24
+
+**URL:** https://eo.globalvoices.org/2025/09/15674/
+
+**Author:** Henriel Fidilalao Firaisana
+
+**Categories:** Civitanaj komunikiloj, Komunikiloj kaj ĵurnalismo, Lingvo, Madagaskaro, Malagasa, Rising Voices, Subsahara Afriko, Ĉefaĵo
+
+La partoprenantoj de la ateliero. Foto fare de la aŭtoro. Uzata kun ŝia permeso
+
+La 31-an de majo 2025 okazis en Antananarivo [eo] laborrenkontiĝo [fr] titolita Wikiteny [en], frukto el la kunlaboro inter la uzant-grupoj de la komunumo Wikimedia Madagascar kaj Global Voices Malagasy . La atelieron ebligis la financa subteno de Knowledge Equity Fund de la Fondumo Vikimedio (ndlr. Wikimedia Foundation ), kiu apogas projektojn kiuj favorigas la justecon de scioj tra la mondo.
+
+Tiu evento enskribiĝas en la kadro de la celebrado de la monato de la malagasa lingvo [fr], kiu okazas ĉiujare en junio. La malagasa [eo] estas la nacia lingvo de Malagasio [eo], ĝi estas parolata de ĉirkaŭ 30 milionoj da homoj [fr].
+
+Ateliero por disradiigi la malagasan lingvon
+
+La ĉefa celo de la ateliero estis valorigi la malagasan lingvon kaj diskonigi Malagasion kaj ĝian kulturon tra la cifereca medio. Reliefigita estis la uzado de Wikimedia [en] kiel esprim-platformo kaj la artikoloj de Global Voices [en] kiel fidindaj fontoj por pliriĉigi la enhavojn en tiu lingvo.
+
+La partoprenantoj laborantaj kaj koncentritaj pri siaj kontribuoj. Bildo de la aŭtoro, uzata kun permeso.
+
+Engaĝita partoprenado
+
+Du dek kvar homoj partoprenis en tiu sesio, kio reprezentas studentojn, civitanojn, blogulojn kaj ŝatantojn de la malagasa lingvo. La etoso estis lernema kaj amikema. La partoprenantoj montriĝis kontentaj kaj motivitaj por daŭrigi la redaktadon de artikoloj en la malagasa pri la projektoj Wikimedia [fr].
+
+Maminirina , studentino je sia dua studjaro pri la malagasa en la universitato de Antananarivo tiel esprimiĝas :
+
+Mi ĉiam volis verki en la malagasa, sed mi ne sciis kie komenci. Danke al tiu ateliero, mi malkovris Wikipedia kiel liberan kaj alireblan spacon por kundividi niajn sciojn. Ja motivigas scii ke tion, kion mi verkas povas utili al aliaj homoj.
+
+Mi ĉiam volis verki en la malagasa, sed mi ne sciis kie komenci. Danke al tiu ateliero, mi malkovris Wikipedia kiel liberan kaj alireblan spacon por kundividi niajn sciojn. Ja motivigas scii ke tion, kion mi verkas povas utili al aliaj homoj.
+
+Unu el la gestudentoj, Ny Avotiana Gael , asertas kun entuziasmo pri sa partopreno :
+
+Mi estas tre kontenta pri tiu ateliero. Mi ne sciis ke kontribui interrete per mia lingvo eblis kaj ankaŭ utilis. Nun mi volas verki pli por montri la riĉecon de nia kulturo.
+
+Mi estas tre kontenta pri tiu ateliero. Mi ne sciis ke kontribui interrete per mia lingvo eblis kaj ankaŭ utilis. Nun mi volas verki pli por montri la riĉecon de nia kulturo.
+
+Jen videaĵo de unu el la partoprenintinoj, Rojo Ravaka, kiu kundividas sian motivon partopreni en tiu ateliero. Ŝi klarigas kiel respondeculino pri komunikado ke tiu ateliero interesas ŝin pro tio ke ŝi amas la malagasan. Ja tio estas por ŝi valora oportuneco por plifortigi siajn kompetentecojn redakti kaj bone regi tiun lingvon. La videaĵo estas uzata kun ŝia permeso.
+
+En tiu alia videaĵo, la partoprenanto nomita Rohy Ramasinatrehana esprimas sian sindevontigon favore al la valorigado de la malagasa lingvo sur la reto. Li klarigas ke lia partopreno originas el la graveco de tiu demarŝo, ĉar, laŭ li, neniu aparte okupiĝas oficiale pri tio. La videaĵo estas uzata kun lia permeso.
+
+Konkurso por instigi al kontribuaĵoj
+
+La ateliero markis ankaŭ la lanĉadon de konkurso pri verkado, modifado kaj pliriĉigado de artikoloj, vera edit-a-thon [fr – redakta maratono], kiu okazis dum la tuta monato de junio [ndlr. 2025] sur Wikimedia . La partoprenantoj estis invitataj redakti, korekti aŭ plibonigi maksimuman nombron da artikoloj en la malagasa lingvo, cele al plifortigo de la ĉeesto de la malagasa lingvo en la cifereca medio.
+
+Je la fino de la monato, la tri kontribuintoj plej aktivaj kaj plej engaĝitaj, t.e. tiuj, kiuj produktas la plej multnombrajn artikolojn estis rekompencitaj per dulingvaj vortaroj franca-malagasa.
+
+Honoreca ĉeesto
+
+La evento estis honorita de la ĉeesto de Nalisoa Ravalitera , akademiano, poeto kaj emblema figuro por la promocio de la malagasa lingvo. Lia ĉeesto estis font-inspiro por ĉiuj partoprenantoj.
+
+Jean Rabenalisoa Ravalitera, Sekciestro de la sciencoj pri arto kaj lingvo sine de la Malagasa Akademio. Foto far la aŭtoro
+
+Malcentrigita evento
+
+La ateliero Wikiteny ne estis limigita al iu sola loko. Ĝi samtempe okazis en kvar regionoj de Malagasio: Analamanga [eo] (en la ĉefurbo Antananarivo), Matsiatra Ambony [en] (en la sudoriento), Boeny [en] (en Mahajanga [eo], havenurbo ĉe la norokcidenta marbordo), kaj Diana [eo] (en la nordo) tiel ebligante al pli larĝa publiko ĝin partopreni. Tiu malcentrigita aliro favoris plibonan inkluzivon de la regionaj komunumoj en la promocio de la malagasa lingvo enrete kaj ebligis kolekti grandan diversecon da vidpunktoj kaj kontribuaĵoj.
+
+La ateliero Wikiteny reprezentas konkretan agon pri la valorigado de la denaska lingvo, kolektiva aliro por enskribigi la malagasan lingvon en la tutmondan pejzaĝon ciferecan. La kreado de malagaslingvaj enhavoj en malfermitaj platformoj kiel Wikipedia ebligas konservi la lingvan heredaĵon kaj transdoni ĝin al la estontaj generacioj.
+
+En ĉiam pli konektita mondo, konservi lingvan diversecon kaj retajn tekstojn estas esenca, ĉar la angla lingvo nuntempe dominas la retan ĉeeston, ĉar ĝi reprezentas pli ol 60% de la retejoj.
+
+
+---
+
+# La sekureco de la rifuĝintaj politikaj ĵurnalistoj endanĝerigita en la francparolanta Afriko
+
+**Published:** 2025-10-06
+
+**URL:** https://eo.globalvoices.org/2025/10/15638/
+
+**Author:** Claudio Gobbo
+
+**Categories:** Benino, Civitanaj komunikiloj, Ebur-Bordo, Homaj rajtoj, Komunikiloj kaj ĵurnalismo, Parollibereco, Politiko, Regado, Subsahara Afriko, Ĉefaĵo
+
+En la bildo: Comlan Hugues Sossoukpè; ekrankopio de la paĝo YouTube de Benin'Us
+
+Iuj ĵurnalistoj estas devigataj fuĝi el sia patrujo ĉar ilia vivo estas en danĝero. Sed ekzilo ne ĉiam signifas sekurecon, kiel montras la kazo de la benina ĵurnalisto Comlan Hugues Sossoukpè [fr], kiu rifuĝis al Togolando [eo] sed estis arestita en Eburbordo [eo].
+
+En multaj landoj, ankaŭ en Afriko, la ĵurnalistoj kritikantaj la povon ne estas bonvenaj. Ili ofte fariĝas celo de minacoj kaj timigadoj kaj foje estas arestitaj kaj malliberigitaj. Fronte al tiu reala risko, iuj decidas forlasi sian landon kaj rifuĝi al najbaraj aŭ pli foraj ŝtatoj.
+
+La internacia juro pri rifuĝintoj [fr] aplikiĝas ankaŭ al ĵurnalistoj en tiaj situacioj, sed tiu rajto ne ĉiam estas respektata. Fakte, iuj ŝtatoj uzas rimedojn por aresti kaj ekstradicii ĵurnalistojn, kiuj supozeble devus esti sekuraj sur ilia teritorio. Tio ĝuste okazis en la nokto inter la 10-a kaj la 11-a de julio 2025 [fr] en Eburbordo, kiam la benina ĵurnalisto Comlan Hugues Sossoukpè estis arestita sur eburborda tero kaj ekstradiciita al Benino.
+
+Kiu estas Comlan Hugues Sossoukpè?
+
+Comlan Hugues Sossoukpè [fr] estas profesia ĵurnalisto kaj direktoro de la benina eldonaĵo “ Olofofo” . Li estas ankaŭ konata kiel kiberaktivulo kaj atentiganto. Li estas tre kritika por la regado de Patrice Talon [fr], prezidento de Benino ekde marto 2016.
+
+En 2019, post la malpermeso de publikigo kaj aperigo [fr] de lia gazeto, — fina decido de la benina justico proklamita en marto 2025 — Comlan Hugues Sossoukpè forlasis [fr] Beninon kaj ekloĝis en Togolando, kie li ricevis la statuson de rifuĝinto en 2021. De tie li plu agadis, partoprenante forumojn kaj konferencojn tra la mondo. Dum tiu tempo, li restis celo sub la atenta rigardo de la benina reĝimo.
+
+En la rangolisto de Reporters sans frontières (RSF) [fr, trad: Raportistoj sen bariloj] en 2025, Benino retroiris je tri lokoj: de la 89-a [fr] en 2024 al la 92-a [fr] en 2025, inter 180 landoj.
+
+Falinta en la eburan kaptilon
+
+Komence de julio, Sossoukpè ricevis leteron [fr] de la Eburborda Ministerio pri Cifereca Transiro kaj Diĝitaligo [ndlr. france: Transition numérique et de la Digitalisation ] , invitante lin al raportatado pri la unua eldono de la evento “ Ivoire Tech Forum ” [fr] okazonta inter la 9-a kaj 11-a de julio 2025 en Abidjan. Laŭ BBC Afrique [fr] (la 25-an de julio), la ĵurnalisto akceptis la inviton kaj alvenis la 8-an de julio.
+
+Reporters sans frontières [fr, trad: Raportistoj Sen Bariloj], kiu dokumentis la aferon, klarigas la detalojn de la malliberigado de la ĵurnalisto en articolo publikigita en sia retejo:
+
+Alveninte en Abidjan la 8-an de julio, la ĵurnalisto loĝis ĉe hotelo Palm Beach, proprieto de la Fonds de prévoyance militare [fr] (FPM) [trad: Fonduso por socialasekuro militista]. Li komencis kovri la forumon la sekvan tagon. Vespere, la 10-an de julio, pluraj policistoj frapis lian ĉambran pordon. Post rezisto, li fine konsentis sekvi ilin sub la promeso, ke oni prezentos lin antaŭ juĝisto. Sed tiel ne okazis. Oni tuj kondukis lin al la honora salono de la flughaveno Félix Houphouët-Boigny, normale rezervita por prestiĝaj gastoj.
+
+Alveninte en Abidjan la 8-an de julio, la ĵurnalisto loĝis ĉe hotelo Palm Beach, proprieto de la Fonds de prévoyance militare [fr] (FPM) [trad: Fonduso por socialasekuro militista]. Li komencis kovri la forumon la sekvan tagon. Vespere, la 10-an de julio, pluraj policistoj frapis lian ĉambran pordon. Post rezisto, li fine konsentis sekvi ilin sub la promeso, ke oni prezentos lin antaŭ juĝisto. Sed tiel ne okazis. Oni tuj kondukis lin al la honora salono de la flughaveno Félix Houphouët-Boigny, normale rezervita por prestiĝaj gastoj.
+
+La maniero de la aresto kaj de la konduko de la ĵurnalisto al la flughaveno por lia ekstradicio sugestas eblan kunlaboron de la eburbordaj aŭtoritatoj, laŭ la komentoj [fr] de  Gameli Nouwade, membro de la kolegio de la advokatoj de la viktimo, al la mikrofono de Radio France Internationale [tr: Radio Francio Internacia].  Tiu interparolo estas publikigita en la paĝo X de RFI Afrique [fr] :
+
+🏛️ Le journaliste béninois Comlan Hugues Sossoukpé, réfugié politique au Togo, s'est rendu à Abidjan sur invitation du gouvernement ivoirien. Il y a été arrêté, à son hôtel et expulsé au Bénin. Son avocat Gameli Nouwade dénonce du banditisme judiciaire. pic.twitter.com/Igq1HEnlx9 — RFI Afrique (@RFIAfrique) July 21, 2025
+
+🏛️ Le journaliste béninois Comlan Hugues Sossoukpé, réfugié politique au Togo, s'est rendu à Abidjan sur invitation du gouvernement ivoirien. Il y a été arrêté, à son hôtel et expulsé au Bénin. Son avocat Gameli Nouwade dénonce du banditisme judiciaire. pic.twitter.com/Igq1HEnlx9
+
+— RFI Afrique (@RFIAfrique) July 21, 2025
+
+La benina ĵurnalisto Comlan Hugues Sossoukpè , politika rifuĝinto en Togolando, vojaĝis al Abidjan laŭ invito de la eburborda registaro. Tie li estis arestita en sia hotelo kaj elpelita al Benino. Lia advokato Gameli Nouwade kondamnas tion kiel juran banditismon. pic.twitter.com/Igq1HEnlx9 — RFI Afrique (@RFIAfrique) Julio la 21-an, 2025
+
+La benina ĵurnalisto Comlan Hugues Sossoukpè , politika rifuĝinto en Togolando, vojaĝis al Abidjan laŭ invito de la eburborda registaro. Tie li estis arestita en sia hotelo kaj elpelita al Benino. Lia advokato Gameli Nouwade kondamnas tion kiel juran banditismon. pic.twitter.com/Igq1HEnlx9
+
+— RFI Afrique (@RFIAfrique) Julio la 21-an, 2025
+
+Benino kaj Eburbordo ĝuas bonajn rilatojn en pluraj kampoj: profesia trejnado [fr] , justico, armea kunlaboro kaj kontraŭterorisma batalo [fr] , diplomatio, ekonomio [fr] , ktp.
+
+Kiuj estas la akuzoj kontraŭ Comlan Hugues Sossoukpè?
+
+Multaj akuzoj [fr] deklaritaj de la beninaj aŭtoritatoj pezas sur la ĵurnalisto: “Ĉikanado pere de informadika sistemo”, “Ribelado”, “Apologio de terorismo”. La viktimo malakceptas ĉiujn ĉi akuzojn, dirante [fr] ke li nur faris sian laboron: kritiki la reĝimon kaj informi la publikon. En letero citita de La Dépêche [fr] , li skribas:
+
+Mi kritikis la senmakulan reĝimon de la “rompo” kaj liveris informojn, kiujn oni volis kaŝi. Se tio igas min iu, kiu ne amas sian landon, mi akceptas. Sed mi volas, ke oni montru saman obstinecon kiam miaj samlandanoj, per mia voĉo, sendas alarmojn, SOS-ojn kaj aliajn.
+
+Mi kritikis la senmakulan reĝimon de la “rompo” kaj liveris informojn, kiujn oni volis kaŝi. Se tio igas min iu, kiu ne amas sian landon, mi akceptas. Sed mi volas, ke oni montru saman obstinecon kiam miaj samlandanoj, per mia voĉo, sendas alarmojn, SOS-ojn kaj aliajn.
+
+Malapliko de la internacia juro?
+
+Havante rifuĝintan statuson en Togolando, Colman Hugues Sossoukpè [fr] devintus esti protektata de la internacia juro pri rifuĝintoj kiuj kovras la ĵurnalistojn en ekzilo. Ambaŭ landoj, Eburbordo kaj Benino, subskribis kaj ratifis la koncernajn traktatojn. RSF raportas [fr]:
+
+Son statut de réfugié politique, accordé par le Togo où il vit en exil depuis sept ans, est pourtant inscrit noir sur blanc dans son passeport — ce que RSF a pu confirmer. Ce statut aurait dû empêcher qu’il soit transféré. En vain. Le journaliste embarque dans un petit avion privé affrété pour l’occasion et à bord duquel il n’aura pour seule compagnie que les policiers qui l’escortent et les membres d’équipage.
+
+Son statut de réfugié politique, accordé par le Togo où il vit en exil depuis sept ans, est pourtant inscrit noir sur blanc dans son passeport — ce que RSF a pu confirmer. Ce statut aurait dû empêcher qu’il soit transféré. En vain. Le journaliste embarque dans un petit avion privé affrété pour l’occasion et à bord duquel il n’aura pour seule compagnie que les policiers qui l’escortent et les membres d’équipage.
+
+Lia politika rifuĝinta statuso, konfirmita de Togolando, estis klare menciita en lia pasporto – kio estis konfirmita de RSF. Tio devintus malebligi lian translokigon. Sed vane. La ĵurnalisto estis enmetita en malgrandan privatan aviadilon, kun nur policistoj kaj la skipo kiel akompanantoj.
+
+Lia politika rifuĝinta statuso, konfirmita de Togolando, estis klare menciita en lia pasporto – kio estis konfirmita de RSF. Tio devintus malebligi lian translokigon. Sed vane. La ĵurnalisto estis enmetita en malgrandan privatan aviadilon, kun nur policistoj kaj la skipo kiel akompanantoj.
+
+En tia kunteksto, la kredindeco de tiuj ŝtatoj pri internaciaj devontigoj estas forte pridubita. La eburborda registaro sin defendas [fr] citante la justican kunlaboron kun Benino. Subtenante ke la ekstradicio de la ĵurnalisto ne estas kontraŭleĝa,  Amadou Coulibaly, ministro pri komunikado kaj registara proparolanto, deklaris [fr] al BBC Afrique :
+
+Les autorités ignoraient son statut de réfugié politique. (…)les autorités ont simplement exécuté un mandat d'arrêt international, en vertu des accords de coopération judiciaire entre la Côte d'Ivoire et le Bénin.
+
+Les autorités ignoraient son statut de réfugié politique. (…)les autorités ont simplement exécuté un mandat d'arrêt international, en vertu des accords de coopération judiciaire entre la Côte d'Ivoire et le Bénin.
+
+La aŭtoritatoj ne sciis pri lia politika rifuĝinta statuso. (…) Ili simple plenumis internacian arestordonon, laŭ la interkonsentoj inter Eburbordo kaj Benino.
+
+La aŭtoritatoj ne sciis pri lia politika rifuĝinta statuso. (…) Ili simple plenumis internacian arestordonon, laŭ la interkonsentoj inter Eburbordo kaj Benino.
+
+La plej granda danĝero por afrikaj ĵurnalistoj estas ke tiu ekstradicio povus fariĝi precedenco en la tuta kontinento. Estonte, aliaj ŝtatoj povus adopti similan taktikon kaj liveri ekzilitajn ĵurnalistojn al ilia patrujo.
+
+En aŭgusto 2024, Steve Amoussou, alia benina kiberaktivulo, estis arestita kaj forkondukita al Togolando. Li ankaŭ estis konata pro siaj severaj kritikoj kontraŭ la reĝimo de Patrice Talon [eo].
+
+Konsiderante ĉi tiujn kazojn de transnacia subpremo, la ĵurnalistoj demandas sin ĉu la sekureco de politikaj rifuĝintaj ĵurnalistoj ankoraŭ estas garantiata.
+
+
+---
+
+# La amara vero pri AI: ankaŭ artefarita intelekto havas antaŭjuĝojn
+
+**Published:** 2025-10-07
+
+**URL:** https://eo.globalvoices.org/2025/10/15700/
+
+**Author:** Herman Dekeŭnink
+
+**Categories:** Angla, Blogo, Civitanaj komunikiloj, GV Advocacy, Interreta aktivismo, Komunikiloj kaj ĵurnalismo, MONDO, The Bridge, Ĉefaĵo
+
+Illustraĵo de Tactical Tech, kun vidaj elementoj de Yiorgos Bagakis kaj Alessandro Cripsta. Uzata kun permeso..
+
+Tiu ĉi artikolo estis verkita de Safa Ghnaim kunlabore kun la Instituto Goethe Brazilo kaj origine publikigita en DataDetoxKit.org . Reviziita versio estis republikigita kiel parto de kunlaborkontrakto kun Global Voices.
+
+Kvankam artefarita intelekto (AI) estas de multaj homoj ofte rigardata kiel “neŭtrala teknologio”, ĝi donas misgvidan bildon, ĉar ankaŭ AI havas antaŭjuĝojn. AI estas evoluigata de homoj kaj trejnata de datumaroj. Same kiel vi kaj mi, homoj kiuj konstruas ĉi tiujn teknologiojn havas siajn konvinkojn, opiniojn kaj spertojn kiuj formas iliajn elektojn, ĉu ili konscias pri tio aŭ ne. Inĝenieroj kaj firmaoj kiuj disvolvas kaj trejnas AI-sistemojn eble donas pli da pezo al certaj informoj aŭ celoj ol al aliaj. Depende de la datumaroj kun kiuj ili “nutras” AI, ekz. algoritmojn aŭ babilejojn – tiuj sistemoj povas produkti rezultojn kun antaŭjuĝoj. Tial AI povas generi neĝustajn informojn, erarajn supozojn aŭ reprodukti malbonajn decidojn, kiel faras homoj.
+
+AI ne estas magio: maŝinoj programitaj de homoj portas proprajn mankojn
+
+Iuj parolas pri AI kvazaŭ ĝi estus miraklo, sed efektive ĝi estas nur maŝino. Simple dirite, AI-ilaro estas komputilaj programoj plenigitaj per grandaj kvantoj da datumoj por helpi ilin antaŭvidi aŭ rekomendi. “AI” estas kolekta nomo por diversaj iloj kiuj estas dezajnitaj por rekoni patronojn, solvi problemojn kaj fari decidojn—ofte multe pli rapide kaj grandeco ol homoj kapablus.
+
+Sed kiel ĉiu ilo, AI estas dezajnita kaj programita de homoj. Tiuj homoj starigas regulojn: “faru ĉi tion, sed ne tion”. Komprenante ke AI-ilaro estas aŭtomataj sistemoj kun limigoj pro homaj decidoj, ni povas pli bone debati pri la kapabloj kaj malfortoj de AI.
+
+Kiam homoj parolas pri AI, ili povas paroli pri tre malsamaj aplikoj. Jen kelkaj ofte uzataj AI-iloj kaj ties malfortoj:
+
+Tekstgeneriloj kreas enhavon laŭ ŝlosilvortoj aŭ “ promptoj ” [ndltr. instrukcioj] kiujn vi donas. Ili estas trejnitaj per grandegaj retaj tekstaroj, de varia kvalito. Vi eble konas ilin kiel grandaj lingvaj modeloj ( Large Language Models aŭ LLM-oj), aŭ sub nomoj kiel ChatGPT, aŭ pli malformale kiel babilejoj aŭ AI-asistantoj. Kvankam ĉi tiuj iloj foje montras imponajn kapablojn, kiel ekzemple pasigado de ekzamenoj , ili ankaŭ estas konataj pro siaj “ halucinoj ”: ili produktas informojn kiuj ne konformas al faktoj.
+
+Bildgeneriloj kreas bildojn aŭ filmetojn laŭ vortoj kiujn vi enigas. Ili povas esti ekzemple modeloj de teksto-al-bildo, kiel DALL-E aŭ Stable Diffusion . Tiuj iloj povas generi tre realismajn bildojn kaj filmetojn, sed oni ankaŭ observas ke ili reduktas la mondon al kliŝoj kaj stereotipoj . Ili povas esti misuzataj, ekzemple por seksallogado aŭ minacado .
+
+Rekomendaj sistemoj montras al vi enhavon laŭ kiu algoritmo opinias aŭ “antaŭvidas” ke vi probable alklakos ĝin aŭ interagos kun ĝi. Tiaj sistemoj estas aktivaj en la fono de serĉiloj [eo], sociaj retejoj kaj aŭtoplay -funkcioj [de] en YouTube. Ili ofte donas al vi pli da tio kion vi jam ŝatas, sed ekzistas ankaŭ danĝeraj kaptiloj . Tiaj sistemoj estas ankaŭ uzataj por gravaj decidoj kiel dungado , universitata allaso , hipoteko-kreditoj , kaj aliaj aspektoj de la ĉiutaga vivo.
+
+Kvankam iuj fakuloj argumentas, ke iloj de artefarita intelekto (AI) kiel babilrobotoj el si mem fariĝos “pli saĝaj”, aliaj diras, ke ili estas plenaj de eraroj . Jen kelkaj kialoj, kial vi eble volus pripensi la antaŭjuĝojn malantaŭ AI:
+
+Iuj datumoj uzataj por trejni AI povas esti private posedataj, sub kopirajto, aŭ uzataj sen permeso.
+
+Iuj datumaroj enhavas malaman lingvaĵon , konspirajn teoriojn aŭ simple erarajn informojn .
+
+La datumoj povas esti antaŭjuĝaj kontraŭ certaj homoj, genroj, kulturoj, religioj, profesioj aŭ situacioj.
+
+Iloj de artefarita intelekto (AI) ankaŭ estas trejnataj per datumoj, kiuj tute preterlasas certajn elementojn. Se AI scias malmulte aŭ nenion pri specifa demografio, lingvo aŭ kulturo dum trejnado, ĝi ne povas tauĝe generi enhavon pri ĝi.
+
+Grava studo de 2018, “ Gender Shades ” [ndltr. Genraj Nuancoj] de Joy Buolamwini, montris kiel vizaĝrekonaj sistemoj luktis por rekoni homojn de koloro, precipe nigrajn virinojn. Ĉi tiuj mankhavaj sistemoj jam estis tiutempe uzataj de la polico en Usono .
+
+Faru antaŭjuĝojn videblaj por eviti ilian disvastigon
+
+Kiel ni menciis, datumoj kaj eĉ manko de datumoj povas kaŭzi partecon aŭ miskomprenojn pri certaj kulturoj, lingvoj aŭ grupoj. Ekzemple, se AI ne havis sufiĉe da datumoj pri iu lingvo aŭ komunumo, ĝi ne povas respondi taŭge al ĉi rilataj temoj.
+
+Nun kiam vi scias ke AI estas konstruita de homoj kaj povas speguli homajn mankojn, estas tempo rigardi nin mem. Kiel la maniero kiel niaj propraj cerboj funkcias povas helpi nin pli bone kompreni la antaŭjuĝojn de AI?
+
+Profunde enradikiĝintaj antaŭjuĝoj ekzistas en individuoj, organizaĵoj kaj socioj. Klarigu ilin per pripensado de ĉi tiuj demandoj:
+
+Kion vi atendas de aliaj laŭ tio kiel ili prezentiĝas, kondutas, vestiĝas aŭ parolas?
+
+Ĉu estas grupoj de homoj kiuj havas pli grandan riskon esti punataj, malakceptitaj aŭ stigmatigitaj pro sia aspekto, konduto aŭ lingvo-uzo?
+
+La respondoj ofte malkaŝas implicitajn antaŭjuĝojn: supozoj, sintenoj kaj stereotypoj kiuj jam delonge estas parto de kulturoj kaj kiuj senkonscie influas niajn decidojn. Ĉar ili estas ne konsciaj, ili estas nomataj “implicitaj antaŭjuĝoj”. Ili kutime enradikiĝis en via pensmaniero, malfacile rekoneblaj kaj malfacile akcepteblaj.
+
+Oftaj implicitaj partiecoj inkluzivas interalie:
+
+Genran partiecon [en: gender bias ]: la tendencon rapide kaj senkonscie fari konkludojn pri homoj bazitaj sur genro.
+
+Rasan kaj/aŭ etnan partiecon : la tendencon rapide fari konkludojn pri homoj bazitaj sur ilia haŭtkoloro, kulturo kaj/aŭ etna fono.
+
+Harvard ofertas vastan kolekton de senpagaj retaj testoj por helpi vin malkovri kaj trakti viajn proprajn implicitajn antaŭjuĝojn. Se vi havas multajn implicitajn antaŭjuĝojn, rekoni ilin povas esti vera defio. Ĝi malofte okazas tuj. Sed vi devas komenci ie, do kial ne nun?
+
+Ĉio estas pligrandigita per AI
+
+Nun kiam vi vidis kiel tiaj pensmanieroj funkcias, imagu kio okazas kiam tiaj pensmanieroj estas aplikataj vastskale. Kiam implicitaj antaŭjuĝoj kaj pensmanieroj enmetiĝas en teknologio, ili povas influi tutajn popolgrupojn — kaj tio okazas tre rapide.
+
+Ekzemple, se vi uzas senpagan ilon de teksto-al-bildo kiel Perchance.org kaj tajpas “bela virino”, tiam vi vidos la jenon: AI-bildoj generitaj en Perchance.org la 13-an de aŭgusto 2024. Bildoj de Tactical Tech.
+
+Se ĉi tiu ilo produktis ses bildojn de “bela virino”, kial ili aperas preskaŭ identaj?Klopodu mem: ĉu vi ricevas aliajn rezultojn?
+
+Pli grandaj studoj pri tiu temo okazis, kiuj montris similajn rezultojn. Vidu ekzemple la esploron ‘ Humans are biased. Generative AI is even worse. ‘ , komplete kun diagramoj kaj datumoj.
+
+AI-ilaro ne estas neŭtrala aŭ sen antaŭjuĝo. Ili estas kreitiaj de homoj kun siaj propraj interesoj. Eĉ iloj kiuj nomas sin ‘malfermitaj”, ne ĉiam estas travideblaj pri kiel ili funkcias kaj dum la fabrika dezajno jam povas esti vestitaj antaŭjuĝoj en la algoritmoj mem.
+
+Starigu al vi mem kritikajn demandojn pri la konstruado kaj trejnado de AI-modeloj por akiri ideon pri kiel AI apartenas al pli granda sistemo:
+
+Kiu estas la posedanto de tiuj entreprenoj malantaŭ tiu AI-teknologio?
+
+Kiel tiuj entreprenoj enspezas?
+
+Kiuj povo-strukturoj estas subtenataj de tiuj entreprenoj?
+
+Kiu ĝuas la plej multajn avantaĝojn de tiuj AI-iloj?
+
+Kiu estas ĉefe vundebla pro la riskoj de tiuj sistemoj?
+
+Se respondoj al tiuj demandoj estas malfacilaj aŭ eble ne troveblaj, tio jam klarigas multon.
+
+Ĉar teknologio estas kreita de homoj kaj estas nutrata pere de datumoj — kiuj ankaŭ estas kolektataj kaj etikedataj de homoj — ni povas konsideri teknologion kiel spegulon de jam ekzistantaj problemoj en la socio. Oni povas supozi ke AI fortigas ekzistantajn potenco-strukturojn kaj strukturajn antaŭjuĝojn, sed pli rapide kaj en pli vasta skalo ol antaŭe.
+
+Kiel vi lernis, mankhavaj pensmanieroj estas tute normalaj, kaj ĉiu ajn havas ilin iagrade. Estante nun konscie pripensanta viajn proprajn pensmanierojn, vi estonte pli bone povos eviti erarojn kaj pli rapide rekoni kie sistemoj kiel AI havas siajn mankojn.
+
+
+---
