@@ -1,16 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-MONATO の記事収集を複数プロセスで分割実行し、最後に結合して書き出す CLI。
-既存の parallel_scraper.py の手順を踏襲しつつ、サイト情報と出力名を調整。
+UEA Facila の記事収集を複数プロセスで分割実行し、最後に結合して書き出す CLI。
+Monato 版の並列実装に合わせ、まず URL を一括収集してから URL をワーカー間で分割し、
+本文取得を並列化します。
 """
+
+from __future__ import annotations
 
 import argparse
 import os
 import sys
 import time
 from concurrent.futures import ProcessPoolExecutor, as_completed
-from dataclasses import dataclass, replace
+from dataclasses import dataclass
+from dataclasses import replace
 from datetime import date, datetime, timedelta
 from typing import Dict, Iterable, List, Tuple
 
@@ -21,13 +25,16 @@ if ROOT not in sys.path:
     sys.path.insert(0, ROOT)
 
 from retradio_lib import ScrapeConfig, Article, export_all  # noqa: E402
-from Monato import monato_lib  # noqa: E402
-from Monato.monato_lib import collect_urls, fetch_article, shared_session as _session, set_progress_callback  # noqa: E402
-from Monato.scraper import _group_articles  # type: ignore  # noqa: E402
+from Uea_Facila.uea_facila_lib import (  # noqa: E402
+    collect_urls,
+    fetch_article,
+    shared_session as _session,
+    set_progress_callback,
+)
 
-DEFAULT_BASE_URL = "https://www.monato.be"
-SOURCE_LABEL = "MONATO (monato.be)"
-PREFIX = "monato"
+DEFAULT_BASE_URL = "https://uea.facila.org"
+SOURCE_LABEL = "UEA Facila (uea.facila.org)"
+PREFIX = "uea_facila"
 
 
 @dataclass
@@ -35,7 +42,6 @@ class WorkerArgs:
     index: int
     cfg: ScrapeConfig
     urls: List[str]
-    meta: Dict[str, Dict[str, object]]
 
 
 @dataclass
@@ -48,7 +54,7 @@ class WorkerResult:
 
 
 def parse_args() -> argparse.Namespace:
-    p = argparse.ArgumentParser(description="MONATO 期間指定スクレイパー (並列版)")
+    p = argparse.ArgumentParser(description="UEA Facila 期間指定スクレイパー (並列版)")
     p.add_argument("--start", help="開始日 YYYY-MM-DD")
     p.add_argument("--end", help="終了日 YYYY-MM-DD")
     p.add_argument(
@@ -60,7 +66,7 @@ def parse_args() -> argparse.Namespace:
         "--workers",
         type=int,
         default=4,
-        help="並列実行するワーカー数（期間の分割数、1以上）",
+        help="並列実行するワーカー数（1以上）",
     )
     p.add_argument(
         "--out",
@@ -73,36 +79,21 @@ def parse_args() -> argparse.Namespace:
         help="対象サイトのベース URL",
     )
     p.add_argument(
-        "--method",
-        default="feed",
-        choices=["auto", "rest", "both", "feed", "archive"],
-        help="URL収集方法（Monato は feed 推奨）",
-    )
-    p.add_argument(
         "--throttle",
         type=float,
-        default=1.0,
+        default=0.5,
         help="1リクエスト毎の遅延秒数（並列数に応じて適宜調整してください）",
     )
     p.add_argument(
         "--max-pages",
         type=int,
         default=None,
-        help="ページ送りの最大回数（Noneは制限なし）",
-    )
-    p.add_argument(
-        "--include-audio",
-        action="store_true",
-        help="本文メタに MP3 等の音声リンクも含める",
+        help="ストリームの最大ページ数（None は制限なし）",
     )
     p.add_argument(
         "--no-cache",
         action="store_true",
         help="requests-cache を使わない（並列実行時は自動で無効化されます）",
-    )
-    p.add_argument(
-        "--feed-url",
-        help="RSS/Atom フィード URL を直接指定（非 WordPress サイト向け）",
     )
     p.add_argument(
         "--split-by",
@@ -135,6 +126,34 @@ def resolve_date_range(args: argparse.Namespace) -> Tuple[date, date]:
     return start_d, end_d
 
 
+def _sort_articles(articles: Iterable[Article]) -> List[Article]:
+    def sort_key(article: Article):
+        if article.published:
+            pub_naive = (
+                article.published.replace(tzinfo=None)
+                if article.published.tzinfo
+                else article.published
+            )
+            return (pub_naive, article.url)
+        return (datetime.max, article.url)
+
+    return sorted(articles, key=sort_key)
+
+
+def _chunk_urls(data: List[str], chunks: int) -> List[List[str]]:
+    if chunks <= 1 or len(data) <= 1:
+        return [data]
+    size, remainder = divmod(len(data), chunks)
+    out: List[List[str]] = []
+    start = 0
+    for idx in range(chunks):
+        extra = 1 if idx < remainder else 0
+        end = start + size + extra
+        out.append(data[start:end])
+        start = end
+    return [chunk for chunk in out if chunk]
+
+
 def worker_task(args: WorkerArgs) -> WorkerResult:
     cfg = args.cfg
     cfg.normalize()
@@ -142,10 +161,6 @@ def worker_task(args: WorkerArgs) -> WorkerResult:
     session = _session(cfg)
     articles: List[Article] = []
     failures: List[str] = []
-
-    if args.meta:
-        monato_lib.MONATO_META.clear()
-        monato_lib.MONATO_META.update(args.meta)
 
     timer_start = time.perf_counter()
     for url in args.urls:
@@ -159,8 +174,8 @@ def worker_task(args: WorkerArgs) -> WorkerResult:
         finally:
             if cfg.throttle_sec > 0:
                 time.sleep(cfg.throttle_sec)
-
     timer_after_fetch = time.perf_counter()
+
     return WorkerResult(
         index=args.index,
         processed_urls=args.urls,
@@ -168,20 +183,6 @@ def worker_task(args: WorkerArgs) -> WorkerResult:
         failures=failures,
         timer_fetch=timer_after_fetch - timer_start,
     )
-
-
-def _sort_articles(articles: Iterable[Article]) -> List[Article]:
-    def sort_key(article: Article):
-        if article.published:
-            pub_naive = (
-                article.published.replace(tzinfo=None)
-                if article.published.tzinfo
-                else article.published
-            )
-            return (pub_naive, article.url)
-        return (datetime.max, article.url)
-
-    return sorted(articles, key=sort_key)
 
 
 def main() -> None:
@@ -197,24 +198,25 @@ def main() -> None:
         end_date=end_d,
         throttle_sec=args.throttle,
         max_pages=args.max_pages,
-        method=args.method,
-        include_audio_links=args.include_audio,
+        timeout_sec=60,
+        max_retries=5,
+        method="feed",  # dummy (not used by uea_facila_lib)
+        include_audio_links=True,
         use_cache=not args.no_cache,
         source_label=SOURCE_LABEL,
-        feed_url_override=args.feed_url,
     )
+
     set_progress_callback(None)
 
     timer_collect_start = time.perf_counter()
     url_result = collect_urls(cfg_base)
     total_collect = time.perf_counter() - timer_collect_start
-
     urls = url_result.urls
     total_urls = len(urls)
+
     if total_urls == 0:
         print(
-            f"[INFO] 並列スクレイプ開始: {start_d} ～ {end_d} "
-            f"(workers=0, method={cfg_base.method})"
+            f"[INFO] 並列スクレイプ開始: {start_d} ～ {end_d} (workers=0)"
         )
         print("[INFO] URL が見つかりませんでした。")
         all_articles: List[Article] = []
@@ -229,31 +231,17 @@ def main() -> None:
             print("[INFO] 並列実行では requests-cache を無効化しました（SQLite のロック競合回避）。")
 
         print(
-            f"[INFO] 並列スクレイプ開始: {start_d} ～ {end_d} "
-            f"(workers={actual_workers}, method={cfg_base.method})"
+            f"[INFO] 並列スクレイプ開始: {start_d} ～ {end_d} (workers={actual_workers})"
         )
 
-        def chunk_urls(data: List[str], chunks: int) -> List[List[str]]:
-            size, remainder = divmod(len(data), chunks)
-            out: List[List[str]] = []
-            start = 0
-            for idx in range(chunks):
-                extra = 1 if idx < remainder else 0
-                end = start + size + extra
-                out.append(data[start:end])
-                start = end
-            return [chunk for chunk in out if chunk]
-
-        meta_snapshot = monato_lib.MONATO_META.copy()
-        chunks = chunk_urls(urls, actual_workers)
+        chunks = _chunk_urls(urls, actual_workers)
         workers: List[WorkerArgs] = [
-            WorkerArgs(index=i, cfg=cfg_base, urls=chunk, meta=meta_snapshot)
-            for i, chunk in enumerate(chunks, start=1)
+            WorkerArgs(index=i, cfg=cfg_base, urls=chunk) for i, chunk in enumerate(chunks, start=1)
         ]
 
         results: List[WorkerResult] = []
         total_fetch = 0.0
-        overall_failures = []
+        overall_failures: List[str] = []
 
         if actual_workers == 1:
             results.append(worker_task(workers[0]))
@@ -276,8 +264,7 @@ def main() -> None:
             overall_failures.extend(result.failures)
             all_articles.extend(result.articles)
             print(
-                f"[INFO] ワーカー #{result.index}: "
-                f"URL {len(result.processed_urls)} 件 | 本文 {len(result.articles)} 本 | "
+                f"[INFO] ワーカー #{result.index}: URL {len(result.processed_urls)} 件 | 本文 {len(result.articles)} 本 | "
                 f"本文取得 {result.timer_fetch:.1f}s"
             )
 
@@ -285,23 +272,30 @@ def main() -> None:
     print(f"[INFO] 抽出完了: {len(all_articles)} 本")
     if url_result.earliest_date and url_result.latest_date:
         print(
-            f"[INFO] URL 範囲（推定公開日）: "
-            f"{url_result.earliest_date} ～ {url_result.latest_date}"
+            f"[INFO] URL 範囲（推定公開日）: {url_result.earliest_date} ～ {url_result.latest_date}"
         )
     print(
-        "[INFO] 集計: "
-        f"feed {url_result.feed_used}/{url_result.feed_initial} | "
-        f"archive {url_result.archive_used}/{url_result.archive_initial} | "
-        f"rest {url_result.rest_used}/{url_result.rest_initial} | "
-        f"duplicates removed {url_result.duplicates_removed} | "
-        f"out-of-range skipped {url_result.out_of_range_skipped}"
+        f"[INFO] 累計時間: URL収集 {total_collect:.1f}s / 本文取得 {total_fetch:.1f}s"
     )
-    print(f"[INFO] 累計時間: URL収集 {total_collect:.1f}s / 本文取得 {total_fetch:.1f}s")
-
     if total_urls > 0 and overall_failures:
         print("[WARN] 取得失敗一覧:")
         for fail in overall_failures:
             print(f"  - {fail}")
+
+    # 出力
+    def _group_articles(articles: Iterable[Article], mode: str):
+        if mode == "none":
+            return [("all", list(articles))]
+        from collections import OrderedDict
+        groups: Dict[str, List[Article]] = OrderedDict()
+        for art in articles:
+            if art.published:
+                d = art.published.date()
+                key = f"{d.year}" if mode == "year" else f"{d.year}-{d.month:02d}"
+            else:
+                key = "unknown"
+            groups.setdefault(key, []).append(art)
+        return list(groups.items())
 
     groups = _group_articles(all_articles, args.split_by)
     os.makedirs(args.out, exist_ok=True)
@@ -317,12 +311,7 @@ def main() -> None:
         else:
             safe_label = label.replace("/", "-")
             basename = f"{PREFIX}_{safe_label}"
-        paths = export_all(
-            subset,
-            cfg_chunk,
-            args.out,
-            basename=basename,
-        )
+        paths = export_all(subset, cfg_chunk, args.out, basename=basename)
         for kind, path in paths.items():
             if args.split_by == "none":
                 print(f"[DONE] {kind.upper()}: {path}")

@@ -121,6 +121,8 @@ def worker_task(args: WorkerArgs) -> WorkerResult:
     for url in args.urls:
         try:
             article = fetch_article(url, cfg, session)
+            if article.published and not (cfg.start_date <= article.published.date() <= cfg.end_date):
+                continue
             articles.append(article)
         except Exception as exc:  # noqa: BLE001
             failures.append(f"{url} ({exc})")

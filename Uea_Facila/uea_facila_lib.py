@@ -97,8 +97,18 @@ def _stream_page_urls(
         url = f"{base}{STREAM_PATH}"
         if page > 1:
             url = f"{url}?page={page}"
-        resp = session.get(url, timeout=cfg.timeout_sec)
-        resp.raise_for_status()
+        attempt = 1
+        while True:
+            try:
+                resp = session.get(url, timeout=cfg.timeout_sec)
+                resp.raise_for_status()
+                break
+            except requests.RequestException as exc:
+                if attempt >= cfg.max_retries:
+                    raise
+                backoff = min(5.0 * attempt, 30.0)
+                time.sleep(backoff)
+                attempt += 1
         soup = BeautifulSoup(resp.content, "lxml")
         yield soup
         page += 1
