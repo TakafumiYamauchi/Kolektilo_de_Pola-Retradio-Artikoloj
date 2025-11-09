@@ -1,6 +1,6 @@
 ---
 source: "Global Voices en Esperanto (eo.globalvoices.org)"
-generated_at: "2025-11-09T03:58:02.957193+00:00"
+generated_at: "2025-11-09T06:27:51.114032+00:00"
 generator: "retradio_lib.py"
 time_range: "2023-01-02 – 2023-12-31"
 ---

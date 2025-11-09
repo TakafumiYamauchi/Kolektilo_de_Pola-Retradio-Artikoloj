@@ -1,40 +1,10 @@
 ---
 source: "MONATO (monato.be)"
-generated_at: "2025-11-09T04:03:40.453160+00:00"
+generated_at: "2025-11-09T12:38:27.762618+00:00"
 generator: "retradio_lib.py"
-time_range: "2010-01-01 – 2025-11-08"
+time_range: "2022-01-01 – 2022-12-31"
 ---
 
-
-# Nova 100-stela monero!
-
-**URL:** https://www.monato.be/2018/012111.php?p
-
-**Categories:** Aktuale
-
-NOVA 100-STELA MONERO! Unu unco (31,1 g) da pura arĝento! Limigita eldonkvanto 1000. Valora donaco. Prezo 59 €. esperanto@chello.at.
-
-
----
-
-# Trihejmaj virinoj
-
-**URL:** https://www.monato.be/2020/012717.php?p
-
-**Author:** XU Jinming
-
-**Categories:** Aktuale, ĈINIO, Moderna vivo
-
-Ĵusaj geedzoj forlasas la hejmon de siaj gepatroj kaj kreas sian propran. En tiu dua hejmo ili vivas pli ol tridek jarojn.
-
-Naskinte idon, la gepatroj tuj konstruas kiel eble plej komfortan domon, kie la naskito vivas kutime pli ol dudek jarojn. Nuntempe, multaj mezaĝaj virinoj loĝas portempe en tri hejmoj en Ĉinio.
-
-Kutime, mezaĝaj avinoj devas loĝi en la hejmo de sia nepo aŭ nepino, ĉar laŭ la ĉina socia asekuro virinoj rajtas ricevi pension ekde la aĝo de 50 jaroj, kaj ili havas multan liberan tempon kaj energion.
-
-La gepatroj de mezaĝaj avinoj probable ankoraŭ vivas, tamen ili ofte bezonas helpon pro maljuneco, kaj iliaj filinoj estas la plej taŭgaj helpantoj. Pro tio, tiaj avinoj denove loĝas en la hejmo de siaj gepatroj.
-
-
----
 
 # Diskutoj pri la estonteco de Ukrainio
 

@@ -1,6 +1,6 @@
 ---
 source: "MONATO (monato.be)"
-generated_at: "2025-11-09T04:03:40.312398+00:00"
+generated_at: "2025-11-09T12:38:27.669572+00:00"
 generator: "retradio_lib.py"
 time_range: "2022-01-01 – 2022-12-01"
 ---
@@ -6271,41 +6271,6 @@ Post la elizabeta epoko, kia estas la nova monarkio? Ĉu ĝi povos ekzisti daŭr
 Nun evidentiĝis kelkaj kontraŭdiroj en la koro de la brita demokratio. Du tagojn antaŭ ol Elizabeto mortis, ŝi enoficigis novan ĉefministron, Liz Truss. Tamen, nur la membroj de la Konservativa Partio elektis ŝin, do la neelektita monarko enoficigis nepublike elektitan ĉefministron. La reĝo estas ĉefo de la Eklezio de Anglio, kiu havas neelektitajn membrojn en la Ĉambro de Lordoj.
 
 Dum mi skribas, la parlamento ne kunvenas: la energio-krizo, la plialtiĝo de la kostoj kaj la terurega invado en Ukrainion ne estas temoj priparolataj. Policistoj dume arestis la protestantojn, kiuj havis tabulon kun la diraĵo „Li ne estas mia reĝo”.
-
-
----
-
-# Vivado ĉe akvo de la rivero Nemunas
-
-**Published:** 2022-11-21
-
-**URL:** https://www.monato.be/2023/013094.php?p
-
-**Author:** LAST
-
-**Categories:** Aktuale, LITOVIO, Moderna vivo
-
-Litovio ne-ofte suferas pro la klimato. Tamen ekzistas tradicia fenomeno kutima en tiu ĉi lando: la ĉiujara printempa inundo en apudmara regiono.
-
-Kiam postvintre la degelo de neĝo regalas la plej grandan riveron Nemunas per akvo, la rivero pleniĝas tiom, ke Kurona Laguno ne kapablas akcepti ĝian akvon. Ne malofte al la fenomeno kontribuas ankaŭ flosantaj glacipecoj, kiuj iom post iom blokas la akvofluon kaj formas fortan digon. Tiam okazas inundoj: subakviĝas vojoj, paŝtejoj, laborkampoj, arbaroj, kaj akvo eniras eĉ en domojn.
-
-Ordinara inundo kutime subakvigas ĉirkaŭ 14 000 hektarojn da teritorio. Loĝantoj memoras la inundon de 1994 kiel la plej fortan. Tiam la akvo „konkeris” ĉirkaŭ 47 000 hektarojn da tereno kun 158 privataj domoj kaj 350 loĝantoj ene.
-
-Alilokaj litovoj konsideras la ĉiujaran „akvofreneziĝon” ekstreme danĝera fenomeno. Multaj venas al la laguno por fari memorindajn fotojn. Tamen, lokuloj akceptas tiujn akvajn defiojn tute trankvile. Ili diras, ke estus pli strange se printempe ne okazus inundo. Ili akceptas la vivon tia, kia ĝi estas. Neniu forkuras de la malfacilaĵoj. Okazas, ke aliaj homoj precipe junaj translokiĝas al tiu regiono por sperti la naturan potencon, antaŭ kiu la homo estas preskaŭ senforta.
-
-Monika Dobrovolskytė komforte vivis en Vilnius. Tamen, antaŭ pli ol dek jaroj ŝi decidis translokiĝi al vilaĝo Šyša apud Kurona Laguno. Ankoraŭ en sia infanaĝo ŝi venadis ĉi tien kun siaj gepatroj por ĝui la nekutiman pejzaĝon. Ŝi konfesas: „Kiam mi unuafoje vidis la inundon, ĝi tuj kortuŝis min. Ekde kiam mi loĝas ĉi tie fojfoje mi pensas, ke kiam oni enkarcerigas vin, via unua reago estas forkuri. Sed kiam vi iom pli longe loĝas ĉi tie, vi komprenas, ke oni ne devas forkuri.” Tiuj, kiuj loĝas ĉi tie dum jardekoj, alkutimiĝis al inundoj; ili antaŭe preparas sin kaj la akvo en la korto ne plu surprizas ilin.
-
-Monika rakontas, ke ŝia vivmaniero forte ŝanĝiĝis kompare kun tiu en la ĉefurbo. „Vi ne povas vivi senzorge ĉi tie. Vi devas konscii pri la situacio kaj peni konservi konvenan distancon de la akvo. La inundoj estas malsamaj ĉiujare. Oni ne povas antaŭdiri, kiaj ili estos. Mi legas hidrologiajn informojn en Interreto kaj kontrolas la nivelon de la riveroj. Se Nemunas jam forte altiĝis je 100 km de ni, mi scias, ke la ondo venos ĉi tien post nelonge. Kiam la akvonivelo komencas altiĝi, loĝantoj ofte endormiĝas kun la manoj pendantaj por scii kiam la akvo venos en la salonon. Mi ne dormas tiel, sed kiam la akvonivelo altiĝas, mi plurfoje vekiĝas nokte por kontroli tra la fenestro de kie kaj kiom da akvo aperis. Ĝi estas neantaŭvidebla forto”, rakontas Monika.
-
-Por la lokuloj la plej timiga afero estas la subita degelo kaj la ŝtopiĝanta rivero. Aparte danĝeraj situacioj estiĝas, kiam la akvo ankoraŭ portas glacipecojn. Se la korto ne estas protektata de arboj, tiuj glacioj povas detrui ĉion, kion ili renkontas survoje. Sekve de tio, en la pasinteco malaperis eĉ domoj.
-
-Dum la jaroj loĝantoj lernadas pri la vivado ĉe akvo. Ili konstruas domojn sur pli altaj lokoj, kaj la pordojn oni aranĝas tiel, ke ili malfermiĝas internen por eviti, ke glaciiĝinta akvo bloku ilin. Aliajn konstruaĵojn oni faras sur blokoj aŭ ŝtonoj. Gravaj objektoj de la ĉiutaga vivo estas ŝnurataj tiel, ke akvofluo ne povu „forŝteli” ilin.
-
-Antaŭ la alveno de inundo la loĝantoj metas katojn kaj hundojn sur grenejojn, aŭ trovas lokon por ili en subtegmenta spaco ene de la domo. Ankaŭ domobjektoj estas metataj en pli altajn lokojn. Ĉiuj posedas specialan vestaĵon por moviĝi en la akvo, kiu foje povas superi la nivelon de unu metro. Cetere, ĉiu familio havas boaton.
-
-Monika aldonis, ke printempe ŝian domon ĉirkaŭas kvazaŭ oceano: unu domangulo troviĝas 50 metrojn for de akvo, sed alia nur 5 metrojn. En sia korto ŝi havas propran boaton ŝnuritan al la korta pordego, kaj ŝi uzas ĝin por iri al la proksimaj urbetoj (Rusnė kaj Šilutė). Tamen la vetero ne ĉiam permesas boati: foje la akvofluo estas tro forta, aŭ glacipecoj flosas. Okazas, ke dum du semajnoj ŝi restas kvazaŭ en malliberejo. „Do, mi ĉiam devas zorgi pri tio, ke manĝoprovizoj sufiĉu por almenaŭ tri monatoj. Krome, mi ĉiam devas moviĝi nur tage, ĉar nokte ne estas sekure”, ŝi aldonas.
-
-Feliĉe, Monika laboras en la turisma kampo, kaj siajn taskojn ŝi povas ofte fari per komputilo. Ŝi rimarkis, ke dum la lastaj jaroj ne nur ŝi estas tiel freneza pro inundoj. Pli kaj pli da junaj familioj emas translokiĝi al tiu akvema regiono, kelkfoje sciante nek kio okazas tie printempe, nek ke ili ne povos foriri de la hejmoj dum monatoj.
 
 
 ---

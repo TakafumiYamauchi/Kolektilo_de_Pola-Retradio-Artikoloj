@@ -1,6 +1,6 @@
 ---
 source: "MONATO (monato.be)"
-generated_at: "2025-11-09T04:03:40.363821+00:00"
+generated_at: "2025-11-09T12:40:10.308762+00:00"
 generator: "retradio_lib.py"
 time_range: "2023-01-01 – 2023-12-01"
 ---

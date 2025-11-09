@@ -1,6 +1,6 @@
 ---
 source: "El Popola Ĉinio (esperanto.china.org.cn)"
-generated_at: "2025-11-09T04:01:28.595953+00:00"
+generated_at: "2025-11-09T06:31:08.923889+00:00"
 generator: "retradio_lib.py"
 time_range: "2016-01-12 – 2016-12-30"
 ---

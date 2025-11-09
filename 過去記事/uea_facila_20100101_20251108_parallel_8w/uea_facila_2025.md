@@ -1,6 +1,6 @@
 ---
 source: "UEA Facila (uea.facila.org)"
-generated_at: "2025-11-08T17:38:28.084440+00:00"
+generated_at: "2025-11-09T12:26:22.773344+00:00"
 generator: "retradio_lib.py"
 time_range: "2025-01-04 – 2025-11-02"
 ---
@@ -2722,21 +2722,6 @@ signo-lingvo: lingvo uzata de neaŭdantoj, kiuj interparolas ne per vortoj, sed 
 
 ---
 
-# La lasta somero - Martin & la talpoj
-
-**Published:** 2025-08-23
-
-**URL:** https://uea.facila.org/filmetoj/la-lasta-somero-martin-la-talpoj-r360
-
-**Categories:** Filmetoj
-
-[Embed] https://www.youtube.com/embed/dT7BJiMNGJ8?width=100%25&height=86.25
-
-Ĉu laŭ via opinio la filmeto estas facila aŭ malfacila por Esperanto-lernantoj? malfacila , tre facila
-
-
----
-
 # Rezolucio de la 110-a Universala Kongreso de Esperanto en Burno
 
 **Published:** 2025-08-26
@@ -3516,6 +3501,8 @@ Malgranda saketo fiksita al ŝnuro: tiu baza modelo ne ŝanĝiĝis de pli ol cen
 Myrtis Smith
 
 3
+
+1
 
 1
 

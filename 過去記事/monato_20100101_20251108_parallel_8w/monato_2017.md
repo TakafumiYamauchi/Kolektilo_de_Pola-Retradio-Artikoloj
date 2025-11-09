@@ -1,6 +1,6 @@
 ---
 source: "MONATO (monato.be)"
-generated_at: "2025-11-09T04:03:39.645522+00:00"
+generated_at: "2025-11-09T12:31:42.934161+00:00"
 generator: "retradio_lib.py"
 time_range: "2017-01-01 – 2017-12-01"
 ---
@@ -1501,6 +1501,21 @@ Dekomence kolekto de pisanka-ovoj estis konservata en la muzeo de Kolomyja, sed 
 La ĉefa parto de la pisanka-kolekto estas kolorigitaj paskaj ovoj el diversaj lokoj de Ukrainio, kaj ankaŭ el Belorusio, Ĉeĥio, Pollando, Svedio kaj aliaj. Krome ĉi tie videblas eksponaĵoj el foraj partoj de la mondo kiel Indonezio, Barato, Pakistano kaj aliaj landoj.
 
 Tradicio de la muzeo estas, ke ĉiu altranga vizitanto lasu sian „spuron”: aŭtografon sur speciale preparita ovo, post kio pentristo kolorigas ĝin en pisanka-stilo. Do, se vi venus al Kolomyja, nepre vizitu kaj ĝuu tiun vidindan muzeon.
+
+
+---
+
+# Fiksdataj mondeponoj
+
+**Published:** 2017-04-01
+
+**URL:** https://www.monato.be/2017/000005.php?p
+
+**Author:** pp
+
+**Categories:** Aktuale
+
+La rento de la fiksdataj mondeponoj ĉe Flandra Esperanto-Ligo, populare nomataj „verdaj kontoj”, ekde la 1a de marto 2017 estas 0,2 %. Pli da informoj pri tiuj deponoj troviĝas en la retpaĝo www.esperanto.be/fel/fin/verdakon.php .
 
 
 ---
