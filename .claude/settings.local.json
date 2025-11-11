@@ -1,10 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(lsof -i :1455)",
-      "Bash(netstat -tuln)",
-      "Bash(codex login --help)",
-      "Bash(codex --help)"
+      "Bash(rm:*)",
+      "Bash(python3:*)",
+      "Bash(.venv/bin/pip:*)"
     ],
     "deny": [],
     "ask": []

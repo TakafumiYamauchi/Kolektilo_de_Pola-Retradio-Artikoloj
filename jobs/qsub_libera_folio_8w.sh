@@ -4,9 +4,9 @@
 #$ -V
 #$ -q all.q
 #$ -pe openmpi8 8
-#$ -N elpopola_8w
-#$ -o logs/elpopola_qsub_20100101_20251108_8w.out
-#$ -e logs/elpopola_qsub_20100101_20251108_8w.err
+#$ -N libera_folio_8w
+#$ -o logs/libera_folio_qsub_20100101_20251108_8w.out
+#$ -e logs/libera_folio_qsub_20100101_20251108_8w.err
 
 ulimit -s unlimited
 export OMP_NUM_THREADS=8
@@ -18,16 +18,17 @@ fi
 START="2010-01-01"
 END="2025-11-08"
 
-OUT_DIR="output/elpopola_20100101_20251108_parallel_8w"
-LOG_PREFIX="logs/elpopola_parallel_20100101_20251108_8w"
+OUT_DIR="output/libera_folio_20100101_20251108_parallel_8w"
+LOG_PREFIX="logs/libera_folio_parallel_20100101_20251108_8w"
 mkdir -p "$OUT_DIR" "$(dirname "$LOG_PREFIX")"
 
-"$PYTHON_BIN" "El Popola Ĉinio/parallel_scraper.py" \
+# Only run the WordPress-era REST crawler; legacy archive job moved to ./fuyou.
+"$PYTHON_BIN" "Libera Folio/parallel_scraper.py" \
   --start "$START" \
   --end "$END" \
   --workers 8 \
-  --throttle 1.0 \
-  --max-pages 80 \
+  --method rest \
+  --throttle 0.5 \
   --split-by year \
   --out "$OUT_DIR" \
   > "${LOG_PREFIX}.out" 2> "${LOG_PREFIX}.err"

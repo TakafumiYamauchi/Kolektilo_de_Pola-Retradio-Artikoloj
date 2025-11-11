@@ -6,7 +6,7 @@
 
 ### 対応サイト
 
-このツールは、以下の6つのエスペラント関連ウェブサイトからの記事収集をサポートしています：
+このツールは、以下のエスペラント関連ウェブサイトからの記事収集をサポートしています：
 
 1. **El Popola Ĉinio** (esperanto.china.org.cn) - 中国政府系ポータルのエスペラント版
 2. **Global Voices en Esperanto** (eo.globalvoices.org) - 多言語市民メディアのエスペラント版
@@ -14,6 +14,7 @@
 4. **Scivolemo** (scivolemo.wordpress.com) - 科学読み物ブログ
 5. **Pola Retradio** (pola-retradio.org) - ポーランドのエスペラント放送
 6. **UEA Facila** (uea.facila.org) - 世界エスペラント協会の記事・動画プラットフォーム
+7. **Libera Folio** (liberafolio.org) - エスペラント界のニュースサイト
 
 ---
 
@@ -66,6 +67,7 @@ UIの言語は、アプリケーション内のセレクトボックスで動的
   - Scivolemo: 2017年1月1日以降
   - Pola Retradio: 2011年1月1日以降
   - UEA Facila: 2017年1月1日以降
+  - Libera Folio: 2016年1月1日以降（WordPress 版のみ対応。旧CMS 2003–2015 は取得対象外）
 
 ### 4. 収集方法の選択
 
@@ -101,7 +103,7 @@ UIの言語は、アプリケーション内のセレクトボックスで動的
 - 0を指定すると無制限（デフォルト）
 - 1以上を指定すると、その回数までページをクロール
 
-**対応サイト**: Global Voices、Pola Retradio、UEA Facila、El Popola Ĉinio
+**対応サイト**: Global Voices、Pola Retradio、UEA Facila、El Popola Ĉinio、Libera Folio
 
 #### 音声・埋め込みリンクの取得
 

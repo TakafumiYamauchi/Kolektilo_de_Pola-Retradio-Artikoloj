@@ -256,6 +256,23 @@ NOISE_SNIPPETS = [
     "Skani la du-dimensian kodon",
 ]
 
+FALLBACK_SELECTORS = (
+    "#content",
+    "#contentArea",
+    "#main",
+    "#center",
+    ".content",
+    ".article",
+    ".article-content",
+    ".main",
+    "article",
+)
+
+DATE_PATTERNS = [
+    re.compile(r"(20\d{2})-(\d{2})-(\d{2})"),
+    re.compile(r"(20\d{2})/(\d{2})/(\d{2})"),
+]
+
 
 def _clean_paragraphs(lines: Iterable[str]) -> List[str]:
     cleaned: List[str] = []
@@ -293,32 +310,26 @@ def fetch_article(url: str, cfg: ScrapeConfig, session: Optional[requests.Sessio
     html = resp.text
     soup = BeautifulSoup(html, "lxml")
 
-    first_table = soup.find("table")
-    if not first_table:
-        raise ValueError(f"article structure unexpected: {url}")
-
-    rows = first_table.find_all("tr")
-    if not rows:
-        raise ValueError(f"article rows missing: {url}")
-
-    title = base_clean_text(rows[0].get_text(" ", strip=True))
-    date_str = rows[1].get_text(" ", strip=True) if len(rows) > 1 else ""
-
     meta = EPC_META.get(url, {})
     published = meta.get("published")
-    if not published:
-        try:
-            published = datetime.strptime(date_str, "%Y-%m-%d")
-        except Exception:
-            parsed = _parse_date_from_url(url)
-            published = parsed
 
-    content_td = rows[3].find("td") if len(rows) > 3 else rows[-1].find("td")
-    if not content_td:
-        content_td = first_table
+    legacy = _extract_legacy_article(soup)
+    if legacy:
+        title, date_str, content_node = legacy
+        if not published:
+            published = _parse_explicit_date(date_str) or _parse_date_from_url(url)
+        raw_lines = [line for line in content_node.get_text("\n").split("\n")]
+        paragraphs = _clean_paragraphs(raw_lines)
+    else:
+        title = base_clean_text(meta.get("title") or _fallback_title(soup)) or url
+        if not published:
+            published = _extract_date_from_document(soup) or _parse_date_from_url(url)
+        content_node = _fallback_article_root(soup)
+        raw_lines = [line for line in content_node.get_text("\n").split("\n")]
+        paragraphs = _clean_paragraphs(raw_lines)
+        if not paragraphs:
+            paragraphs = [base_clean_text(content_node.get_text(" ", strip=True))]
 
-    raw_lines = [line for line in content_td.get_text("\n").split("\n")]
-    paragraphs = _clean_paragraphs(raw_lines)
     content_text = "\n\n".join(paragraphs)
 
     author = _extract_author(html)
@@ -335,6 +346,81 @@ def fetch_article(url: str, cfg: ScrapeConfig, session: Optional[requests.Sessio
         categories=categories,
         audio_links=None,
     )
+
+
+def _extract_legacy_article(soup: BeautifulSoup) -> Optional[tuple[str, str, BeautifulSoup]]:
+    first_table = soup.find("table")
+    if not first_table:
+        return None
+    rows = first_table.find_all("tr")
+    if len(rows) < 2:
+        return None
+    title = base_clean_text(rows[0].get_text(" ", strip=True))
+    date_str = rows[1].get_text(" ", strip=True)
+    content_td = rows[3].find("td") if len(rows) > 3 else rows[-1].find("td")
+    if not content_td:
+        content_td = first_table
+    return title, date_str, content_td
+
+
+def _parse_explicit_date(value: str) -> Optional[datetime]:
+    text = (value or "").strip()
+    if not text:
+        return None
+    try:
+        return datetime.strptime(text, "%Y-%m-%d")
+    except Exception:
+        match = DATE_PATTERNS[0].search(text)
+        if match:
+            year, month, day = map(int, match.groups())
+            try:
+                return datetime(year, month, day)
+            except ValueError:
+                return None
+    return None
+
+
+def _fallback_article_root(soup: BeautifulSoup) -> BeautifulSoup:
+    for selector in FALLBACK_SELECTORS:
+        node = soup.select_one(selector)
+        if node:
+            for bad in node.select("script, style, nav, header, footer, aside, noscript"):
+                bad.decompose()
+            return node
+    body = soup.body or soup
+    for bad in body.select("script, style, nav, header, footer, aside, noscript"):
+        bad.decompose()
+    return body
+
+
+def _fallback_title(soup: BeautifulSoup) -> str:
+    h1 = soup.find("h1")
+    if h1:
+        return h1.get_text(" ", strip=True)
+    if soup.title:
+        return soup.title.get_text(" ", strip=True)
+    return ""
+
+
+def _extract_date_from_document(soup: BeautifulSoup) -> Optional[datetime]:
+    for selector in ["time", ".publish-time", ".pubtime", ".date", ".info"]:
+        node = soup.select_one(selector)
+        if not node:
+            continue
+        candidate = node.get("datetime") or node.get_text(" ", strip=True)
+        parsed = _parse_explicit_date(candidate or "")
+        if parsed:
+            return parsed
+    text_sample = soup.get_text(" ", strip=True)
+    for pattern in DATE_PATTERNS:
+        match = pattern.search(text_sample)
+        if match:
+            year, month, day = map(int, match.groups())
+            try:
+                return datetime(year, month, day)
+            except ValueError:
+                continue
+    return None
 
 
 __all__ = [

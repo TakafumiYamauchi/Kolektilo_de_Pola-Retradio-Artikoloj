@@ -236,6 +236,11 @@ DESCRIPTIONS: Dict[str, Dict[str, str]] = {
         "ko": "UEA.facila.org의 기사와 동영상입니다. Invision Community 기반이라 맞춤형 스크레이퍼를 사용합니다.",
         "eo": "Artikoloj kaj filmetoj el UEA.facila.org. Baziĝas sur Invision Community, tial ni uzas adaptitan skrapilon.",
     },
+    "Libera Folio": {
+        "ja": "エスペラント界のニュースサイト Libera Folio。2016年以降の WordPress 記事を REST API で収集（旧CMS 2003–2015 は対象外）。",
+        "ko": "에스페란토계 뉴스 사이트 Libera Folio. 2016년 이후 WordPress 글만 REST API로 수집하며 구 CMS(2003–2015)는 제외됩니다.",
+        "eo": "Novaĵretejo Libera Folio. Ni kolektas la WordPress-artikolojn ekde 2016 per REST (la malnova CMS 2003–2015 ne estas subtenata).",
+    },
 }
 
 
@@ -266,6 +271,7 @@ def _build_sources(lang: str):
             "methods": ["feed"],
             "default_method": "feed",
             "supports_max_pages": True,
+            "max_pages_default": 80,
             "include_audio_option": False,
             "throttle_default": 1.0,
             "min_date": date(2005, 1, 1),
@@ -279,7 +285,7 @@ def _build_sources(lang: str):
             "session": retradio_session,
             "set_progress": retradio_set_progress,
             "methods": ["auto", "rest", "feed", "archive", "both"],
-            "default_method": "rest",
+            "default_method": "both",
             "supports_max_pages": True,
             "include_audio_option": False,
             "throttle_default": 0.5,
@@ -341,10 +347,26 @@ def _build_sources(lang: str):
             "methods": ["feed"],
             "default_method": "feed",
             "supports_max_pages": True,
+            "max_pages_default": 400,
             "include_audio_option": True,
             "throttle_default": 0.5,
             "min_date": date(2017, 1, 1),
             "source_label": "UEA Facila (uea.facila.org)",
+        },
+        "Libera Folio": {
+            "description": DESCRIPTIONS["Libera Folio"].get(lang, DESCRIPTIONS["Libera Folio"]["ja"]),
+            "base_url": "https://www.liberafolio.org",
+            "collect": retradio_collect_urls,
+            "fetch": retradio_fetch_article,
+            "session": retradio_session,
+            "set_progress": retradio_set_progress,
+            "methods": ["rest"],
+            "default_method": "rest",
+            "supports_max_pages": False,
+            "include_audio_option": False,
+            "throttle_default": 0.5,
+            "min_date": date(2016, 1, 1),
+            "source_label": "Libera Folio (liberafolio.org)",
         },
     }
     return SOURCES
@@ -444,10 +466,11 @@ def run_app(lang: str = "ja") -> None:
 
     max_pages_value = None
     if source_cfg.get("supports_max_pages", False):
+        max_pages_default = int(source_cfg.get("max_pages_default") or 0)
         max_pages_input = st.number_input(
             _t(current_lang, "max_pages"),
             min_value=0,
-            value=0,
+            value=max_pages_default,
             step=1,
         )
         max_pages_value = None if max_pages_input == 0 else int(max_pages_input)

@@ -11,6 +11,8 @@ CLI flow keeps working.
 from __future__ import annotations
 
 import re
+import logging
+import time
 from dataclasses import dataclass
 from datetime import datetime, date
 from typing import Dict, Iterable, List, Optional, Tuple
@@ -29,6 +31,8 @@ from retradio_lib import (  # type: ignore
 )
 
 USER_AGENT = "Mozilla/5.0 (compatible; MonatoScraper/1.0; +https://www.monato.be)"
+WAYBACK_CDX_ENDPOINT = "https://web.archive.org/cdx/search/cdx"
+WAYBACK_SNAPSHOT_URL = "https://web.archive.org/web/{timestamp}/{original}"
 
 MONATO_META: Dict[str, Dict[str, Optional[datetime]]] = {}
 
@@ -54,6 +58,19 @@ def _parse_issue_date(raw: str) -> Optional[datetime]:
     if not raw:
         return None
     m = re.search(r"(\d{4})/(\d{2})(?:-(\d{2}))?", raw)
+    if not m:
+        return None
+    year = int(m.group(1))
+    month = int(m.group(2))
+    try:
+        return datetime(year, month, 1)
+    except ValueError:
+        return None
+
+
+def _parse_issue_hint_from_text(node: Tag) -> Optional[datetime]:
+    text = _clean_space(node.get_text(" ", strip=True))
+    m = re.search(r"(20\d{2})/(0[1-9]|1[0-2])", text)
     if not m:
         return None
     year = int(m.group(1))
@@ -158,11 +175,12 @@ def _collect_from_current(cfg: ScrapeConfig, session: requests.Session) -> List[
                     author_hint = parts[0]
                 if len(parts) > 1:
                     category = parts[1]
+                published = _parse_issue_hint_from_text(li)
                 entries.append(
                     _CollectedEntry(
                         url=href,
                         title=title,
-                        published=None,
+                        published=published,
                         category=_clean_space(category) if category else None,
                         section=section or None,
                         author_hint=_clean_space(author_hint) if author_hint else None,
@@ -274,6 +292,10 @@ def fetch_article(url: str, cfg: ScrapeConfig, session: Optional[requests.Sessio
     s = session or shared_session(cfg)
     s.headers.update({"User-Agent": USER_AGENT})
     resp = s.get(url, timeout=cfg.timeout_sec)
+    if resp.status_code == 404:
+        archived = _fetch_archived_copy(url, s, cfg.timeout_sec)
+        if archived is not None:
+            resp = archived
     resp.raise_for_status()
     soup = BeautifulSoup(resp.content, "lxml")
 
@@ -284,6 +306,7 @@ def fetch_article(url: str, cfg: ScrapeConfig, session: Optional[requests.Sessio
     meta = MONATO_META.get(url, {})
     published_dt = meta.get("published")
     author_hint = meta.get("author_hint")
+    primary_table = soup.find("table")
 
     footer_divs = container.find_all("div", attrs={"style": re.compile(r"text-align:\\s*right")})
     author: Optional[str] = None
@@ -304,6 +327,11 @@ def fetch_article(url: str, cfg: ScrapeConfig, session: Optional[requests.Sessio
     body_paragraphs = _extract_paragraphs(container)
     content_text = "\n\n".join(body_paragraphs)
 
+    if not published_dt:
+        fallback = _extract_last_adapto(primary_table)
+        if fallback:
+            published_dt = fallback
+
     return Article(
         url=url,
         title=title,
@@ -313,6 +341,60 @@ def fetch_article(url: str, cfg: ScrapeConfig, session: Optional[requests.Sessio
         categories=categories or None,
         audio_links=None,
     )
+
+
+def _extract_last_adapto(first_table: Optional[Tag]) -> Optional[datetime]:
+    if not first_table:
+        return None
+    text = first_table.get_text(" ", strip=True)
+    match = re.search(r"Lasta adapto de tiu ĉi paĝo:\s*(\d{4}-\d{2}-\d{2})", text)
+    if not match:
+        return None
+    try:
+        return datetime.strptime(match.group(1), "%Y-%m-%d")
+    except ValueError:
+        return None
+
+
+def _fetch_archived_copy(url: str, session: requests.Session, timeout: int) -> Optional[requests.Response]:
+    """
+    Fetch a snapshot from the Internet Archive when the live article is gone.
+    """
+    params = {
+        "url": url,
+        "output": "json",
+        "filter": "statuscode:200",
+        "collapse": "digest",
+        "limit": "50",
+    }
+    data = None
+    for attempt in range(3):
+        try:
+            resp = session.get(WAYBACK_CDX_ENDPOINT, params=params, timeout=timeout)
+            resp.raise_for_status()
+            data = resp.json()
+            break
+        except Exception as exc:  # noqa: BLE001
+            logging.warning("Wayback lookup failed for %s (attempt %s/3): %s", url, attempt + 1, exc)
+            if attempt == 2:
+                return None
+            time.sleep(1 + attempt)
+    entries = data[1:] if isinstance(data, list) and len(data) > 1 else []
+    if not entries:
+        return None
+    # Pick the most recent snapshot (last row).
+    timestamp = entries[-1][1]
+    snapshot_url = WAYBACK_SNAPSHOT_URL.format(timestamp=timestamp, original=url)
+    for attempt in range(3):
+        try:
+            snap = session.get(snapshot_url, timeout=timeout)
+            if snap.status_code == 200:
+                logging.info("Served %s via Wayback snapshot %s", url, timestamp)
+                return snap
+        except Exception as exc:  # noqa: BLE001
+            logging.warning("Wayback snapshot fetch failed for %s (attempt %s/3): %s", url, attempt + 1, exc)
+        time.sleep(1 + attempt)
+    return None
 
 
 __all__ = [

@@ -490,6 +490,9 @@ def collect_from_feed(cfg: ScrapeConfig, s: Optional[requests.Session] = None) -
             seen.add(link)
             added_this_page += 1
         _progress(f"[FEED] page {page}: 取得 {added_this_page} 件 (累計 {len(results)})")
+        if added_this_page == 0:
+            _progress("[FEED] 新規URLが得られなかったため終了します")
+            break
         # 範囲外まで到達したと判断できる場合は終了
         if stop_due_to_date and all((dt and dt.date() < cfg.start_date) for _, dt in results[-min(len(parsed.entries), 20):] if dt):
             break
